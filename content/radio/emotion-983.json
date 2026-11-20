@@ -1,0 +1,23 @@
+{
+  "id": "radio-emotion-983",
+  "name": "Emotion 98.3",
+  "slug": "emotion-983",
+  "category": "radio",
+  "aliases": ["Emotion FM", "98.3 Emotion"],
+  "summary": "Classic adult contemporary and power ballad station returning with emotional love songs, smooth rock, and hilarious introspective relationship advice.",
+  "description": "Originally hosted by Fernando Martinez in 1980s Vice City, Emotion 98.3 is celebrated for dramatic power ballads and melancholic guitar solos. Perfect for romantic sunset drives across the Overseas Highway bridges of the Leonida Keys, the station provides comedic juxtaposition to the criminal exploits of Lucia and Jason.",
+  "genre": "Power Ballads, Soft Rock, Soul Anthems",
+  "host": "Fernando Martinez",
+  "broadcastRegion": "Leonida Keys, Vice City, Ambrosia",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": ["radio", "music", "soft-rock", "ballads", "emotion-fm", "legacy"],
+  "relatedEntityIds": ["loc-leonida-keys", "loc-vice-city"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Emotion 98.3: Ballads & Soft Rock",
+    "description": "Emotion 98.3 guide for GTA VI. Complete tracklist of power ballads, Fernando Martinez host details, and nostalgic Vice City connections."
+  }
+}

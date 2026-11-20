@@ -1,0 +1,44 @@
+{
+  "id": "fauna-deer",
+  "name": "White-Tailed Deer",
+  "slug": "white-tailed-deer",
+  "category": "wildlife",
+  "aliases": [
+    "Leonida Key Deer",
+    "Forest Buck"
+  ],
+  "summary": "Herbivorous woodland ungulate found throughout northern pine forests of Mount Kalaga and rural brushlands of Ambrosia. Can cause vehicle collisions on remote highways.",
+  "description": "Populating the upland forests and agricultural pastures of northern Leonida, White-Tailed Deer graze in small herds along tree lines. During nocturnal driving on country routes, deer will dart across traffic, posing a real hazard to high-speed vehicles. Players hunting in Mount Kalaga can harvest high-grade pelts and venison.",
+  "habitat": "Mount Kalaga National Park, Ambrosia agricultural outskirts",
+  "threatLevel": "Cautious / Flees on sight",
+  "drops": [
+    "Deer Pelt",
+    "Venison",
+    "Antler Trophy"
+  ],
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+    "wildlife",
+    "fauna",
+    "deer",
+    "mount-kalaga",
+    "ambrosia",
+    "hunting"
+  ],
+  "relatedEntityIds": [
+    "loc-mount-kalaga",
+    "loc-ambrosia"
+  ],
+  "sourceIds": [
+    "src-trailer-1"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "White-Tailed Deer: Wildlife & Hunting Guide",
+    "description": "White-Tailed Deer in GTA VI. Spawning locations around Mount Kalaga and Ambrosia, vehicle hazard mechanics, and hunting tips."
+  },
+  "image": "/images/wildlife/white-tailed-deer.jpg",
+  "thumbnail": "/images/wildlife/white-tailed-deer.jpg"
+}

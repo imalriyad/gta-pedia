@@ -1,0 +1,25 @@
+{
+  "id": "wep-klose-k17",
+  "name": "Klose K17 Pistol",
+  "slug": "klose-k17-pistol",
+  "category": "weapons",
+  "aliases": ["Klose 17", "Glock 17", "Combat 9mm"],
+  "summary": "Dependable polymer-frame striker-fired semi-automatic pistol chambered in 9x19mm Parabellum, serving as the standard service sidearm across Leonida.",
+  "description": "Inspired directly by the Glock 17, the Klose K17 is the ubiquitous workhorse sidearm of Vice City law enforcement and criminals alike. Boasting a standard 17-round magazine, lightweight polymer construction, and rapid cycling speeds, it is the primary concealable handgun used by Lucia and Jason in early robberies.",
+  "weaponClass": "Pistol",
+  "capacity": "17 Rounds (Extendable to 33)",
+  "thumbnail": "/images/cards/update-secret-ending.png",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["weapons", "pistol", "glock", "klose", "semi-auto", "concealed"],
+  "relatedEntityIds": ["wep-mustang-357", "wep-duke-556", "char-lucia"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-04-16T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Klose K17 Pistol: Specs, Fire Rate & Customization",
+    "description": "Full details on the Klose K17 Pistol in GTA VI. Glock-inspired polymer sidearm stats, magazine extensions, suppressors, and locations."
+  }
+}
+

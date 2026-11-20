@@ -1,0 +1,38 @@
+{
+  "id": "brand-patriot-beer",
+  "name": "Patriot Beer",
+  "slug": "patriot-beer",
+  "category": "brands",
+  "aliases": [
+    "Patriot 500",
+    "American Lager"
+  ],
+  "summary": "Aggressively patriotic domestic American beer favored by rural Leonida locals, mud bogging enthusiasts, and biker gangs in Ambrosia.",
+  "description": "Patriot Beer is the ubiquitous domestic brew of rural Leonida. Sponsoring events at the Thrillbilly Mud Club and plastered over local stock cars, Patriot Beer commercials parody extreme hyper-nationalistic beverage marketing. Empty cans and promotional neon signs scatter across Ambrosia trailers and roadside bars.",
+  "industry": "Alcoholic Beverages / Domestic Brewing",
+  "slogan": "Tastes Like Freedom!",
+  "headquarters": "Ambrosia Industrial District",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+    "brand",
+    "company",
+    "patriot-beer",
+    "ambrosia",
+    "thrillbilly",
+    "parody"
+  ],
+  "relatedEntityIds": [
+    "loc-ambrosia",
+    "act-off-road-racing"
+  ],
+  "sourceIds": [
+    "src-trailer-1"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Patriot Beer Brand: GTA VI Rural Brewing Lore",
+    "description": "Discover Patriot Beer in GTA VI. Thrillbilly Mud Club sponsorships, Ambrosia county locations, and satirical American beer branding."
+  }
+}

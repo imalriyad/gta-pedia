@@ -1,0 +1,29 @@
+{
+  "id": "char-stefanie",
+  "name": "Stefanie Gates",
+  "slug": "stefanie-gates",
+  "category": "characters",
+  "aliases": ["Stefanie", "Counselor Gates"],
+  "summary": "Social worker and correctional counselor at the Leonida Department of Corrections, seen questioning Lucia during her incarceration.",
+  "description": "Stefanie Gates is the first speaking character introduced in the debut trailer of Grand Theft Auto VI. Seated behind a secure desk at the Leonida Department of Corrections with her nameplate visible, Stefanie asks Lucia if she understands why she is in prison, to which Lucia pragmatically replies, 'Bad luck, I guess.' Her role bridges Lucia's prison background to her eventual return to Vice City's criminal underworld.",
+  "role": "Correctional Counselor & Social Worker",
+  "affiliations": ["Leonida Department of Corrections"],
+  "knownLocations": ["loc-vice-city", "Leonida State Penitentiary"],
+  "voiceActor": "Unconfirmed",
+  "personality": "Observant, professional, skeptical, empathetic yet firm.",
+  "thumbnail": "/images/characters/lucia-caminos.jpg",
+  "image": "/images/characters/lucia-caminos.jpg",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 1,
+  "tags": ["characters", "counselor", "prison", "leonida", "lucia"],
+  "relatedEntityIds": ["char-lucia", "loc-vice-city"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-01-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Stefanie Gates: Role, Background & Lore",
+    "description": "Profile of Stefanie Gates, correctional counselor at the Leonida Department of Corrections in GTA VI. Trailer dialogue, role, and analysis."
+  }
+}
+

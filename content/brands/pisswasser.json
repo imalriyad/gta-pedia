@@ -1,0 +1,23 @@
+{
+  "id": "brand-pisswasser",
+  "name": "Pißwasser",
+  "slug": "pisswasser",
+  "category": "brands",
+  "aliases": ["Pisswasser Beer", "Export Lager"],
+  "summary": "Satirical German export lager celebrated for excessive alcohol content and ridiculously patriotic marketing. Available at bars and convenience stores statewide.",
+  "description": "Pißwasser ('You're in for a good time!') remains the Grand Theft Auto series' preeminent satirical beer brand. In GTA VI, neon Pißwasser signs illuminate beachside taverns across Ocean Beach, while delivery vans navigate between rural Ambrosia roadhouses. In-game radio commercials feature raucous Bavarian singing and outrageous satirical jingles.",
+  "industry": "Alcoholic Beverages / Brewing",
+  "slogan": "You're in for a good time!",
+  "headquarters": "Munich (In-universe import)",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["brand", "company", "pisswasser", "beer", "alcohol", "parody"],
+  "relatedEntityIds": ["loc-ocean-beach", "loc-ambrosia"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Pißwasser Beer Brand: GTA VI Lore & Ads",
+    "description": "History and appearance of Pißwasser German lager in GTA VI. Verified bar locations, radio commercial parodies, and delivery vehicles."
+  }
+}

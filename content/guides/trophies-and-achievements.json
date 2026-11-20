@@ -1,0 +1,72 @@
+{
+  "id": "guide-trophies",
+  "name": "Trophy and Achievement Roadmap",
+  "slug": "trophies-and-achievements",
+  "category": "guides",
+  "aliases": [
+    "Trophy Guide",
+    "Achievement Roadmap",
+    "Trophies"
+  ],
+  "summary": "A completion-focused route for tracking trophies separately from 100% game completion and protecting potentially missable progress.",
+  "description": "Launch-era trophy guides list 55 offline trophies: one Platinum, two Gold, six Silver, and 46 Bronze. Trophy completion and the in-game 100% checklist are different goals. The trophy roadmap flags a potentially missable early meditation; make a manual save and consult the live roadmap before leaving Chapter 1 if you want a clean one-playthrough run.",
+  "difficulty": "Hard",
+  "estimatedTime": "80-120 Hours",
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Decide whether to pursue one playthrough",
+      "content": "If trophy completion matters, review the current trophy roadmap before beginning. Keep a manual save around chapter transitions and complete optional activities when they appear.",
+      "tip": "The game’s own checklist is not the same as the trophy list."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Protect early optional activities",
+      "content": "The published roadmap warns that an early meditation may be missable. Do the activity when first available, then verify its trophy pop or tracker entry.",
+      "tip": "The exact missable status can change with patches; check the current roadmap."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Complete the story and clean up in free roam",
+      "content": "Use post-story free roam to finish open-world trophies and checklist categories. Track story, activities, collectibles, and challenges independently.",
+      "tip": "Launch guides report no mission replay, so preserve manual saves if you want to revisit story-specific content."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Use the trophy list for final verification",
+      "content": "Compare each platform trophy/achievement against the roadmap and confirm the final unlock on your console profile.",
+      "tip": "Do not rely only on the wiki tracker; it is stored locally in your browser."
+    }
+  ],
+  "requirements": [
+    "Review the current trophy roadmap before leaving Chapter 1 if pursuing a one-playthrough run.",
+    "Keep a manual save at major story transitions."
+  ],
+  "commonMistakes": [
+    "Assuming 100% checklist completion automatically awards every trophy.",
+    "Leaving an early optional activity without checking the missable warning."
+  ],
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 1,
+  "tags": [
+    "guide",
+    "trophies",
+    "achievements",
+    "completion"
+  ],
+  "relatedEntityIds": [
+    "guide-100-completion",
+    "act-base-jumping",
+    "col-all-collectibles"
+  ],
+  "sourceIds": [
+    "src-powerpyx-trophies",
+    "src-powerpyx-100"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Trophy and Achievement Roadmap",
+    "description": "A completion-focused route for tracking trophies separately from 100% game completion and protecting potentially missable progress."
+  }
+}

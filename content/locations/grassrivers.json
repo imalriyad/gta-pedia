@@ -1,0 +1,60 @@
+{
+  "id": "loc-grassrivers",
+  "name": "The Grassrivers",
+  "slug": "the-grassrivers",
+  "category": "locations",
+  "aliases": [
+    "Grassrivers Wetlands",
+    "Leonida Swamplands",
+    "The Everglades"
+  ],
+  "summary": "Leonida's sprawling flooded wetland wilderness of sawgrass, murky mangrove channels, aggressive alligators, and high-speed airboats.",
+  "description": "Inspired by the Florida Everglades, The Grassrivers represents the treacherous wild core of southern Leonida. Shallow mud banks and dense mangrove forests make conventional vehicles unusable, requiring specialized flat-bottom airboats. The region is home to dangerous wildlife, poacher camps, submerged wreckage, and hidden contraband drops.",
+  "region": "State of Leonida",
+  "district": "Grassrivers Basin",
+  "locationType": "Swamp & Wetland Wilderness",
+  "landmarks": [
+    "Alligator Alley",
+    "Sawgrass Observation Tower",
+    "Poacher's Slough",
+    "Submerged Cargo Barge"
+  ],
+  "businesses": [
+    "Leonida Swamp Tours",
+    "Chuck's Bait & Ammo"
+  ],
+  "activities": [
+    "Airboat Racing",
+    "Alligator Hunting",
+    "Poacher Cache Retrieval",
+    "Wetland Navigation"
+  ],
+  "thumbnail": "/images/locations/grassrivers-01-1920.webp",
+  "image": "/images/locations/grassrivers-01-1920.webp",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": [
+    "locations",
+    "grassrivers",
+    "swamp",
+    "alligators",
+    "airboats",
+    "wetlands"
+  ],
+  "relatedEntityIds": [
+    "loc-vice-city",
+    "veh-airboat",
+    "guide-grassrivers-survival"
+  ],
+  "sourceIds": [
+    "src-trailer-1",
+    "src-press-release-1"
+  ],
+  "firstPublishedAt": "2024-03-22T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "The Grassrivers: Swamps, Airboats & Alligators",
+    "description": "Full guide to The Grassrivers in GTA VI. Explore the Everglades wetlands, airboat locations, wildlife danger zones, and hidden caches."
+  }
+}

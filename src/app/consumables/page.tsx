@@ -1,0 +1,16 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import { ArrowUpRight, PackageOpen } from "lucide-react";
+import { Breadcrumbs } from "@/components/wiki/Breadcrumbs";
+import { getEntitiesByCategory } from "@/content/repositories";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/consumables" }, title: "GTA 6 Consumables & Supplies in Leonida", description: "What is known and still unknown about food, drink, and usable supplies in Leonida." };
+
+export default function ConsumablesPage() {
+  const brands = getEntitiesByCategory("brands");
+  return <div className="container-x py-8 md:py-12"><Breadcrumbs items={[{ label: "Consumables", href: "/consumables" }]} /><header className="mt-8 max-w-4xl"><div className="flex items-center gap-3"><PackageOpen className="h-4 w-4 text-teal"/><p className="eyebrow text-teal">Food · drink · usable items</p></div><h1 className="mt-4 display text-5xl text-paper md:text-7xl">Small things<br/>keep you <span className="serif italic text-coral">moving.</span></h1><p className="mt-5 max-w-2xl text-sm leading-relaxed text-muted">A living index for everyday goods across Leonida. Official trailers show convenience stores, drinks, and roadside stops, but a complete item list and health or inventory effects are not established in the sources catalogued here. We keep those questions open until stronger evidence appears.</p></header>
+    <section className="mt-10 border border-line bg-ink-2 p-6 md:p-8"><p className="eyebrow text-coral">What the archive can document today</p><div className="mt-6 grid gap-4 sm:grid-cols-3"><div className="border-t border-coral/40 pt-3"><h2 className="font-display text-lg text-paper">Storefronts</h2><p className="mt-2 text-xs leading-relaxed text-muted">Everyday retail and familiar chains help establish the texture of the streetscape.</p></div><div className="border-t border-teal/40 pt-3"><h2 className="font-display text-lg text-paper">Food & drink brands</h2><p className="mt-2 text-xs leading-relaxed text-muted">Fictional products and packaging are filed under brands when a name or logo is legible.</p></div><div className="border-t border-gold/40 pt-3"><h2 className="font-display text-lg text-paper">Player effects</h2><p className="mt-2 text-xs leading-relaxed text-muted">Effects, restocking, and carrying limits remain unverified until gameplay evidence is available.</p></div></div></section>
+    <section className="mt-10"><div className="flex items-end justify-between border-b border-line pb-3"><h2 className="font-display text-2xl text-paper">Related brand files</h2><span className="eyebrow">{brands.length} documented records</span></div><div className="mt-3 grid gap-x-8 sm:grid-cols-2 lg:grid-cols-3">{brands.map(brand=><Link key={brand.id} href={`/brands/${brand.slug}`} className="group flex items-start justify-between gap-4 border-b border-line-soft py-4"><div><h3 className="font-display text-lg text-paper group-hover:text-coral">{brand.name}</h3><p className="mt-1 line-clamp-2 text-xs leading-relaxed text-muted">{brand.summary}</p></div><ArrowUpRight className="mt-1 h-4 w-4 shrink-0 text-faint group-hover:text-coral"/></Link>)}</div></section>
+  </div>;
+}

@@ -1,0 +1,32 @@
+{
+  "id": "act-scuba-diving",
+  "name": "Scuba Diving",
+  "slug": "scuba-diving",
+  "category": "activities",
+  "aliases": [],
+  "summary": "Promotional footage shows a scuba diver exploring an underwater environment, with an O₂ meter visible in the HUD.",
+  "description": "Promotional footage shows a scuba diver exploring an underwater environment, with an O₂ meter visible in the HUD.",
+  "activityType": "Side Mission",
+  "location": "Coastal waters; exact sites unknown",
+  "difficulty": "3/5",
+  "players": "Solo",
+  "sharedActivity": false,
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "side-mission"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Scuba Diving",
+    "description": "Scuba diving appears in the activity index. The game’s underwater environments are shown in promotional imagery, but dive objectives and rewards remain unk"
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/08/Scuba-diving-in-gta-6-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/08/Scuba-diving-in-gta-6-1024x576.jpg"
+}

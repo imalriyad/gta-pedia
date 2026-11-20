@@ -1,0 +1,32 @@
+{
+  "id": "act-kayaking",
+  "name": "Kayaking",
+  "slug": "kayaking",
+  "category": "activities",
+  "aliases": [],
+  "summary": "Jason and Lucia are shown kayaking together in promotional footage. The reference catalog groups kayaking with side missions and lists a low difficulty rating; quest details are not established here.",
+  "description": "Jason and Lucia are shown kayaking together in promotional footage. The reference catalog groups kayaking with side missions and lists a low difficulty rating; quest details are not established here.",
+  "activityType": "Side Mission",
+  "location": "Leonida waterways",
+  "difficulty": "1/5",
+  "players": "Solo",
+  "sharedActivity": true,
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "side-mission"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Kayaking",
+    "description": "Jason and Lucia are shown kayaking together in promotional footage. The reference catalog groups kayaking with side missions and lists a low difficulty rat"
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/Kayaking-in-Mount-Kalaga-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/Kayaking-in-Mount-Kalaga-1024x576.jpg"
+}

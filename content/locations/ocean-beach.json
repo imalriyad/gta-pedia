@@ -1,0 +1,29 @@
+{
+  "id": "loc-ocean-beach",
+  "name": "Ocean Beach",
+  "slug": "ocean-beach",
+  "category": "locations",
+  "aliases": ["Vice Beach", "South Beach strip"],
+  "summary": "The postcard coastal strip of Vice City celebrated for pastel Art Deco architecture, supercars cruising Ocean Drive, and sprawling sunny shorelines.",
+  "description": "Ocean Beach features white sand coastlines teeming with beachgoers, rollerbladers, and lifeguard towers flanked by palm trees. By night, Ocean Drive illuminates in brilliant pink, turquoise, and violet neon, serving as the social hub for exotic vehicle showcases.",
+  "region": "Vice City",
+  "district": "Ocean Beach",
+  "locationType": "Coastal District",
+  "landmarks": ["Ocean Drive Promenade", "Art Deco Hotel Row", "Lummus Waterfront Park"],
+  "businesses": ["Decker Luxury Motors", "Beachside Tiki Bars", "High-End Boutiques"],
+  "activities": ["Cruising", "Beach Sports", "Street Races", "Nightlife"],
+  "thumbnail": "/images/cards/explore-locations.png",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["beach", "ocean-drive", "vice-city", "supercars"],
+  "relatedEntityIds": ["loc-vice-city", "loc-malibu-club", "veh-cheetah"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-03-12T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Ocean Beach: Ocean Drive & Coastal Guide",
+    "description": "Discover Ocean Beach in GTA VI. Guide to Ocean Drive luxury hotels, cruising strips, beach activities, and landmarks."
+  }
+}
+

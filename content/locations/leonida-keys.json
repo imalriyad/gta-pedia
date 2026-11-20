@@ -1,0 +1,62 @@
+{
+  "id": "loc-leonida-keys",
+  "name": "The Leonida Keys",
+  "slug": "the-leonida-keys",
+  "category": "locations",
+  "aliases": [
+    "The Keys",
+    "Southern Keys",
+    "Leonida Archipelago"
+  ],
+  "summary": "Leonida's tropical island chain featuring open-air tiki bars, stilt houses, shallow coral channels, and historic smuggling waterways.",
+  "description": "Stretching southwest from the tip of the Leonida mainland, the Leonida Keys are connected by the Overseas Highway bridge system. Characterized by turquoise waters, marinas, seafood joints, and clandestine smuggler hideouts, the Keys operate under their own relaxed, lawless tempo. It serves as an early operational sanctuary for Jason and his associates Brian Heder and Cal Hampton.",
+  "region": "State of Leonida",
+  "district": "Keys District",
+  "locationType": "Archipelago & Island Chain",
+  "landmarks": [
+    "Overseas Highway Bridges",
+    "Brian Heder's Boatyard",
+    "Key Mariner Reef",
+    "Cal Hampton's Stilt Shack"
+  ],
+  "businesses": [
+    "Heder Marine Services",
+    "Conch Republic Dive Shop",
+    "Pelican Tiki Bar"
+  ],
+  "activities": [
+    "Deep-Sea Fishing",
+    "Scuba Diving",
+    "Speedboat Smuggling",
+    "Seaplane Landing"
+  ],
+  "thumbnail": "/images/locations/leonida-keys-01-1920.webp",
+  "image": "/images/locations/leonida-keys-01-1920.webp",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": [
+    "locations",
+    "keys",
+    "islands",
+    "ocean",
+    "smuggling",
+    "bridges"
+  ],
+  "relatedEntityIds": [
+    "char-jason",
+    "char-cal-hampton",
+    "char-brian-heder",
+    "loc-vice-city"
+  ],
+  "sourceIds": [
+    "src-trailer-1",
+    "src-press-release-1"
+  ],
+  "firstPublishedAt": "2024-03-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "The Leonida Keys: Map, Bridges & Smuggler Docks",
+    "description": "Comprehensive guide to The Leonida Keys in GTA VI. Islands, Overseas Highway, boatyard docks, fishing activities, and secrets."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "act-8-ball-pool",
+  "name": "8-Ball Pool",
+  "slug": "8-ball-pool",
+  "category": "activities",
+  "aliases": [],
+  "summary": "Jason and Cal Hampton appear at a pool table in official promotional imagery. Pool is a possible activity; playable rules and rewards remain uncertain.",
+  "description": "Jason and Cal Hampton appear at a pool table in official promotional imagery. Pool is a possible activity; playable rules and rewards remain uncertain.",
+  "activityType": "Sport",
+  "location": "Leonida Keys; Vice City",
+  "difficulty": "4/5",
+  "players": "Solo",
+  "sharedActivity": false,
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "sport"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "8-Ball Pool",
+    "description": "Pool is shown in Rockstar promotional material, including Jason and Cal Hampton at a table. The reference catalog lists it as an activity, but the playable"
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/03/Cal-Hampton-playing-pool-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/03/Cal-Hampton-playing-pool-1024x576.jpg"
+}

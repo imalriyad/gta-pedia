@@ -1,0 +1,25 @@
+{
+  "id": "wep-baseball-bat",
+  "name": "Baseball Bat",
+  "slug": "baseball-bat",
+  "category": "weapons",
+  "aliases": ["Wood Bat", "Aluminum Bat", "Slugger"],
+  "summary": "Classic blunt-force melee weapon capable of silent incapacitation, shattering shop windows, and devastating close-range brawls.",
+  "description": "A staple of the Grand Theft Auto franchise, the Baseball Bat returns in GTA VI with visceral impact physics, bone-cracking sound design, and custom street wrap modifications. Found behind sports shops, batting cages, and in vehicle trunks across Leonida.",
+  "weaponClass": "Melee",
+  "capacity": "Infinite Durability",
+  "thumbnail": "/images/cards/update-secret-ending.png",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["weapons", "melee", "blunt", "brawling", "bat"],
+  "relatedEntityIds": ["wep-klose-k17"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-04-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Baseball Bat: Melee Stats & Spawn Locations",
+    "description": "Find the Baseball Bat in GTA VI. Melee combat mechanics, trunk storage, takedown animations, and sports store locations."
+  }
+}
+

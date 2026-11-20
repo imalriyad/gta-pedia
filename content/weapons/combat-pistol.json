@@ -1,0 +1,26 @@
+{
+  "id": "wpn-combat-pistol",
+  "name": "Combat Pistol",
+  "slug": "combat-pistol",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "High-capacity semi-auto pistol with armor-piercing rounds. Favored by Vice City cartel enforcers seen in trailer briefcases and holsters.",
+  "description": "The Combat Pistol is a high-capacity semi-automatic pistol modeled on the FN Five-seveN, chambered for armor-piercing ammunition that defeats light body armor. Its 20-round magazine and low recoil make it one of the most effective sidearms in GTA VI. Cartel enforcers are seen carrying it holstered and in briefcase handoffs throughout the Vice City trailer sequences.",
+  "weaponClass": "Pistol",
+  "capacity": "20 rounds",
+  "realWorldInspiration": "FN Five-seveN",
+  "thumbnail": "/images/cards/update-secret-ending.png",
+  "image": "/images/hero/hero-banner.png",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": ["pistol", "semi-auto", "armor-piercing", "sidearm"],
+  "relatedEntityIds": [],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2026-11-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Combat Pistol: Stats & Locations",
+    "description": "Full profile of the Combat Pistol in GTA VI. Magazine capacity, armor-piercing stats, and where Vice City cartel enforcers carry this semi-automatic sidearm."
+  }
+}

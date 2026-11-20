@@ -1,0 +1,25 @@
+{
+  "id": "veh-muscle-truck",
+  "name": "Declasse Muscle Truck",
+  "slug": "muscle-truck",
+  "category": "vehicles",
+  "aliases": [],
+  "summary": "Heavy-duty American muscle truck with lifted suspension. Popular in Port Gellhorn and Ambrosia. Can be used to ram police roadblocks.",
+  "description": "The Declasse Muscle Truck is a heavy-duty American pickup inspired by 1970s Chevrolet C/K trucks, fitted with a lifted suspension, oversized all-terrain tires, and a high-torque V8. It is a common sight in Port Gellhorn and Ambrosia County, favored by locals and outlaws alike. Its mass and suspension travel make it effective at ramming through police roadblocks and navigating rough rural terrain.",
+  "vehicleClass": "Truck",
+  "manufacturer": "Declasse",
+  "realWorldInspiration": "1970s Chevrolet C/K pickup",
+  "thumbnail": "/images/cards/explore-activities.png",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": ["vehicles", "truck", "declasse", "muscle", "off-road", "port-gellhorn"],
+  "relatedEntityIds": [],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2026-11-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Declasse Muscle Truck: Specs & Locations",
+    "description": "Full details on the Declasse Muscle Truck in GTA VI. Performance stats, locations in Port Gellhorn and Ambrosia, and tips for ramming police roadblocks."
+  }
+}

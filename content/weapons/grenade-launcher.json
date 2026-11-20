@@ -1,0 +1,25 @@
+{
+  "id": "wpn-grenade-launcher",
+  "name": "Grenade Launcher",
+  "slug": "grenade-launcher",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "Single-shot break-action grenade launcher seen in GTA VI Trailer 2. Fires 40mm explosive rounds. Effective against armored vehicles and groups.",
+  "description": "The Grenade Launcher is a break-action single-shot heavy weapon chambered for 40mm explosive rounds. Confirmed in GTA VI Trailer 2 footage, it delivers devastating area-of-effect damage capable of disabling armored vehicles in one hit and eliminating clustered enemies. Its 6-round reload capacity and wide blast radius make it the go-to choice for crowd control and vehicle takedowns.",
+  "weaponClass": "Heavy",
+  "capacity": "6 rounds",
+  "thumbnail": "/images/cards/update-secret-ending.png",
+  "image": "/images/hero/hero-banner.png",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": ["heavy", "explosive", "grenade", "launcher"],
+  "relatedEntityIds": [],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2026-11-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Grenade Launcher: Stats & Locations",
+    "description": "Complete profile of the Grenade Launcher in GTA VI. Blast radius, damage, reload speed, and locations to obtain this heavy explosive weapon in Leonida."
+  }
+}

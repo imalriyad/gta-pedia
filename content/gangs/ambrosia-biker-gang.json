@@ -1,0 +1,23 @@
+{
+  "id": "gang-ambrosia-bikers",
+  "name": "Ambrosia Biker Gang",
+  "slug": "ambrosia-biker-gang",
+  "category": "gangs",
+  "aliases": ["The Ambrosians","Swamp Riders"],
+  "summary": "Violent outlaw motorcycle club operating across rural Ambrosia and southern Leonida. Control illegal weapon and drug manufacturing operations in the Leonida wetlands.",
+  "description": "The Ambrosia Biker Gang is a heavily armed outlaw MC with chapters across rural Leonida. They run methamphetamine labs, illegal gun manufacturing, and protection rackets throughout Ambrosia county. Their heavily fortified compound in the Ambrosia wetlands serves as the site of GTA VI's Stash House Raid mission. They are openly hostile to outside criminal operators, making them frequent adversaries of Lucia and Jason.",
+  "territory": "Ambrosia County, Southern Leonida wetlands, rural highways",
+  "knownMembers": ["Multiple unnamed enforcers seen in trailers"],
+  "rivalFactions": ["Vice City Street Crew","Leonida Cartel","LCSO"],
+  "status": "archived",
+  "verificationStatus": "speculation",
+  "spoilerLevel": 0,
+  "tags": ["gang","ambrosia","bikers","outlaw-mc","weapons","drugs"],
+  "relatedEntityIds": ["loc-ambrosia","loc-grassrivers"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Ambrosia Biker Gang",
+    "description": "Complete profile of the Ambrosia Biker Gang in GTA VI. Territory, operations, and their role as adversaries in Lucia and Jason's story."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "gang-final-chapter-mc",
+  "name": "Final Chapter MC",
+  "slug": "final-chapter-mc",
+  "category": "gangs",
+  "aliases": [
+    "Final Chapter Motorcycle Club",
+    "Final Chapter"
+  ],
+  "summary": "A motorcycle club associated with Ambrosia. Rockstar imagery shows members riding together; a jacket patch dates the club to 1982.",
+  "description": "Final Chapter is a motorcycle club based in Ambrosia, as seen in Rockstar screenshots. A visible member wears an ENFORCER patch, and another jacket shows 1982. These visual details suggest club structure and a founding date, but the club’s operations, leadership, and mission role are not yet established.",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/The-Final-Chapter-MC-Gang-1024x576.jpg",
+  "territory": "Ambrosia (reported location)",
+  "knownMembers": [
+    "Unnamed members shown in Rockstar imagery"
+  ],
+  "rivalFactions": [],
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": [
+    "gang",
+    "biker gang",
+    "motorcycle club",
+    "ambrosia",
+    "1982"
+  ],
+  "relatedEntityIds": [
+    "loc-ambrosia"
+  ],
+  "sourceIds": [
+    "src-gta6bible-gangs"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Final Chapter MC Profile",
+    "description": "Evidence-led profile of the Final Chapter motorcycle club, its Ambrosia setting, and visible identifiers."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "wpn-switchblade",
+  "name": "Switchblade",
+  "slug": "switchblade",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "Compact folding knife carried by Lucia in multiple trailer scenes. Fast attack speed and can be used while sprinting.",
+  "description": "The Switchblade is a compact spring-assisted folding knife seen in Lucia's possession across multiple GTA VI trailer scenes. Classified as a melee weapon, it features an exceptionally fast attack animation and can be deployed and used while sprinting, making it ideal for quick takedowns in close quarters. Its concealable size means it can be carried without alerting NPCs.",
+  "weaponClass": "Melee",
+  "thumbnail": "/images/cards/update-secret-ending.png",
+  "image": "/images/hero/hero-banner.png",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": ["melee", "knife", "stealth", "close-combat"],
+  "relatedEntityIds": [],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2026-11-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Switchblade: Stats & Locations",
+    "description": "Full details on the Switchblade melee weapon in GTA VI. Attack speed, stealth mechanics, and how to obtain Lucia's signature folding knife."
+  }
+}

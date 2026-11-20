@@ -1,0 +1,62 @@
+{
+  "id": "guide-pc-version",
+  "name": "GTA VI on PC: Release and Requirements",
+  "slug": "pc-version",
+  "category": "guides",
+  "aliases": [
+    "PC Release Status",
+    "PC Requirements",
+    "GTA VI on PC"
+  ],
+  "summary": "Current platform status and what PC players can safely plan around.",
+  "description": "Rockstar’s official platform listing for GTA VI names PlayStation 5 and Xbox Series X|S. It does not currently publish a PC release date, minimum specifications, PC feature list, or pre-order details. Treat third-party dates and system requirements as speculation until Rockstar posts an official listing.",
+  "difficulty": "Easy",
+  "estimatedTime": "Reference",
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Check the official platform listing",
+      "content": "Use Rockstar’s GTA VI page to confirm currently announced platforms and release information.",
+      "tip": "An official store listing is stronger evidence than retailer placeholders."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Treat PC requirements as unannounced",
+      "content": "There are no official minimum or recommended PC specifications to compare against. Wait for a Rockstar PC announcement before upgrading hardware for this game.",
+      "tip": "Do not rely on system requirements copied between fan sites."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Recheck before making a purchase plan",
+      "content": "Check Rockstar Newswire and the official game page for a platform announcement, date, or PC feature details.",
+      "tip": "A console release date does not establish a PC release schedule."
+    }
+  ],
+  "requirements": [
+    "Check Rockstar’s official game page for announced platforms and requirements."
+  ],
+  "commonMistakes": [
+    "Buying hardware based on unofficial requirements.",
+    "Treating an unconfirmed date as an official release window."
+  ],
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "guide",
+    "pc",
+    "platforms",
+    "release"
+  ],
+  "relatedEntityIds": [
+    "guide-100-completion"
+  ],
+  "sourceIds": [
+    "src-pc-release-status"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "GTA VI on PC: Release and Requirements",
+    "description": "Current platform status and what PC players can safely plan around."
+  }
+}

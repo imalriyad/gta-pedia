@@ -1,0 +1,23 @@
+{
+  "id": "song-love-is-a-long-road",
+  "name": "Love Is a Long Road (Tom Petty)",
+  "slug": "love-is-a-long-road",
+  "category": "radio",
+  "aliases": ["Trailer 1 Song", "Tom Petty GTA VI Track"],
+  "summary": "Official theme song featured in the debut reveal trailer of Grand Theft Auto VI. Performed by legendary Florida-native rocker Tom Petty from his 1989 album Full Moon Fever.",
+  "description": "'Love Is a Long Road' serves as the emotional and thematic anchor of GTA VI's marketing debut. Released by Tom Petty in 1989, the driving guitar riffs and poignant lyrics about endurance, devotion, and high-stakes partnerships mirror the relationship between Lucia and Jason. Following the trailer release, the track experienced an 8,000% streaming surge worldwide, solidifying its place in video game history.",
+  "artist": "Tom Petty",
+  "album": "Full Moon Fever (1989)",
+  "featuredScene": "Official Reveal Trailer 1 (December 2023)",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["soundtrack", "song", "tom-petty", "trailer-1", "classic-rock", "official"],
+  "relatedEntityIds": ["char-lucia", "char-jason", "radio-leonida-rock"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Love Is a Long Road by Tom Petty | GTA VI Soundtrack",
+    "description": "Analysis and lyrics background of 'Love Is a Long Road' by Tom Petty, the official debut trailer song for Grand Theft Auto VI."
+  }
+}

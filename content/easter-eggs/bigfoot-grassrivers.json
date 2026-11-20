@@ -1,0 +1,25 @@
+{
+  "id": "ee-bigfoot-grassrivers",
+  "name": "Grassrivers Swamp Creature",
+  "slug": "bigfoot-grassrivers",
+  "category": "easter-eggs",
+  "aliases": ["Swamp Sasquatch", "Grassrivers Bigfoot", "Skunk Ape"],
+  "summary": "Community researchers report sightings of a towering bipedal figure in Grassrivers swamp during heavy nocturnal fog. An apparent homage to Florida's legendary Skunk Ape lore.",
+  "description": "Echoing the famous cryptid hunts of San Andreas and Mount Chiliad, Grassrivers features eerie reports of a heavy humanoid creature navigating dense cypress groves. Ambient audio cues and distorted footprints near remote bayou cabins fuel the mystery.",
+  "discoveryMethod": "Trek through northeastern Grassrivers wetlands on foot between 1 AM and 4 AM during thick fog.",
+  "discoveryLocation": "Deep Grassrivers Wetlands, Northeastern Leonida",
+  "prerequisites": "Dense fog weather condition during night hours.",
+  "evidence": "Eerie low-frequency vocalizations and transient silhouette appearances observed at long range.",
+  "interpretation": "Rockstar's satirical and atmospheric take on the Florida Everglades Skunk Ape legend.",
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 1,
+  "tags": ["easter-egg", "bigfoot", "grassrivers", "swamp", "cryptid", "mystery"],
+  "relatedEntityIds": ["loc-grassrivers"],
+  "sourceIds": ["src-community-mapping"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Grassrivers Swamp Creature Easter Egg",
+    "description": "Investigate the Grassrivers swamp monster Easter egg in GTA VI. Clues, fog weather triggers, nocturnal location coordinates, and evidence analysis."
+  }
+}

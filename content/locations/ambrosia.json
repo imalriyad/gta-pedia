@@ -1,0 +1,56 @@
+{
+  "id": "loc-ambrosia",
+  "name": "Ambrosia",
+  "slug": "ambrosia",
+  "category": "locations",
+  "aliases": [
+    "Ambrosia Sugar Mills",
+    "Ambrosia Town"
+  ],
+  "summary": "Leonida's industrial sugar-refinery company town, dominated by towering smokestacks, sprawling cane fields, and local biker gangs.",
+  "description": "Located in central rural Leonida, Ambrosia is an industrial agricultural town built around the massive Ambrosia Sugar Processing Complex. Heavy freight trains and cane haulers rumble through grimy streets flanked by worker barracks, roadside dive bars, and scrap yards. Law enforcement presence is minimal, allowing local motorcycle clubs and smuggling syndicates to control regional commerce.",
+  "region": "State of Leonida",
+  "district": "Kelly County",
+  "locationType": "Industrial Agricultural Town",
+  "landmarks": [
+    "Ambrosia Central Sugar Mill",
+    "Kelly County Rail Depot",
+    "Rust Belt Biker Saloon"
+  ],
+  "businesses": [
+    "Ambrosia Cane Processing",
+    "Redline Scrap & Auto",
+    "Diesel Diner"
+  ],
+  "activities": [
+    "Freight Train Hijacking",
+    "Biker Turf Raids",
+    "Industrial Infiltration"
+  ],
+  "thumbnail": "/images/locations/ambrosia-04-1920.webp",
+  "image": "/images/locations/ambrosia-04-1920.webp",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 1,
+  "tags": [
+    "locations",
+    "ambrosia",
+    "industry",
+    "factory",
+    "bikers",
+    "trains"
+  ],
+  "relatedEntityIds": [
+    "loc-vice-city",
+    "loc-port-gellhorn"
+  ],
+  "sourceIds": [
+    "src-press-release-1"
+  ],
+  "firstPublishedAt": "2024-03-25T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Ambrosia: Sugar Mills, Biker Territory & Map",
+    "description": "Complete guide to Ambrosia in GTA VI. Explore the central sugar refining district, freight rail yards, biker gangs, and industrial missions."
+  }
+}

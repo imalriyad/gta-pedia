@@ -1,0 +1,63 @@
+{
+  "id": "fauna-american-black-bear",
+  "name": "American Black Bear",
+  "slug": "american-black-bear",
+  "category": "wildlife",
+  "aliases": [
+    "Black Bear"
+  ],
+  "summary": "A defensive mammal recorded in Leonida. It is placed in forest and wetland habitats around Mount Kalaga.",
+  "description": "The reference page lists the American Black Bear under Hunting, classifies it as a mammal, and reports forest and wetland habitats around Mount Kalaga. It names the Shrewsbury SM-69 as a recommended weapon. These are source-reported details, not independently verified gameplay data.",
+  "image": "/images/wildlife/american-black-bear.jpg",
+  "thumbnail": "/images/wildlife/american-black-bear.jpg",
+  "habitat": "Forest and wetland (source-reported)",
+  "threatLevel": "Defensive",
+  "recommendedWeapon": "Shrewsbury SM-69",
+  "foundIn": "Mount Kalaga",
+  "facts": [
+    {
+      "label": "Category",
+      "value": "Hunting"
+    },
+    {
+      "label": "Class",
+      "value": "Mammal"
+    },
+    {
+      "label": "Recommended weapon",
+      "value": "Shrewsbury SM-69"
+    },
+    {
+      "label": "Key habitats",
+      "value": "Forest, Wetland"
+    },
+    {
+      "label": "Temperament",
+      "value": "Defensive"
+    },
+    {
+      "label": "Found in",
+      "value": "Mount Kalaga"
+    }
+  ],
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "wildlife",
+    "mammal",
+    "hunting",
+    "bear"
+  ],
+  "relatedEntityIds": [
+    "loc-mount-kalaga"
+  ],
+  "sourceIds": [
+    "src-gta6bible-animals"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "American Black Bear",
+    "description": "Source-noted GTA VI profile for the American Black Bear, including reported habitat and temperament."
+  }
+}

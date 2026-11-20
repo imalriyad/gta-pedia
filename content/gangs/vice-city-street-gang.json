@@ -1,0 +1,23 @@
+{
+  "id": "gang-vc-street",
+  "name": "Vice City Street Crew",
+  "slug": "vice-city-street-gang",
+  "category": "gangs",
+  "aliases": ["VC Street","The Crew"],
+  "summary": "Loosely organized Vice City street gang controlling the drug trade in Ocean Beach and Little Havana. Associates of Boobie Ike's entertainment empire and Real Dimez's rap collective.",
+  "description": "The Vice City Street Crew operates out of Ocean Beach, controlling retail drug distribution and protection rackets across Vice City's lower districts. Despite their loose structure, they maintain connections to larger cartel networks through Boobie Ike's legitimate businesses. Real Dimez uses their network for underground music promotion. Lucia and Jason work alongside — not for — the crew during several Vice City missions.",
+  "territory": "Ocean Beach, Little Havana, Vice City Docks",
+  "knownMembers": ["Boobie Ike (associate)", "Real Dimez (associate)"],
+  "rivalFactions": ["Ambrosia Biker Gang","LCSO"],
+  "status": "archived",
+  "verificationStatus": "speculation",
+  "spoilerLevel": 0,
+  "tags": ["gang","vice-city","ocean-beach","drug-trade","boobie-ike"],
+  "relatedEntityIds": ["char-boobie-ike","char-real-dimez","loc-vice-city","loc-ocean-beach"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Vice City Street Crew",
+    "description": "Learn about the Vice City Street Crew gang in GTA VI — their territory, members, and connections to Boobie Ike and Real Dimez."
+  }
+}

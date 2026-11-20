@@ -1,0 +1,44 @@
+{
+  "id": "fauna-alligator",
+  "name": "American Alligator",
+  "slug": "american-alligator",
+  "category": "wildlife",
+  "aliases": [
+    "Leonida Gator",
+    "Swamp Gator"
+  ],
+  "summary": "Apex reptilian predator native to the freshwater marshes of Grassrivers and suburban Leonida canals. Prominently featured in Trailer 1 swimming in backyard swimming pools and storm drains.",
+  "description": "The American Alligator is one of Grand Theft Auto VI's defining wildlife species, capturing the iconic Florida folklore of aggressive reptiles wandering into urban areas. In trailer footage, an animal control officer is shown dragging a massive alligator out of a suburban pool, and another lunges at patrons in a local convenience store. In the wild wetlands of Grassrivers, they pose fatal hazards to players on foot or swimming, though they can be hunted or lured toward rival gang members.",
+  "habitat": "The Grassrivers, Ambrosia canals, suburban pools",
+  "threatLevel": "Extremely Dangerous",
+  "drops": [
+    "Alligator Hide",
+    "Gator Meat",
+    "Teeth Trophy"
+  ],
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": [
+    "wildlife",
+    "fauna",
+    "alligator",
+    "grassrivers",
+    "predator",
+    "trailer-confirmed"
+  ],
+  "relatedEntityIds": [
+    "loc-grassrivers",
+    "act-airboating"
+  ],
+  "sourceIds": [
+    "src-trailer-1"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "American Alligator: Habitat & Behaviors",
+    "description": "Learn about the American Alligator in GTA VI. Verified locations across Grassrivers and Vice City, attack behaviors, hunting rewards, and trailer scenes."
+  },
+  "image": "https://www.gtabase.com/igallery/gta-6-screenshots-trailer/gta-6-trailer1-screenshot-08-leonida-1080.jpg",
+  "thumbnail": "https://www.gtabase.com/igallery/gta-6-screenshots-trailer/gta-6-trailer1-screenshot-08-leonida-1080.jpg"
+}

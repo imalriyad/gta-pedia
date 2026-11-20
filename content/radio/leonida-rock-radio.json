@@ -1,0 +1,23 @@
+{
+  "id": "radio-leonida-rock",
+  "name": "Leonida Classic Rock Radio",
+  "slug": "leonida-rock-radio",
+  "category": "radio",
+  "aliases": ["Leonida Rock", "96.7 The Rock"],
+  "summary": "High-octane southern rock, heartland anthems, and classic hard rock station celebrating legendary guitars and highway driving across rural Leonida.",
+  "description": "Broadcasting from the outskirts of Mount Kalaga down through the rural bayous of Ambrosia, Leonida Classic Rock Radio is the definitive soundtrack to highway road trips and off-road truck rallies. Home to Tom Petty's catalog, classic southern blues riffs, and gritty rock anthems, the station captures the rugged frontier spirit of the state.",
+  "genre": "Southern Rock, Classic Rock, Heartland Rock",
+  "host": "Kenny 'Wildcat' Vance",
+  "broadcastRegion": "Mount Kalaga, Ambrosia, Port Gellhorn",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": ["radio", "music", "classic-rock", "southern-rock", "highway", "soundtrack"],
+  "relatedEntityIds": ["loc-mount-kalaga", "loc-ambrosia", "song-love-is-a-long-road"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Leonida Classic Rock Radio: Tracklist & DJ",
+    "description": "Leonida Classic Rock Radio guide for GTA VI. Complete southern rock tracklist, Tom Petty tracks, and coverage throughout rural Leonida."
+  }
+}

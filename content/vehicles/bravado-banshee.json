@@ -1,0 +1,26 @@
+{
+  "id": "veh-banshee",
+  "name": "Bravado Banshee",
+  "slug": "bravado-banshee",
+  "category": "vehicles",
+  "aliases": ["Banshee", "Banshee Roadster"],
+  "summary": "The quintessential American sports car icon of the Grand Theft Auto franchise returns with modern aerodynamics and aggressive V10 roar.",
+  "description": "Featured cruising along Ocean Drive in neon nightlife trailers, the Bravado Banshee features sculpted carbon fiber accents, classic twin racing stripes, and rear-wheel-drive drift tuning perfectly suited for Vice City avenues.",
+  "vehicleClass": "Sports Car",
+  "manufacturer": "Bravado",
+  "realWorldInspiration": "Dodge Viper",
+  "thumbnail": "/images/cards/explore-activities.png",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["vehicles", "cars", "sports", "banshee", "bravado"],
+  "relatedEntityIds": ["loc-vice-city", "loc-ocean-beach", "char-jason"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-04-10T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Bravado Banshee: Specs, Customization & Locations",
+    "description": "Full details on the Bravado Banshee in GTA VI. Discover vehicle class, top speed benchmarks, tuning options, and where to find it in Vice City."
+  }
+}
+

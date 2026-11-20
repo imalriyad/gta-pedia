@@ -1,0 +1,55 @@
+{
+  "id": "msn-stash-house",
+  "name": "Gear Up",
+  "slug": "stash-house-raid",
+  "category": "missions",
+  "aliases": [
+    "The Stash",
+    "Ambrosia Score"
+  ],
+  "summary": "A main-story mission listed in launch walkthrough indexes. This page records the verified mission title while awaiting a fully sourced step-by-step walkthrough.",
+  "description": "Check the mission briefing for the required equipment and current objectives; do not rely on unsourced loadout recommendations.",
+  "missionType": "Main Story",
+  "protagonists": [
+    "char-lucia",
+    "char-jason"
+  ],
+  "difficulty": "See in-game mission",
+  "estimatedTime": "Not reliably published",
+  "rewards": [],
+  "objectives": [
+    "Follow the on-screen mission objectives",
+    "Check the linked walkthrough for current step-by-step details"
+  ],
+  "tips": [
+    "Use the in-game objective list as the authoritative source",
+    "Save before a major story transition if preserving progress matters"
+  ],
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 2,
+  "tags": [
+    "main-story",
+    "ambrosia",
+    "combat",
+    "raid",
+    "boobie-ike",
+    "raul-bautista"
+  ],
+  "relatedEntityIds": [
+    "char-lucia",
+    "char-jason",
+    "char-boobie-ike",
+    "char-raul-bautista",
+    "loc-ambrosia"
+  ],
+  "sourceIds": [
+    "src-powerpyx-walkthrough",
+    "src-pcgamer-missions"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Gear Up Mission",
+    "description": "A main-story mission listed in launch walkthrough indexes. This page records the verified mission title while awaiting a fully sourced step-by-step walkthrough."
+  }
+}

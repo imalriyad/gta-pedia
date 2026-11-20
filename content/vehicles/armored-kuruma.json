@@ -1,0 +1,25 @@
+{
+  "id": "veh-armored-kuruma",
+  "name": "Armored Kuruma",
+  "slug": "armored-kuruma",
+  "category": "vehicles",
+  "aliases": [],
+  "summary": "Bulletproof all-wheel-drive sedan upgraded with military-grade glass and door armor. Used by cartel in organized highway ambush scenes from Trailer 2.",
+  "description": "The Karin Armored Kuruma is an all-wheel-drive sports sedan inspired by the Mitsubishi Lancer Evo, retrofitted with military-grade bulletproof glass, reinforced door panels, and run-flat tires. Cartel operatives deploy it in organized highway ambush convoys seen in Trailer 2. Its combination of sports car handling and heavy protection makes it one of the most formidable ground vehicles in GTA VI.",
+  "vehicleClass": "Sports",
+  "manufacturer": "Karin",
+  "realWorldInspiration": "Mitsubishi Lancer Evo",
+  "thumbnail": "/images/cards/explore-activities.png",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": ["vehicles", "cars", "armored", "karin", "cartel", "awd"],
+  "relatedEntityIds": [],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2026-11-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Armored Kuruma: Specs & Locations",
+    "description": "Full profile of the Karin Armored Kuruma in GTA VI. Bulletproof rating, speed, and locations to acquire this cartel-favored armored sedan."
+  }
+}

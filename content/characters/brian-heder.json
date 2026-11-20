@@ -1,0 +1,49 @@
+{
+  "id": "char-brian-heder",
+  "name": "Brian Heder",
+  "slug": "brian-heder",
+  "category": "characters",
+  "aliases": [
+    "Brian",
+    "The Boatyard Boss"
+  ],
+  "summary": "An old-school Keys maritime smuggler who still moves illicit product through his boatyard and serves as Jason's rent-free landlord.",
+  "description": "Brian Heder is a weathered Florida Keys contraband smuggler who has spent decades navigating shallow mangrove passages and outrunning maritime authorities. Operating an unassuming boatyard and marina that doubles as a staging ground for offshore drops, Brian provides Jason with dockage, safehouse accommodations, and logistical access to watercraft.",
+  "role": "Maritime Smuggler & Asset Provider",
+  "affiliations": [
+    "Heder Marine Services",
+    "Keys Contraband Network"
+  ],
+  "knownLocations": [
+    "loc-leonida-keys",
+    "loc-port-gellhorn"
+  ],
+  "voiceActor": "Unconfirmed",
+  "personality": "Pragmatic, gruff, veteran sailor, distrustful of federal authorities.",
+  "thumbnail": "/images/characters/brian-heder-portrait-1080.webp",
+  "image": "/images/characters/brian-heder-portrait-1080.webp",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 1,
+  "tags": [
+    "characters",
+    "smuggler",
+    "keys",
+    "maritime",
+    "boatyard"
+  ],
+  "relatedEntityIds": [
+    "char-jason",
+    "char-cal-hampton",
+    "loc-leonida-keys"
+  ],
+  "sourceIds": [
+    "src-press-release-1"
+  ],
+  "firstPublishedAt": "2024-04-12T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Brian Heder: Boatyard Smuggler & Keys Contact",
+    "description": "Profile of Brian Heder in GTA VI. Veteran smuggler, boatyard owner, and key maritime logistical contact for Jason and Lucia in the Keys."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "char-real-dimez",
+  "name": "Real Dimez",
+  "slug": "real-dimez",
+  "category": "characters",
+  "aliases": [
+    "Dimez",
+    "Real Dimez Duo"
+  ],
+  "summary": "A notorious Vice City rap duo built on street shakedowns, viral social media hooks, and chasing one shot at global superstardom.",
+  "description": "Real Dimez reflects modern Leonida youth and influencer culture, combining high-octane hip-hop tracks with live-streamed street antics. Associated with Dre'Quan Priest's music production stable, their escalating rivalries and viral clout-chasing frequently erupt into armed shootouts across Vice City corridors.",
+  "role": "Rap Duo & Street Operatives",
+  "affiliations": [
+    "Priest Entertainment",
+    "Vice City Street Clique"
+  ],
+  "knownLocations": [
+    "loc-vice-city",
+    "loc-ocean-beach"
+  ],
+  "voiceActor": "Unconfirmed",
+  "personality": "Boisterous, aggressive, viral-obsessed, fiercely ambitious.",
+  "thumbnail": "/images/characters/real-dimez-portrait-1080.webp",
+  "image": "/images/characters/real-dimez-portrait-1080.webp",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 1,
+  "tags": [
+    "characters",
+    "rap",
+    "music",
+    "influencer",
+    "vice-city"
+  ],
+  "relatedEntityIds": [
+    "char-dre-quan",
+    "loc-vice-city"
+  ],
+  "sourceIds": [
+    "src-press-release-1"
+  ],
+  "firstPublishedAt": "2024-04-22T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Real Dimez: Vice City Rap Duo & Street Contacts",
+    "description": "Profile of the Real Dimez duo in GTA VI. Music tracks, social media influence, Dre'Quan Priest connections, and missions."
+  }
+}

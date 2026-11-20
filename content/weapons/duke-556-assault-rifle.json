@@ -1,0 +1,26 @@
+{
+  "id": "wep-duke-556",
+  "name": "Duke 556 Assault Rifle",
+  "slug": "duke-556-assault-rifle",
+  "category": "weapons",
+  "aliases": ["Duke 556", "M4A1", "Duke Arms Carbine"],
+  "summary": "Military-grade tactical assault rifle manufactured by Duke Arms Company, chambered in 5.56x45mm with selective fire capabilities.",
+  "description": "The Duke 556 is the premier combat assault rifle in Grand Theft Auto VI, modeled closely after the modern AR-15 / M4A1 weapon platform. Featuring a 30-round STANAG magazine, Picatinny accessory rails for optics and tactical flashlights, and exceptional intermediate-range accuracy, the Duke 556 is favored by law enforcement tactical response units and professional heist operators.",
+  "weaponClass": "Assault Rifle",
+  "capacity": "30 Rounds (Extendable to 60)",
+  "thumbnail": "/images/cards/update-secret-ending.png",
+  "image": "/images/hero/hero-banner.png",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["weapons", "assault-rifle", "duke-arms", "automatic", "tactical"],
+  "relatedEntityIds": ["wep-moreland-850", "char-lucia", "char-jason"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-04-10T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Duke 556 Assault Rifle: Stats, Attachments & Locations",
+    "description": "Comprehensive weapon profile for the Duke 556 Assault Rifle in GTA VI. Fire rate, damage benchmarks, tactical mods, and store locations."
+  }
+}
+

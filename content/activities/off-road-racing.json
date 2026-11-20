@@ -1,0 +1,32 @@
+{
+  "id": "act-off-road-racing",
+  "name": "Off-Road Racing",
+  "slug": "off-road-racing",
+  "category": "activities",
+  "aliases": [],
+  "summary": "Extended Look footage shows an off-road race with bikes, ATVs, and trucks on a muddy course. The source places the scene around Mount Kalaga.",
+  "description": "Extended Look footage shows an off-road race with bikes, ATVs, and trucks on a muddy course. The source places the scene around Mount Kalaga.",
+  "activityType": "Side Mission",
+  "location": "Leonida off-road areas",
+  "difficulty": "3/5",
+  "players": "Solo",
+  "sharedActivity": false,
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "side-mission"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Off-Road Racing",
+    "description": "Off-road racing is listed among activities and appears in promotional footage. Track locations, event count, and rewards are not confirmed in this record."
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/10/GTA-6-Off-Road-Race-1024x576.png",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/10/GTA-6-Off-Road-Race-1024x576.png"
+}

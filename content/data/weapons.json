@@ -1,0 +1,998 @@
+[
+ {
+  "id": "wpn-girardi-es9",
+  "name": "Girardi ES9",
+  "slug": "girardi-es9",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "Jason Duval's sidearm and one of the few GTA VI weapons Rockstar has named in print. A familiar full-size service pistol with an engraved Ultimate Edition variant.",
+  "description": "The ES9 is the pistol Rockstar put a name to. That sounds like a small thing until you look at the rest of this record: most of the GTA VI arsenal has been identified from footage by the community, not introduced by the studio. The ES9 arrived with the Ultimate Edition announcement, engraved, and tied to Jason.\n\nThe real-world reference is the Beretta 92FS, the open-slide 9mm that has spent four decades as the default cinematic service pistol. In GTA VI terms that suggests a familiar balance: a fifteen-round magazine, modest recoil, and a trigger that rewards patience more than speed. The engraved edition is cosmetic. It does not appear to change the weapon's behaviour.\n\nWhere it sits in the loadout is an open question. Rockstar has not published damage figures, magazine size, attachment support or a price, and nobody outside the studio has fired it. The estimate bars below are a reading of the real pistol, not a leaked stat sheet.",
+  "weaponClass": "Pistols",
+  "manufacturer": "Girardi",
+  "realWorldInspiration": "Beretta 92FS",
+  "carriedBy": "Jason Duval",
+  "editionContent": "Ultimate Edition engraved variant",
+  "nameSource": "Rockstar",
+  "stats": {
+   "damage": 55,
+   "accuracy": 65,
+   "range": 40,
+   "fireRate": 45,
+   "reloadSpeed": 60,
+   "magazine": 15
+  },
+  "facts": [
+   {
+    "label": "Category",
+    "value": "Pistols"
+   },
+   {
+    "label": "In-world maker",
+    "value": "Girardi"
+   },
+   {
+    "label": "Real-world basis",
+    "value": "Beretta 92FS"
+   },
+   {
+    "label": "Carried by",
+    "value": "Jason Duval"
+   },
+   {
+    "label": "Name source",
+    "value": "Rockstar"
+   },
+   {
+    "label": "Edition content",
+    "value": "Yes"
+   }
+  ],
+  "accent": "#ff5566",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/Klose-K17-pistol-gta-6-1024x576.jpg",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/Klose-K17-pistol-gta-6-1024x576.jpg",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+   "pistol",
+   "sidearm",
+   "9mm",
+   "jason",
+   "ultimate-edition"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+   "src-official-site"
+  ],
+  "firstPublishedAt": "2026-08-27T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+   "title": "Girardi ES9: Stats, Evidence & Location",
+   "description": "Girardi ES9 in GTA VI — Pistols, Beretta 92FS."
+  }
+ },
+ {
+  "id": "wpn-klose-k17",
+  "name": "Klose K17",
+  "slug": "klose-k17",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "Lucia Caminos's named sidearm. A polymer-framed 9mm with a seventeen-round magazine and the plain, functional look of a working gun.",
+  "description": "The K17 is Lucia's counterpart to Jason's ES9: a named pistol, an Ultimate Edition engraving, and a real-world reference that most players will recognise on sight. The reference is the Glock 17, the polymer pistol that made reliability boring.\n\nThat inheritance matters more than the badge. A K17 should feel lighter than the ES9, cycle faster, and ask less of the shooter. The seventeen-round magazine is the number the community reads from the real gun; Rockstar has not confirmed it for the game.\n\nThe K17 is also a useful reminder that GTA VI's weapon names are not all invented from nothing. Klose is a fictional maker, but the shape, proportions and operating logic are drawn from a specific family of firearms. Whether the in-game version keeps the Glock's trigger safety, or its appetite for abuse, is unknown.",
+  "weaponClass": "Pistols",
+  "manufacturer": "Klose",
+  "realWorldInspiration": "Glock 17",
+  "carriedBy": "Lucia Caminos",
+  "editionContent": "Ultimate Edition engraved variant",
+  "nameSource": "Rockstar",
+  "stats": {
+   "damage": 55,
+   "accuracy": 68,
+   "range": 40,
+   "fireRate": 55,
+   "reloadSpeed": 62,
+   "magazine": 17
+  },
+  "facts": [
+   {
+    "label": "Category",
+    "value": "Pistols"
+   },
+   {
+    "label": "In-world maker",
+    "value": "Klose"
+   },
+   {
+    "label": "Real-world basis",
+    "value": "Glock 17"
+   },
+   {
+    "label": "Carried by",
+    "value": "Lucia Caminos"
+   },
+   {
+    "label": "Name source",
+    "value": "Rockstar"
+   },
+   {
+    "label": "Edition content",
+    "value": "Yes"
+   }
+  ],
+  "accent": "#ff5566",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/Klose-K17-pistol-gta-6-1024x576.jpg",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/Klose-K17-pistol-gta-6-1024x576.jpg",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+   "pistol",
+   "sidearm",
+   "9mm",
+   "lucia",
+   "ultimate-edition"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+   "src-official-site"
+  ],
+  "firstPublishedAt": "2026-08-27T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+   "title": "Klose K17: Stats, Evidence & Location",
+   "description": "Klose K17 in GTA VI — Pistols, Glock 17."
+  }
+ },
+ {
+  "id": "wpn-morgan-revolver",
+  "name": "Morgan Revolver",
+  "slug": "morgan-revolver",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "A six-shot magnum revolver from Hawk & Little. Slow, loud and built around the idea that one round should be enough.",
+  "description": "The Morgan is the base revolver behind the Ultimate Edition's his-and-hers pair. Rockstar named it in the edition copy, which puts it a tier above most of the arsenal: this is a weapon the studio has acknowledged, not one reconstructed from a blurry frame.\n\nThe real-world basis is the Smith & Wesson Model 629, a stainless .44 Magnum with a reputation that precedes it. In game terms, expect the usual revolver trade: enormous per-shot damage, a six-round cylinder, a reload that feels like a commitment, and a rate of fire that punishes panic.\n\nIt is not a beginner's gun. The Morgan is for the moment when a situation has already gone wrong and subtlety is no longer on the table. The estimate bars reflect the real revolver's ballistics, not a Rockstar specification.",
+  "weaponClass": "Pistols",
+  "manufacturer": "Hawk & Little",
+  "realWorldInspiration": "Smith & Wesson Model 629",
+  "carriedBy": "—",
+  "editionContent": "No",
+  "nameSource": "Rockstar",
+  "stats": {
+   "damage": 80,
+   "accuracy": 55,
+   "range": 50,
+   "fireRate": 20,
+   "reloadSpeed": 35,
+   "magazine": 6
+  },
+  "facts": [
+   {
+    "label": "Category",
+    "value": "Pistols"
+   },
+   {
+    "label": "In-world maker",
+    "value": "Hawk & Little"
+   },
+   {
+    "label": "Real-world basis",
+    "value": "Smith & Wesson Model 629"
+   },
+   {
+    "label": "Name source",
+    "value": "Rockstar"
+   },
+   {
+    "label": "Edition content",
+    "value": "No"
+   }
+  ],
+  "accent": "#ff5566",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/Klose-K17-pistol-gta-6-1024x576.jpg",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/Klose-K17-pistol-gta-6-1024x576.jpg",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+   "revolver",
+   "magnum",
+   "sidearm",
+   "hawk-little"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+   "src-official-site"
+  ],
+  "firstPublishedAt": "2026-08-27T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+   "title": "Morgan Revolver: Stats, Evidence & Location",
+   "description": "Morgan Revolver in GTA VI — Pistols, Smith & Wesson Model 629."
+  }
+ },
+ {
+  "id": "wpn-hawk-little-morgan-ultimate-edition",
+  "name": "Hawk & Little Morgan",
+  "slug": "hawk-little-morgan-ultimate-edition",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "The Ultimate Edition's engraved, scoped Morgan pair. Same revolver underneath, dressed for a display case and tuned for a longer shot.",
+  "description": "This is the most closely described weapon in any official GTA VI material so far, and it is still mostly a mystery. Rockstar's edition copy presents a matched pair of engraved Morgans, one for each protagonist, with a scope and a finish that turns a working revolver into an heirloom.\n\nThe important distinction is that it is a treatment of the Morgan, not a separate model. The cylinder, frame and manual action are the same. The engraving and optic are the edition content; the question is whether the scope changes the effective range in a way that matters, or simply changes the silhouette.\n\nTreat the range and accuracy bars as an optimistic reading of a scoped magnum. Rockstar has published no weapon stats, and no one outside the studio has fired this version.",
+  "weaponClass": "Pistols",
+  "manufacturer": "Hawk & Little",
+  "realWorldInspiration": "Smith & Wesson Model 629",
+  "carriedBy": "—",
+  "editionContent": "Ultimate Edition exclusive",
+  "nameSource": "Rockstar",
+  "stats": {
+   "damage": 82,
+   "accuracy": 70,
+   "range": 65,
+   "fireRate": 20,
+   "reloadSpeed": 35,
+   "magazine": 6
+  },
+  "facts": [
+   {
+    "label": "Category",
+    "value": "Pistols"
+   },
+   {
+    "label": "In-world maker",
+    "value": "Hawk & Little"
+   },
+   {
+    "label": "Real-world basis",
+    "value": "Smith & Wesson Model 629"
+   },
+   {
+    "label": "Name source",
+    "value": "Rockstar"
+   },
+   {
+    "label": "Edition content",
+    "value": "Ultimate Edition exclusive"
+   }
+  ],
+  "accent": "#ff5566",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/Klose-K17-pistol-gta-6-1024x576.jpg",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/Klose-K17-pistol-gta-6-1024x576.jpg",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+   "revolver",
+   "magnum",
+   "ultimate-edition",
+   "scoped",
+   "engraved"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+   "src-official-site"
+  ],
+  "firstPublishedAt": "2026-08-27T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+   "title": "Hawk & Little Morgan: Stats, Evidence & Location",
+   "description": "Hawk & Little Morgan in GTA VI — Pistols, Smith & Wesson Model 629."
+  }
+ },
+ {
+  "id": "wpn-capo-pistol",
+  "name": "Capo Pistol",
+  "slug": "capo-pistol",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "The compact pistol in Jason's hand at the end of the Trailer 1 liquor-store robbery. Real on screen; the name is the community's.",
+  "description": "The Capo is a frame, not a confirmed model. It appears in the closing moments of Trailer 1, held by Jason after the liquor-store robbery, and it is clearly a compact semi-automatic. Everything beyond that — the name, the calibre, the magazine — is a community reading.\n\nCompact pistols are the practical end of the sidearm spectrum: easier to conceal, faster to draw, harder to shoot well. The estimate bars reflect that compromise rather than any official data. If the Capo turns out to be a named weapon at launch, this page will be rewritten around the real thing.\n\nFor now, treat it as evidence that Jason carries more than one gun, and that the game's weapon presentation is detailed enough for the community to identify individual frames from a trailer.",
+  "weaponClass": "Pistols",
+  "manufacturer": "Unidentified",
+  "realWorldInspiration": "Unidentified compact pistol",
+  "carriedBy": "Jason Duval",
+  "editionContent": "No",
+  "nameSource": "Community",
+  "stats": {
+   "damage": 50,
+   "accuracy": 60,
+   "range": 35,
+   "fireRate": 40,
+   "reloadSpeed": 55,
+   "magazine": 12
+  },
+  "facts": [
+   {
+    "label": "Category",
+    "value": "Pistols"
+   },
+   {
+    "label": "In-world maker",
+    "value": "Unidentified"
+   },
+   {
+    "label": "Real-world basis",
+    "value": "Unidentified"
+   },
+   {
+    "label": "Carried by",
+    "value": "Jason Duval"
+   },
+   {
+    "label": "Name source",
+    "value": "Community"
+   },
+   {
+    "label": "Edition content",
+    "value": "No"
+   }
+  ],
+  "accent": "#ff5566",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/Klose-K17-pistol-gta-6-1024x576.jpg",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/Klose-K17-pistol-gta-6-1024x576.jpg",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": [
+   "pistol",
+   "compact",
+   "trailer-1",
+   "community-name"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+   "src-trailer-1"
+  ],
+  "firstPublishedAt": "2026-08-27T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+   "title": "Capo Pistol: Stats, Evidence & Location",
+   "description": "Capo Pistol in GTA VI — Pistols, Unidentified compact pistol."
+  }
+ },
+ {
+  "id": "wpn-smg-mp5-style",
+  "name": "SMG",
+  "slug": "smg-mp5-style",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "The submachine gun both protagonists carry through the Trailer 2 bank robbery. A clean, unmistakable MP5 silhouette with no official name.",
+  "description": "The SMG is one of the clearest long-gun looks either trailer has given. Both Jason and Lucia carry it through the Sinfrontera National Bank sequence in Trailer 2, and the silhouette is close enough to an MP5 that the community has settled on the reference.\n\nThat matters because the MP5 is a specific kind of weapon: smooth, controllable, and built for close rooms rather than open streets. A thirty-round magazine and a high cyclic rate make it a natural fit for interior set pieces, but the estimate bars are a reading of the real gun, not a statement about GTA VI's balancing.\n\nRockstar has not named it, priced it, or described its attachments. 'SMG' is a placeholder — the label the page uses until the studio gives it a proper one.",
+  "weaponClass": "SMGs",
+  "manufacturer": "Unidentified",
+  "realWorldInspiration": "Heckler & Koch MP5",
+  "carriedBy": "Jason Duval, Lucia Caminos",
+  "editionContent": "No",
+  "nameSource": "Community",
+  "stats": {
+   "damage": 45,
+   "accuracy": 60,
+   "range": 35,
+   "fireRate": 75,
+   "reloadSpeed": 55,
+   "magazine": 30
+  },
+  "facts": [
+   {
+    "label": "Category",
+    "value": "SMGs"
+   },
+   {
+    "label": "Real-world basis",
+    "value": "Heckler & Koch MP5"
+   },
+   {
+    "label": "Carried by",
+    "value": "Jason Duval, Lucia Caminos"
+   },
+   {
+    "label": "Name source",
+    "value": "Community"
+   },
+   {
+    "label": "Edition content",
+    "value": "No"
+   }
+  ],
+  "accent": "#ff5566",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/M4-gtavi-1024x576.jpg",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/M4-gtavi-1024x576.jpg",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": [
+   "smg",
+   "mp5",
+   "bank-robbery",
+   "trailer-2",
+   "community-name"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+   "src-trailer-1"
+  ],
+  "firstPublishedAt": "2026-08-27T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+   "title": "SMG: Stats, Evidence & Location",
+   "description": "SMG in GTA VI — SMGs, Heckler & Koch MP5."
+  }
+ },
+ {
+  "id": "wpn-micro-smg",
+  "name": "Micro SMG",
+  "slug": "micro-smg",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "A small, fast machine pistol for drive-bys and bad decisions. Loud, inaccurate and very good at making a room move.",
+  "description": "The micro SMG is the opposite of the bank-robbery MP5: a short, light, barely controlled machine pistol that trades accuracy for noise. It is the sort of weapon that appears in a GTA game because a car window is not a proper firing position.\n\nIts real-world family is broad — everything from a Micro Uzi to a modern machine pistol — and the page does not pretend to identify a single model. What matters is the role: high rate of fire, low precision, fast reload, and a magazine that empties before you expect it to.\n\nUse it at the distance where a conversation would be uncomfortable. Beyond that, the estimate bars are honest about its limits.",
+  "weaponClass": "SMGs",
+  "manufacturer": "Unidentified",
+  "realWorldInspiration": "Compact machine pistol",
+  "carriedBy": "—",
+  "editionContent": "No",
+  "nameSource": "Community",
+  "stats": {
+   "damage": 40,
+   "accuracy": 50,
+   "range": 30,
+   "fireRate": 85,
+   "reloadSpeed": 50,
+   "magazine": 20
+  },
+  "facts": [
+   {
+    "label": "Category",
+    "value": "SMGs"
+   },
+   {
+    "label": "Real-world basis",
+    "value": "Compact machine pistol"
+   },
+   {
+    "label": "Name source",
+    "value": "Community"
+   },
+   {
+    "label": "Edition content",
+    "value": "No"
+   }
+  ],
+  "accent": "#ff5566",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/M4-gtavi-1024x576.jpg",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/M4-gtavi-1024x576.jpg",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": [
+   "smg",
+   "machine-pistol",
+   "drive-by",
+   "community-name"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+   "src-trailer-1"
+  ],
+  "firstPublishedAt": "2026-08-27T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+   "title": "Micro SMG: Stats, Evidence & Location",
+   "description": "Micro SMG in GTA VI — SMGs, Compact machine pistol."
+  }
+ },
+ {
+  "id": "wpn-pump-action-shotgun",
+  "name": "Pump-Action Shotgun",
+  "slug": "pump-action-shotgun",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "The recurring shotgun of both trailers. A working pump-action with a tube magazine and no interest in subtlety.",
+  "description": "The pump-action shotgun appears across the robbery scenes of both official trailers, which makes it one of the best-evidenced weapons in the record and one of the least described. The reference is the Mossberg 590: a rugged, military-adjacent pump gun with a tube magazine and a reputation for functioning in bad conditions.\n\nIn a GTA game, a shotgun is a room-clearing tool. The estimate bars read it as high damage, low range, slow cycle — the classic trade. The eight-round tube is the real gun's capacity, not a confirmed in-game number.\n\nNo name, no price, no attachments. Rockstar has shown the shape and nothing else.",
+  "weaponClass": "Shotguns",
+  "manufacturer": "Unidentified",
+  "realWorldInspiration": "Mossberg 590",
+  "carriedBy": "—",
+  "editionContent": "No",
+  "nameSource": "Community",
+  "stats": {
+   "damage": 85,
+   "accuracy": 40,
+   "range": 20,
+   "fireRate": 25,
+   "reloadSpeed": 30,
+   "magazine": 8
+  },
+  "facts": [
+   {
+    "label": "Category",
+    "value": "Shotguns"
+   },
+   {
+    "label": "Real-world basis",
+    "value": "Mossberg 590"
+   },
+   {
+    "label": "Name source",
+    "value": "Community"
+   },
+   {
+    "label": "Edition content",
+    "value": "No"
+   }
+  ],
+  "accent": "#ff5566",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/Double-barrel-shotgun-gta-vi-1024x576.jpg",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/Double-barrel-shotgun-gta-vi-1024x576.jpg",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": [
+   "shotgun",
+   "pump-action",
+   "trailers",
+   "community-name"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+   "src-trailer-1"
+  ],
+  "firstPublishedAt": "2026-08-27T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+   "title": "Pump-Action Shotgun: Stats, Evidence & Location",
+   "description": "Pump-Action Shotgun in GTA VI — Shotguns, Mossberg 590."
+  }
+ },
+ {
+  "id": "wpn-carbine-rifle",
+  "name": "Carbine Rifle",
+  "slug": "carbine-rifle",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "The most frequently seen long gun in GTA VI footage, and the only one with a legible in-world maker on the receiver.",
+  "description": "The carbine is everywhere in the footage: robberies, police shootouts, the highway chase. It is also the only weapon so far whose in-world manufacturer — Duke Arms Company — is legible on the gun itself. That is a small detail with a large implication: the weapons are being designed as branded objects, not generic props.\n\nThe real-world reference is the AR-15/M4/HK416 family, which means the page can say something useful about role without pretending to know the game's numbers. Expect a versatile mid-range rifle, a thirty-round magazine, and enough accessory space to make customization matter if the system supports it.\n\nRockstar has not named the rifle for GTA VI. 'Carbine Rifle' is the community's working label, and the estimate bars are a reading of the family rather than a specification.",
+  "weaponClass": "Assault Rifles",
+  "manufacturer": "Duke Arms Company",
+  "realWorldInspiration": "AR-15 / M4 / HK416 family",
+  "carriedBy": "—",
+  "editionContent": "No",
+  "nameSource": "Community",
+  "stats": {
+   "damage": 65,
+   "accuracy": 70,
+   "range": 70,
+   "fireRate": 65,
+   "reloadSpeed": 55,
+   "magazine": 30
+  },
+  "facts": [
+   {
+    "label": "Category",
+    "value": "Assault Rifles"
+   },
+   {
+    "label": "In-world maker",
+    "value": "Duke Arms Company"
+   },
+   {
+    "label": "Real-world basis",
+    "value": "AR-15 / M4 / HK416 family"
+   },
+   {
+    "label": "Name source",
+    "value": "Community"
+   },
+   {
+    "label": "Edition content",
+    "value": "No"
+   }
+  ],
+  "accent": "#ff5566",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/M4-gtavi-1024x576.jpg",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/M4-gtavi-1024x576.jpg",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": [
+   "rifle",
+   "carbine",
+   "ar-15",
+   "duke-arms",
+   "community-name"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+   "src-trailer-1"
+  ],
+  "firstPublishedAt": "2026-08-27T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+   "title": "Carbine Rifle: Stats, Evidence & Location",
+   "description": "Carbine Rifle in GTA VI — Assault Rifles, AR-15 / M4 / HK416 family."
+  }
+ },
+ {
+  "id": "wpn-sniper-rifle",
+  "name": "Sniper Rifle",
+  "slug": "sniper-rifle",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "A long-range bolt-action for the moments when the job should be over before anyone hears it start.",
+  "description": "The sniper rifle is the quiet end of the arsenal: a bolt-action platform with a large optic and a five-round magazine. It is the weapon you bring when the objective is a single shot and the exit is a long walk.\n\nThe page does not claim a specific real-world model. The reference is generic precision bolt-action, and the estimate bars reflect that class rather than a particular rifle. In GTA terms, expect high damage, high range, and a cycle time that makes a missed shot expensive.\n\nRockstar has not named it for GTA VI. If a scoped rifle appears in the Extended Look or a later trailer, this entry will be updated with the evidence rather than the assumption.",
+  "weaponClass": "Sniper Rifles",
+  "manufacturer": "Unidentified",
+  "realWorldInspiration": "Bolt-action precision rifle",
+  "carriedBy": "—",
+  "editionContent": "No",
+  "nameSource": "Community",
+  "stats": {
+   "damage": 95,
+   "accuracy": 85,
+   "range": 95,
+   "fireRate": 15,
+   "reloadSpeed": 40,
+   "magazine": 5
+  },
+  "facts": [
+   {
+    "label": "Category",
+    "value": "Sniper Rifles"
+   },
+   {
+    "label": "Real-world basis",
+    "value": "Bolt-action precision rifle"
+   },
+   {
+    "label": "Name source",
+    "value": "Community"
+   },
+   {
+    "label": "Edition content",
+    "value": "No"
+   }
+  ],
+  "accent": "#ff5566",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/M4-gtavi-1024x576.jpg",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/M4-gtavi-1024x576.jpg",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": [
+   "sniper",
+   "bolt-action",
+   "long-range",
+   "community-name"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+   "src-trailer-1"
+  ],
+  "firstPublishedAt": "2026-08-27T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+   "title": "Sniper Rifle: Stats, Evidence & Location",
+   "description": "Sniper Rifle in GTA VI — Sniper Rifles, Bolt-action precision rifle."
+  }
+ },
+ {
+  "id": "wpn-grenade-launcher-mgl",
+  "name": "Grenade Launcher (MGL)",
+  "slug": "grenade-launcher-mgl",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "Lucia's six-shot revolving grenade launcher from the Trailer 2 bus chase. The loudest thing either trailer shows her do.",
+  "description": "Lucia fires this from the back of a damaged bus at pursuing police cars in Trailer 2. It is a multi-shot revolving launcher, visually close to the Milkor MGL, and it changes the temperature of the scene the moment it appears.\n\nThe appeal is obvious: six grenades before a reload, a wide blast radius, and no need for a direct hit. The cost is equally obvious: heavy, slow to reload, and almost useless in a confined space unless you enjoy consequences.\n\nNo official name, no confirmed capacity, no price. The estimate bars read the real launcher; the page will not pretend they are Rockstar's numbers.",
+  "weaponClass": "Heavy Weapons",
+  "manufacturer": "Unidentified",
+  "realWorldInspiration": "Milkor MGL / Mk 14",
+  "carriedBy": "Lucia Caminos",
+  "editionContent": "No",
+  "nameSource": "Community",
+  "stats": {
+   "damage": 95,
+   "accuracy": 45,
+   "range": 55,
+   "fireRate": 30,
+   "reloadSpeed": 25,
+   "magazine": 6
+  },
+  "facts": [
+   {
+    "label": "Category",
+    "value": "Heavy Weapons"
+   },
+   {
+    "label": "Real-world basis",
+    "value": "Milkor MGL / Mk 14"
+   },
+   {
+    "label": "Carried by",
+    "value": "Lucia Caminos"
+   },
+   {
+    "label": "Name source",
+    "value": "Community"
+   },
+   {
+    "label": "Edition content",
+    "value": "No"
+   }
+  ],
+  "accent": "#ff5566",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/09/Lucia-using-a-grenade-launcher-gta-6-1024x576.jpg",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/09/Lucia-using-a-grenade-launcher-gta-6-1024x576.jpg",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": [
+   "grenade-launcher",
+   "heavy",
+   "lucia",
+   "trailer-2",
+   "community-name"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+   "src-trailer-1"
+  ],
+  "firstPublishedAt": "2026-08-27T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+   "title": "Grenade Launcher (MGL): Stats, Evidence & Location",
+   "description": "Grenade Launcher (MGL) in GTA VI — Heavy Weapons, Milkor MGL / Mk 14."
+  }
+ },
+ {
+  "id": "wpn-combat-pistol",
+  "name": "Combat Pistol",
+  "slug": "combat-pistol",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "A high-capacity polymer pistol seen in holsters and briefcase handoffs. The sidearm of people who expect to need more than one magazine.",
+  "description": "The combat pistol is a background detail that rewards a second look: a polymer-framed pistol with a long magazine, visible in holsters and briefcase handoffs in the Vice City footage. The community reads it as an FN Five-seveN, a real pistol built around a small, fast cartridge and a twenty-round magazine.\n\nThat gives it a distinct role. It is not a revolver and it is not a service pistol; it is a high-capacity sidearm for someone who expects a prolonged fight. The estimate bars reflect the real gun's reputation for low recoil and flat shooting.\n\nThe name is the community's. Rockstar has not introduced it.",
+  "weaponClass": "Pistols",
+  "manufacturer": "Unidentified",
+  "realWorldInspiration": "FN Five-seveN",
+  "carriedBy": "—",
+  "editionContent": "No",
+  "nameSource": "Community",
+  "stats": {
+   "damage": 50,
+   "accuracy": 62,
+   "range": 38,
+   "fireRate": 50,
+   "reloadSpeed": 58,
+   "magazine": 20
+  },
+  "facts": [
+   {
+    "label": "Category",
+    "value": "Pistols"
+   },
+   {
+    "label": "Real-world basis",
+    "value": "FN Five-seveN"
+   },
+   {
+    "label": "Name source",
+    "value": "Community"
+   },
+   {
+    "label": "Edition content",
+    "value": "No"
+   }
+  ],
+  "accent": "#ff5566",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/Klose-K17-pistol-gta-6-1024x576.jpg",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/Klose-K17-pistol-gta-6-1024x576.jpg",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": [
+   "pistol",
+   "sidearm",
+   "five-seven",
+   "high-capacity",
+   "community-name"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+   "src-trailer-1"
+  ],
+  "firstPublishedAt": "2026-08-27T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+   "title": "Combat Pistol: Stats, Evidence & Location",
+   "description": "Combat Pistol in GTA VI — Pistols, FN Five-seveN."
+  }
+ },
+ {
+  "id": "wpn-baseball-bat",
+  "name": "Baseball Bat",
+  "slug": "baseball-bat",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "A wooden bat. No ammunition, no maintenance, no ambiguity about intent.",
+  "description": "The baseball bat is the most honest weapon in the record. It does not need a manufacturer, a calibre or a holster. It is a length of wood with a handle, and in a GTA game it is the weapon you use when you want a fight rather than a firefight.\n\nThe estimate bars describe a heavy melee strike: good damage, short reach, slow recovery. Whether GTA VI gives melee its own stamina or durability system is not established. The bat may simply be a prop that becomes a weapon in the right hands.\n\nIt is included here because the arsenal is not only firearms, and because a complete record of what appears in the footage should say so.",
+  "weaponClass": "Melee",
+  "manufacturer": "—",
+  "realWorldInspiration": "Wooden baseball bat",
+  "carriedBy": "—",
+  "editionContent": "No",
+  "nameSource": "Community",
+  "stats": {
+   "damage": 60,
+   "accuracy": 50,
+   "range": 10,
+   "fireRate": 35,
+   "reloadSpeed": 0,
+   "magazine": 0
+  },
+  "facts": [
+   {
+    "label": "Category",
+    "value": "Melee"
+   },
+   {
+    "label": "Real-world basis",
+    "value": "Wooden baseball bat"
+   },
+   {
+    "label": "Name source",
+    "value": "Generic item"
+   },
+   {
+    "label": "Edition content",
+    "value": "No"
+   }
+  ],
+  "accent": "#ff5566",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/09/Screenshot-baseball-bat-gta-6-1024x576.jpg",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/09/Screenshot-baseball-bat-gta-6-1024x576.jpg",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": [
+   "melee",
+   "bat",
+   "blunt",
+   "community-name"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+   "src-trailer-1"
+  ],
+  "firstPublishedAt": "2026-08-27T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+   "title": "Baseball Bat: Stats, Evidence & Location",
+   "description": "Baseball Bat in GTA VI — Melee, Wooden baseball bat."
+  }
+ },
+ {
+  "id": "wpn-switchblade",
+  "name": "Switchblade",
+  "slug": "switchblade",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "A folding knife for the quiet end of a disagreement. Fast, close, and entirely without a reload.",
+  "description": "The switchblade is the counterpoint to the bat: light, fast, and dependent on getting close enough to make the first strike count. In a GTA game, melee weapons tend to live or die on the animation and the hit detection, not the damage number.\n\nThe real-world reference is a generic folding stiletto — the sort of knife that appears in a hundred crime films and very few sporting goods catalogues. The estimate bars are a reading of that class, not a measured stat.\n\nRockstar has not named it. It is here because the footage shows melee violence alongside the firearms, and the record should reflect the whole arsenal.",
+  "weaponClass": "Melee",
+  "manufacturer": "—",
+  "realWorldInspiration": "Folding stiletto knife",
+  "carriedBy": "—",
+  "editionContent": "No",
+  "nameSource": "Community",
+  "stats": {
+   "damage": 70,
+   "accuracy": 55,
+   "range": 5,
+   "fireRate": 40,
+   "reloadSpeed": 0,
+   "magazine": 0
+  },
+  "facts": [
+   {
+    "label": "Category",
+    "value": "Melee"
+   },
+   {
+    "label": "Real-world basis",
+    "value": "Folding stiletto knife"
+   },
+   {
+    "label": "Name source",
+    "value": "Generic item"
+   },
+   {
+    "label": "Edition content",
+    "value": "No"
+   }
+  ],
+  "accent": "#ff5566",
+  "thumbnail": "",
+  "image": "",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": [
+   "melee",
+   "knife",
+   "switchblade",
+   "community-name"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+   "src-trailer-1"
+  ],
+  "firstPublishedAt": "2026-08-27T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+   "title": "Switchblade: Stats, Evidence & Location",
+   "description": "Switchblade in GTA VI — Melee, Folding stiletto knife."
+  }
+ },
+ {
+  "id": "wpn-molotov-cocktail",
+  "name": "Molotov Cocktail",
+  "slug": "molotov-cocktail",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "A bottle, a rag and a decision. The cheapest area-denial tool in Leonida.",
+  "description": "The Molotov is not a weapon you aim so much as a weapon you commit. A burning bottle, a short throw, and a patch of ground that stops being an option for anyone standing on it.\n\nIn GTA terms, expect fire, panic and collateral damage. The estimate bars are deliberately unflattering: low accuracy, short range, slow use. The value is in the area, not the impact.\n\nIt is included as part of the throwables record. Rockstar has not named it for GTA VI; the page will update if the game gives it a proper in-world brand.",
+  "weaponClass": "Throwables",
+  "manufacturer": "—",
+  "realWorldInspiration": "Improvised incendiary",
+  "carriedBy": "—",
+  "editionContent": "No",
+  "nameSource": "Community",
+  "stats": {
+   "damage": 80,
+   "accuracy": 20,
+   "range": 20,
+   "fireRate": 15,
+   "reloadSpeed": 0,
+   "magazine": 0
+  },
+  "facts": [
+   {
+    "label": "Category",
+    "value": "Throwables"
+   },
+   {
+    "label": "Real-world basis",
+    "value": "Improvised incendiary"
+   },
+   {
+    "label": "Name source",
+    "value": "Generic item"
+   },
+   {
+    "label": "Edition content",
+    "value": "No"
+   }
+  ],
+  "accent": "#ff5566",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/09/Hand-Grenade-1024x576.png",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/09/Hand-Grenade-1024x576.png",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": [
+   "throwable",
+   "fire",
+   "molotov",
+   "community-name"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+   "src-trailer-1"
+  ],
+  "firstPublishedAt": "2026-08-27T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+   "title": "Molotov Cocktail: Stats, Evidence & Location",
+   "description": "Molotov Cocktail in GTA VI — Throwables, Improvised incendiary."
+  }
+ }
+]

@@ -1,0 +1,26 @@
+{
+  "id": "veh-maverick",
+  "name": "Maverick Helicopter",
+  "slug": "maverick",
+  "category": "vehicles",
+  "aliases": ["Maverick Chopper", "Civilian Maverick", "Police Maverick"],
+  "summary": "The reliable twin-engine utility and passenger helicopter of Vice City, offering swift aerial transport across the Leonida archipelago.",
+  "description": "Seen patrolling the skies above downtown skyscrapers and offshore yachts, the Maverick remains the most accessible and versatile helicopter in GTA VI. Accommodating up to four passengers with high-altitude stability.",
+  "vehicleClass": "Helicopter",
+  "manufacturer": "Western Company",
+  "realWorldInspiration": "Bell 206 LongRanger",
+  "thumbnail": "/images/cards/update-helicopter.png",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["vehicles", "helicopter", "aircraft", "airports", "maverick"],
+  "relatedEntityIds": ["guide-helicopter-locations", "loc-vice-city"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-04-12T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Maverick Helicopter: Specs, Locations & Flight Guide",
+    "description": "Comprehensive guide to the Maverick helicopter in GTA VI. Flight handling, passenger capacity, rooftop helipad spawns, and police variants."
+  }
+}
+

@@ -1,0 +1,48 @@
+{
+  "id": "char-raul-bautista",
+  "name": "Raul Bautista",
+  "slug": "raul-bautista",
+  "category": "characters",
+  "aliases": [
+    "Raul",
+    "The Vault Master"
+  ],
+  "summary": "A veteran bank robber and master safe technician who recruits Jason and Lucia into high-stakes metropolitan heist operations.",
+  "description": "Raul Bautista brings decades of armed robbery experience and technical vault-cracking expertise to Leonida's criminal network. Pragmatic and disciplined, Raul mentors Lucia and Jason on tactical planning, alarm suppression, thermal drill logistics, and escape route contingency design.",
+  "role": "Master Heist Planner & Safe Technician",
+  "affiliations": [
+    "Bautista Heist Crew"
+  ],
+  "knownLocations": [
+    "loc-vice-city",
+    "loc-port-gellhorn"
+  ],
+  "voiceActor": "Unconfirmed",
+  "personality": "Meticulous, calm under fire, professional, intolerant of amateur mistakes.",
+  "thumbnail": "/images/characters/raul-bautista-portrait-1080.webp",
+  "image": "/images/characters/raul-bautista-portrait-1080.webp",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 2,
+  "tags": [
+    "characters",
+    "heists",
+    "bank-robber",
+    "tactics",
+    "vice-city"
+  ],
+  "relatedEntityIds": [
+    "char-lucia",
+    "char-jason",
+    "guide-100-completion"
+  ],
+  "sourceIds": [
+    "src-press-release-1"
+  ],
+  "firstPublishedAt": "2024-04-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Raul Bautista: Heist Mastermind & Bank Robber",
+    "description": "Dossier on Raul Bautista in GTA VI. Veteran heist organizer, safe technician, and campaign mentor for Lucia and Jason."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "veh-airboat",
+  "name": "Grassrivers Airboat",
+  "slug": "grassrivers-airboat",
+  "category": "vehicles",
+  "aliases": ["Fan Boat", "Swamp Airboat", "Everglades Airboat"],
+  "summary": "Specialized flat-bottomed watercraft powered by an elevated aircraft propeller, engineered to skim over shallow mud flats and sawgrass swamps.",
+  "description": "The quintessential vehicle for surviving the treacherous Grassrivers basin, the Airboat can effortlessly traverse water, reeds, and marshy shallows where standard boat propellers foul. Capable of carrying up to four passengers with an elevated driver perch providing high visibility over dense mangrove thickets.",
+  "vehicleClass": "Swamp Watercraft",
+  "manufacturer": "Nagasaki Marine",
+  "realWorldInspiration": "Florida Everglades Airboat",
+  "thumbnail": "/images/locations/grassrivers.jpg",
+  "image": "/images/locations/grassrivers.jpg",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["vehicles", "airboat", "boat", "swamp", "grassrivers", "fan-boat"],
+  "relatedEntityIds": ["loc-grassrivers", "guide-grassrivers-survival"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-04-24T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Grassrivers Airboat: Handling, Speed & Swamp Locations",
+    "description": "Everything about the Airboat in GTA VI. How to drive on shallow sawgrass, swamp fanboat handling, alligator hazards, and dock locations."
+  }
+}
+

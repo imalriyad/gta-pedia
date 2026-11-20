@@ -1,0 +1,32 @@
+{
+  "id": "act-cage-fighting",
+  "name": "Cage Fighting",
+  "slug": "cage-fighting",
+  "category": "activities",
+  "aliases": [],
+  "summary": "Trailer 2 shows Lucia fighting inside a cage, though a repeatable side activity has not been confirmed.",
+  "description": "Trailer 2 shows Lucia fighting inside a cage, though a repeatable side activity has not been confirmed.",
+  "activityType": "Sport",
+  "location": "Unknown",
+  "difficulty": "Unknown",
+  "players": "Unknown",
+  "sharedActivity": false,
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "sport"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Cage Fighting",
+    "description": "Trailer footage shows Lucia fighting an opponent inside a cage. Whether this is a repeatable side activity or part of a story sequence is not confirmed."
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/Lucia-Wearing-Boxing-Glove-Necklace-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/Lucia-Wearing-Boxing-Glove-Necklace-1024x576.jpg"
+}

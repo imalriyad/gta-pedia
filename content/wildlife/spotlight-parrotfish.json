@@ -1,0 +1,35 @@
+{
+  "id": "fauna-spotlight-parrotfish",
+  "name": "Spotlight Parrotfish",
+  "slug": "spotlight-parrotfish",
+  "category": "wildlife",
+  "aliases": [],
+  "summary": "A small marine fish recorded in Leonida, with a reported range along Leonida’s southern coastline.",
+  "description": "This fish is described as common in southern coastal waters, with no special bait or lure required. It is also connected to an early fishing side mission; exact mission details remain to be confirmed in-game.",
+  "image": "/images/wildlife/spotlight-parrotfish.jpg",
+  "habitat": "Southern Leonida coastline (source-reported)",
+  "threatLevel": "Not applicable",
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "wildlife",
+    "fish",
+    "fishing",
+    "marine",
+    "leonida-keys"
+  ],
+  "relatedEntityIds": [
+    "act-fishing",
+    "loc-leonida-keys"
+  ],
+  "sourceIds": [
+    "src-gta6bible-animals"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Spotlight Parrotfish",
+    "description": "Source-noted profile of the Spotlight Parrotfish and its reported Leonida coastal habitat."
+  },
+  "thumbnail": "/images/wildlife/spotlight-parrotfish.jpg"
+}

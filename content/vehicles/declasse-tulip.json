@@ -1,0 +1,27 @@
+{
+  "id": "veh-tulip",
+  "name": "Declasse Tulip",
+  "slug": "declasse-tulip",
+  "category": "vehicles",
+  "aliases": ["Tulip", "Chevelle", "Declasse Muscle"],
+  "summary": "Classic 4-door American muscle car boasting high-torque V8 acceleration, deep exhaust rumble, and nostalgic 1970s aesthetics.",
+  "description": "Featured prominently in official trailer footage speeding down Vice City boulevards with Lucia and Jason inside, the Declasse Tulip is modeled after the 1972 Chevrolet Chevelle Malibu. Combining heavy rear-wheel-drive drift capability with enough seating for a 4-person getaway crew, it serves as Lucia and Jason's primary early-game wheels.",
+  "vehicleClass": "Muscle Car",
+  "manufacturer": "Declasse",
+  "realWorldInspiration": "1972 Chevrolet Chevelle Malibu",
+  "thumbnail": "/images/cards/explore-activities.png",
+  "image": "/images/hero/hero-banner.png",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["vehicles", "muscle", "tulip", "declasse", "getaway-car"],
+  "relatedEntityIds": ["char-lucia", "char-jason", "loc-vice-city"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-04-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Declasse Tulip: Getaway Specs, Tuning & Locations",
+    "description": "Complete vehicle guide for the Declasse Tulip in GTA VI. Lucia and Jason's signature muscle getaway car, V8 engine mods, and handling."
+  }
+}
+

@@ -1,0 +1,26 @@
+{
+  "id": "veh-comet-s2",
+  "name": "Pfister Comet S2 Cabrio",
+  "slug": "pfister-comet-s2-cabrio",
+  "category": "vehicles",
+  "aliases": ["Comet Cabrio", "Porsche 911 Convertible"],
+  "summary": "High-end German open-top sports roadster engineered for blistering coastal cornering along Ocean Drive and luxury boulevard cruising.",
+  "description": "The Pfister Comet S2 Cabrio represents contemporary Vice City wealth. Modeled after the modern Porsche 911 Cabriolet, its rear-engine twin-turbo configuration delivers instantaneous acceleration, precision traction, and a retractable fabric soft-top designed for sunny Leonida beach weather.",
+  "vehicleClass": "Sports Car / Convertible",
+  "manufacturer": "Pfister",
+  "realWorldInspiration": "Porsche 911 Cabriolet (992)",
+  "thumbnail": "/images/cards/explore-activities.png",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["vehicles", "sports", "pfister", "convertible", "luxury", "ocean-drive"],
+  "relatedEntityIds": ["loc-ocean-beach", "loc-vice-city"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-04-22T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Pfister Comet S2 Cabrio: Specs, Top Speed & Customization",
+    "description": "Full guide to the Pfister Comet S2 Cabrio in GTA VI. Specs, convertible top controls, top speed benchmarks, and Ocean Drive spawns."
+  }
+}
+

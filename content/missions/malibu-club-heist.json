@@ -1,0 +1,54 @@
+{
+  "id": "msn-malibu-heist",
+  "name": "Lab Fees",
+  "slug": "malibu-club-heist",
+  "category": "missions",
+  "aliases": [
+    "Malibu Heist",
+    "Club Score"
+  ],
+  "summary": "A main-story mission listed in launch walkthrough indexes. The earlier Malibu Club heist description was speculative and has been removed.",
+  "description": "Follow the objective markers in order and consult the linked walkthrough for current mission-specific steps.",
+  "missionType": "Main Story",
+  "protagonists": [
+    "char-lucia",
+    "char-jason",
+    "char-dre-quan"
+  ],
+  "difficulty": "See in-game mission",
+  "estimatedTime": "Not reliably published",
+  "rewards": [],
+  "objectives": [
+    "Follow the on-screen mission objectives",
+    "Check the linked walkthrough for current step-by-step details"
+  ],
+  "tips": [
+    "Use the in-game objective list as the authoritative source",
+    "Save before a major story transition if preserving progress matters"
+  ],
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 3,
+  "tags": [
+    "main-story",
+    "heist",
+    "malibu-club",
+    "dre-quan",
+    "multi-protagonist"
+  ],
+  "relatedEntityIds": [
+    "char-lucia",
+    "char-jason",
+    "char-dre-quan",
+    "loc-malibu-club"
+  ],
+  "sourceIds": [
+    "src-powerpyx-walkthrough",
+    "src-pcgamer-missions"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Lab Fees Mission",
+    "description": "A main-story mission listed in launch walkthrough indexes. The earlier Malibu Club heist description was speculative and has been removed."
+  }
+}

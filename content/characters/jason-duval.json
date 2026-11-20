@@ -1,0 +1,48 @@
+{
+  "id": "char-jason",
+  "name": "Jason Duval",
+  "slug": "jason-duval",
+  "category": "characters",
+  "aliases": [
+    "Jason"
+  ],
+  "summary": "The male co-protagonist of Grand Theft Auto VI, working in tandem with Lucia across high-stakes robberies and the criminal underworld of Leonida.",
+  "description": "Jason is the partner and accomplice of Lucia in Grand Theft Auto VI. Seen alongside Lucia during convenience store robberies, high-speed highway escapes, and intimate tactical discussions in Vice City motels, Jason embodies a rugged, loyal demeanor built on mutual trust.",
+  "role": "Playable Protagonist",
+  "affiliations": [
+    "Lucia's Partnership"
+  ],
+  "knownLocations": [
+    "loc-vice-city",
+    "loc-keys",
+    "loc-port-gellhorn"
+  ],
+  "voiceActor": "Unconfirmed",
+  "personality": "Observant, dependable, calculating.",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 1,
+  "tags": [
+    "protagonist",
+    "playable",
+    "heists",
+    "vice-city"
+  ],
+  "relatedEntityIds": [
+    "char-lucia",
+    "loc-vice-city",
+    "veh-banshee"
+  ],
+  "sourceIds": [
+    "src-trailer-1",
+    "src-press-release-1"
+  ],
+  "firstPublishedAt": "2024-01-15T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Jason Duval: Biography, Story & Verified Facts",
+    "description": "Full character guide for Jason, playable co-protagonist of GTA VI. Read verified details on his role, relationship with Lucia, and weapon capabilities."
+  },
+  "image": "/images/characters/jason-duval-portrait-1080.webp",
+  "thumbnail": "/images/characters/jason-duval-portrait-1080.webp"
+}

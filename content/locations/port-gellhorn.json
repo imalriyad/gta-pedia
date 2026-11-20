@@ -1,0 +1,58 @@
+{
+  "id": "loc-port-gellhorn",
+  "name": "Port Gellhorn",
+  "slug": "port-gellhorn",
+  "category": "locations",
+  "aliases": [
+    "Gellhorn Port",
+    "West Coast Harbor"
+  ],
+  "summary": "Leonida's decayed Gulf Coast resort and shipping port, where tourists departed decades ago and the regional crime economy took root.",
+  "description": "Situated on the western coastline of Leonida, Port Gellhorn presents a stark contrast to Vice City's neon glamour. Dilapidated motels, rusty cargo cranes, bait shops, and sun-bleached strip malls characterize this working-class coastal settlement. Port Gellhorn serves as an essential nexus for contraband offloading, container yard heists, and illicit chop shops.",
+  "region": "State of Leonida",
+  "district": "Gellhorn County",
+  "locationType": "Industrial Port & Coastal Town",
+  "landmarks": [
+    "Gellhorn Commercial Harbor",
+    "Abandoned Boardwalk Pier",
+    "South Container Terminal"
+  ],
+  "businesses": [
+    "Gellhorn Marine Logistics",
+    "Bayside Pawn & Guns",
+    "Wreckers Auto Dismantling"
+  ],
+  "activities": [
+    "Container Yard Heists",
+    "Chop Shop Deliveries",
+    "Docks Stash House Raids"
+  ],
+  "thumbnail": "/images/locations/port-gellhorn-01-1920.webp",
+  "image": "/images/locations/port-gellhorn-01-1920.webp",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 1,
+  "tags": [
+    "locations",
+    "port-gellhorn",
+    "docks",
+    "shipping",
+    "harbor",
+    "heists"
+  ],
+  "relatedEntityIds": [
+    "loc-vice-city",
+    "loc-ambrosia",
+    "char-raul-bautista"
+  ],
+  "sourceIds": [
+    "src-trailer-1",
+    "src-press-release-1"
+  ],
+  "firstPublishedAt": "2024-03-28T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Port Gellhorn: Harbor, Docks & Industrial Map",
+    "description": "Explore Port Gellhorn in GTA VI. Western Leonida shipping docks, coastal warehouses, container yards, and heist locations."
+  }
+}

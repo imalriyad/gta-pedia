@@ -1,0 +1,32 @@
+{
+  "id": "act-jet-skiing",
+  "name": "Jet-Skiing",
+  "slug": "jet-skiing",
+  "category": "activities",
+  "aliases": [],
+  "summary": "Promotional imagery shows jet-ski riding. The source catalog marks it as a shared activity, while race formats and other mechanics remain uncertain.",
+  "description": "Promotional imagery shows jet-ski riding. The source catalog marks it as a shared activity, while race formats and other mechanics remain uncertain.",
+  "activityType": "Sport",
+  "location": "Coastal Leonida",
+  "difficulty": "3/5",
+  "players": "Solo",
+  "sharedActivity": true,
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "sport"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Jet-Skiing",
+    "description": "Promotional imagery shows jet-ski riding. The source catalog marks it as a shared activity, while race formats and other mechanics remain uncertain."
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/10/Lucia-Jet-skiing-in-GTA-6-Extended-Look-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/10/Lucia-Jet-skiing-in-GTA-6-Extended-Look-1024x576.jpg"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "guide-grassrivers-survival",
+  "name": "Leonida Wildlife and Wetlands Field Guide",
+  "slug": "grassrivers-swamp-survival",
+  "category": "guides",
+  "aliases": [
+    "Leonida Wildlife Guide",
+    "Wildlife Study",
+    "Wetlands Guide"
+  ],
+  "summary": "A practical route for studying wildlife, navigating wetland regions, and tracking animal-related completion.",
+  "description": "Leonida’s wildlife is tied to distinct environments, from Grassrivers wetlands to the northern Mount Kalaga region. For research, equip binoculars, focus on an animal, and use the study prompt before it leaves view. Bret’s Target Decks are a separate tracked activity; ordinary wildlife study and target-deck progress should not be confused.",
+  "difficulty": "Medium",
+  "estimatedTime": "15-20 Minutes",
+  "requirements": [
+    "Binoculars for wildlife study.",
+    "Use the map and collection tracker to distinguish wildlife studies from Target Deck progress."
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Choose a habitat before travelling",
+      "content": "Use the map to plan a route through Grassrivers, the Keys, or Mount Kalaga. Animal species differ by habitat, so revisit more than one region when filling the field guide.",
+      "tip": "Combine nearby locations into one trip to avoid repeatedly crossing the state."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Study animals with binoculars",
+      "content": "Equip binoculars from the weapon wheel, focus on an animal, and hold the study prompt until the scan completes. Track studied species in the wildlife collection.",
+      "tip": "Stay at a safe distance and avoid rushing toward animals; use cover or a vehicle for observation."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Separate study progress from target decks",
+      "content": "Open the activity/collection tracker and check whether you need a species study or a Bret’s Target Deck target. The two are different objectives.",
+      "tip": "For 100% completion, the launch checklist asks for 100 of 255 animals studied and all 15 Target Decks."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Revisit regions for missing species",
+      "content": "When a region has no new entries, switch habitats and return at a different time or weather condition if the species has not appeared.",
+      "tip": "Use the wildlife list to confirm a new entry registered before leaving the area."
+    }
+  ],
+  "commonMistakes": [
+    "Treating every animal sighting as a completed study.",
+    "Assuming a Target Deck kill counts as a wildlife study, or vice versa."
+  ],
+  "thumbnail": "/images/locations/grassrivers.jpg",
+  "image": "/images/locations/grassrivers.jpg",
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "guide",
+    "wildlife",
+    "wetlands",
+    "study"
+  ],
+  "relatedEntityIds": [
+    "loc-grassrivers",
+    "veh-airboat",
+    "wep-moreland-850"
+  ],
+  "sourceIds": [
+    "src-gta6-how-hunting",
+    "src-powerpyx-100",
+    "src-rockstar-map"
+  ],
+  "firstPublishedAt": "2024-05-16T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Leonida Wildlife and Wetlands Field Guide",
+    "description": "A practical route for studying wildlife, navigating wetland regions, and tracking animal-related completion."
+  }
+}

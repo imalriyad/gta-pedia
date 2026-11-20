@@ -1,0 +1,23 @@
+{
+  "id": "brand-gruppe-sechs",
+  "name": "Gruppe Sechs",
+  "slug": "gruppe-sechs",
+  "category": "brands",
+  "aliases": ["Gruppe 6", "Securicar Transits"],
+  "summary": "Private armed security and armored transit corporation providing cash transfers across banks, casinos, and high-end businesses throughout Leonida. Frequent heist targets.",
+  "description": "Gruppe Sechs armored vans ('Putting U in Security') cruise the commercial corridors of Vice City transporting substantial deposits of currency. Heavily armored and defended by shotgun-wielding guards, these security vehicles provide lucrative impromptu ambush opportunities for Lucia and Jason in free-roam.",
+  "industry": "Private Security & Armored Logistics",
+  "slogan": "Putting U in Security",
+  "headquarters": "Vice City Commercial Center",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["brand", "company", "gruppe-sechs", "security", "armored-car", "heists"],
+  "relatedEntityIds": ["loc-vice-city", "msn-malibu-heist"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Gruppe Sechs: Armored Security Transits",
+    "description": "Gruppe Sechs security in GTA VI. Armored van routes, cash robbery strategies, security uniforms, and high-payout heist targets."
+  }
+}

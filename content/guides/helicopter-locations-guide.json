@@ -1,0 +1,73 @@
+{
+  "id": "guide-helicopter-locations",
+  "name": "Aircraft and Helicopter Access Guide",
+  "slug": "helicopter-locations-guide",
+  "category": "guides",
+  "aliases": [
+    "Aircraft Access",
+    "Helipad Map",
+    "Aircraft Locations"
+  ],
+  "summary": "Find reported helipads and airstrips, approach aircraft safely, and track access as the story opens the map.",
+  "description": "Aircraft access is not uniform across Leonida: helipads, airports, and rural strips serve different areas, and some locations may not have an aircraft waiting every visit. Launch coverage reports helipads in Vice City and airstrips outside the metro. Use the map and current aircraft guide to confirm access instead of treating a pad as a guaranteed spawn.",
+  "difficulty": "Easy",
+  "requirements": [
+    "Aircraft and helipad access may depend on story progress.",
+    "Use the linked launch guide to confirm current reported sites."
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Use the map to identify aviation sites",
+      "content": "Look for airport and helipad markers, then inspect the location’s current status in the map guide. Story progress can affect what is accessible.",
+      "tip": "A visible helipad does not guarantee a parked helicopter."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Check Vice City helipads first",
+      "content": "Reported urban access points include Ocean Beach and hospital or rooftop helipads. Follow public entrances, stairs, or elevators where available; do not assume every rooftop is reachable.",
+      "tip": "If a roof is locked or empty, move to another listed site rather than forcing an inaccessible route."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Use regional airstrips outside the city",
+      "content": "Airstrips near Port Gellhorn and farther north provide alternatives to busy city airports. Approach by road and inspect for parked aircraft.",
+      "tip": "Avoid restricted runways when wanted or carrying contraband."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Plan for pursuit before takeoff",
+      "content": "Aircraft theft or airport access may create law-enforcement attention. Clear the area, choose a route away from built-up streets, and use a safe landing site.",
+      "tip": "Keep an alternate landing point in mind; do not fly directly over a crowded search area."
+    }
+  ],
+  "commonMistakes": [
+    "Expecting a guaranteed helicopter spawn at every helipad.",
+    "Entering a restricted airport without planning for a response."
+  ],
+  "thumbnail": "/images/cards/update-helicopter.png",
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "guide",
+    "aircraft",
+    "helicopters",
+    "helipads"
+  ],
+  "relatedEntityIds": [
+    "loc-vice-city",
+    "veh-maverick",
+    "guide-100-completion"
+  ],
+  "sourceIds": [
+    "src-powerpyx-aircraft",
+    "src-rockstar-map"
+  ],
+  "firstPublishedAt": "2024-05-18T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Aircraft and Helicopter Access Guide",
+    "description": "Find reported helipads and airstrips, approach aircraft safely, and track access as the story opens the map."
+  }
+}

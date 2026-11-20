@@ -1,0 +1,43 @@
+{
+  "id": "fauna-nine-banded-armadillo",
+  "name": "Nine-Banded Armadillo",
+  "slug": "nine-banded-armadillo",
+  "category": "wildlife",
+  "aliases": [
+    "Armadillo"
+  ],
+  "summary": "A hunting-category animal described as passive.",
+  "description": "The source directory labels the Nine-Banded Armadillo as a hunting animal with a passive temperament. This profile does not assign a location or behavior beyond those listed source details.",
+  "image": "/images/wildlife/nine-banded-armadillo.jpg",
+  "thumbnail": "/images/wildlife/nine-banded-armadillo.jpg",
+  "habitat": "Not specified",
+  "threatLevel": "Passive",
+  "facts": [
+    {
+      "label": "Category",
+      "value": "Hunting"
+    },
+    {
+      "label": "Temperament",
+      "value": "Passive"
+    }
+  ],
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "wildlife",
+    "mammal",
+    "hunting",
+    "armadillo"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-animals"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Nine-Banded Armadillo",
+    "description": "Source-noted profile for the Nine-Banded Armadillo in the GTA VI animal directory."
+  }
+}

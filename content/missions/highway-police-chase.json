@@ -1,0 +1,52 @@
+{
+  "id": "msn-highway-chase",
+  "name": "Just a Scratch",
+  "slug": "highway-police-chase",
+  "category": "missions",
+  "aliases": [
+    "The Chase",
+    "Leonida Highway Run"
+  ],
+  "summary": "A main-story mission listed in launch walkthrough indexes. The previous standalone highway-chase description was not supported by reliable mission data.",
+  "description": "Use the on-screen route and objective prompts. Keep a manual save before major story transitions if you want to preserve alternate progress.",
+  "missionType": "Main Story",
+  "protagonists": [
+    "char-lucia",
+    "char-jason"
+  ],
+  "difficulty": "See in-game mission",
+  "estimatedTime": "Not reliably published",
+  "rewards": [],
+  "objectives": [
+    "Follow the on-screen mission objectives",
+    "Check the linked walkthrough for current step-by-step details"
+  ],
+  "tips": [
+    "Use the in-game objective list as the authoritative source",
+    "Save before a major story transition if preserving progress matters"
+  ],
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 1,
+  "tags": [
+    "main-story",
+    "chase",
+    "police",
+    "highway",
+    "action",
+    "trailer"
+  ],
+  "relatedEntityIds": [
+    "char-lucia",
+    "char-jason"
+  ],
+  "sourceIds": [
+    "src-powerpyx-walkthrough",
+    "src-pcgamer-missions"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Just a Scratch Mission",
+    "description": "A main-story mission listed in launch walkthrough indexes. The previous standalone highway-chase description was not supported by reliable mission data."
+  }
+}

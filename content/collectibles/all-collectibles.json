@@ -1,0 +1,27 @@
+{
+  "id": "col-all-collectibles",
+  "name": "All Collectibles",
+  "slug": "all-collectibles",
+  "category": "collectibles",
+  "aliases": ["Leonida Collectibles Master List", "All 200+ Items", "Collectibles Map"],
+  "summary": "Master directory for all 200+ hidden items, graffiti murals, sunken caches, and stunt ramps scattered across Vice City and the state of Leonida.",
+  "description": "Exploration across the vibrant landscapes of Leonida rewards inquisitive players with a diverse assortment of collectibles. From neon-lit urban rooftops in downtown Vice City to alligator-infested waterways in the backcountry, collecting every item unlocks exclusive customization, cash bonuses, and progress toward 100% completion.",
+  "collectibleType": "Master Collection",
+  "totalCount": 200,
+  "reward": "Exclusive custom vehicles, character outfits, weapon skins, and $1,000,000 bonus cash upon full completion.",
+  "locationsSummary": "Distributed across Vice City Metro (80), Port Gellhorn (40), Leonida Keys (40), and Northern Swamplands (40).",
+  "thumbnail": "/images/cards/pop-collectibles.png",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 1,
+  "tags": ["collectibles", "packages", "stunt-jumps", "murals", "100-percent", "leonida"],
+  "relatedEntityIds": ["loc-vice-city", "guide-100-completion"],
+  "sourceIds": ["src-community-mapping", "src-trailer-1"],
+  "firstPublishedAt": "2024-05-01T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "All Collectibles Guide: Maps, Locations & Checklist",
+    "description": "Find all 200+ collectibles in GTA VI. Complete interactive maps, location walkthroughs, and rewards for hidden packages, stunt jumps, and murals."
+  }
+}
+

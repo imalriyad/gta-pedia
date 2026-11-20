@@ -1,0 +1,34 @@
+{
+  "id": "gang-san4san",
+  "name": "San4San",
+  "slug": "san4san",
+  "category": "gangs",
+  "aliases": [
+    "San 4 San"
+  ],
+  "summary": "A named street gang whose emblem has been spotted in GTA VI promotional footage. Its membership, territory, and story role have not been established by Rockstar.",
+  "description": "San4San is a named faction. Its emblem appears in trailer footage. The gang’s identity, activities, and any connection to earlier Vice City factions remain unconfirmed; theories about its origins should be treated as speculation.",
+  "image": "https://gta6bible.com/wp-content/uploads/2026/05/San4San-Logo-Spotted-1024x576.jpg",
+  "territory": "Unknown",
+  "knownMembers": [],
+  "rivalFactions": [],
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": [
+    "gang",
+    "street gang",
+    "san4san",
+    "emblem",
+    "trailer"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-gangs"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "San4San Gang Profile",
+    "description": "What is known and still unconfirmed about San4San, the named GTA VI faction whose emblem appears in promotional footage."
+  }
+}

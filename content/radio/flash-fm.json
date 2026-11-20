@@ -1,0 +1,23 @@
+{
+  "id": "radio-flash-fm",
+  "name": "Flash FM",
+  "slug": "flash-fm",
+  "category": "radio",
+  "aliases": ["Flash 101.9", "Flash Radio"],
+  "summary": "Iconic returning pop and dance station delivering chart-topping commercial hits, summer anthems, and humorous celebrity parody commentary.",
+  "description": "Originating in 1986's Grand Theft Auto: Vice City, Flash FM returns in GTA VI fully modernized for the 2020s. Balancing nostalgia with current pop titans, Flash FM provides an energetic backdrop to high-speed police chases and casual beach drives. Commercial breaks satirize modern influencer culture and fast-fashion consumerism.",
+  "genre": "Pop, Modern Dance, Chart Hits",
+  "host": "Toni (Classic Legacy DJ) & Guest Influencers",
+  "broadcastRegion": "Statewide Leonida broadcast",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": ["radio", "music", "pop", "flash-fm", "legacy", "vice-city"],
+  "relatedEntityIds": ["loc-vice-city", "loc-ocean-beach"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Flash FM: GTA VI Pop Radio Guide",
+    "description": "Flash FM returns in GTA VI. Complete station history, confirmed pop playlist, radio host commentary, and satirical commercial spots."
+  }
+}

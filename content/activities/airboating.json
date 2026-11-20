@@ -1,0 +1,32 @@
+{
+  "id": "act-airboating",
+  "name": "Airboating",
+  "slug": "airboating",
+  "category": "activities",
+  "aliases": [],
+  "summary": "Rockstar footage shows Jason piloting an airboat through a wetland with Lucia aboard. The scene is likely in Grassrivers; the activity’s gameplay mechanics have not been confirmed.",
+  "description": "Rockstar footage shows Jason piloting an airboat through a wetland with Lucia aboard. The scene is likely in Grassrivers; the activity’s gameplay mechanics have not been confirmed.",
+  "activityType": "Leisure",
+  "location": "Wetlands; likely Grassrivers",
+  "difficulty": "3/5",
+  "players": "Solo",
+  "sharedActivity": true,
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "leisure"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Airboating",
+    "description": "Rockstar footage shows Jason piloting an airboat through a wetland with Lucia aboard. The scene is likely in Grassrivers; the activity’s gameplay mechanics have not been confirmed."
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/10/Airboating-during-GTA-6-Extended-Look-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/10/Airboating-during-GTA-6-Extended-Look-1024x576.jpg"
+}

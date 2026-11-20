@@ -1,0 +1,23 @@
+{
+  "id": "brand-ecola",
+  "name": "eCola",
+  "slug": "ecola",
+  "category": "brands",
+  "aliases": ["Deliciously Infectious", "eCola Light"],
+  "summary": "Universally recognized soda brand across the Grand Theft Auto universe with a notoriously high caffeine and sugar content. Prominently advertised on Leonida billboards.",
+  "description": "eCola ('Deliciously Infectious!') returns in GTA VI as the primary soft drink brand dominating urban billboards, delivery trucks, and vending machines. In addition to classic red-and-white can branding, advertisements parody contemporary energy drink marketing with extreme sports sponsorships and wellness claims.",
+  "industry": "Beverages / Soft Drinks",
+  "slogan": "Deliciously Infectious!",
+  "headquarters": "Vice City Commercial District",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["brand", "company", "ecola", "soda", "parody", "advertisement"],
+  "relatedEntityIds": ["loc-vice-city", "loc-ocean-beach"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "eCola Brand: Lore & Billboards in GTA VI",
+    "description": "Complete breakdown of the eCola brand in GTA VI. Verified billboard locations, vending machine mechanics, delivery trucks, and satirical lore."
+  }
+}

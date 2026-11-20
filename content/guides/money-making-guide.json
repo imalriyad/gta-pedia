@@ -1,0 +1,73 @@
+{
+  "id": "guide-money-making",
+  "name": "Making Money in Leonida",
+  "slug": "money-making-guide",
+  "category": "guides",
+  "aliases": [
+    "Making Money",
+    "Money Guide",
+    "Earning Guide"
+  ],
+  "summary": "A progression-aware earning guide covering early-game limits, repeatable activities, vehicle fencing, and later bank work.",
+  "description": "Money systems open over the story, so the best route changes by chapter. Launch guides describe small early earnings, vehicle fencing through Moses after its story unlock, and higher-value bank jobs later. Avoid spending time on a method before its buyer or activity is available; use the in-game progress counters to confirm each payout.",
+  "difficulty": "Medium",
+  "estimatedTime": "Ongoing progression",
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Do not over-grind early story chapters",
+      "content": "Early opportunities pay modestly and some chapter transitions can reset carried progress. Complete story objectives and unlock the relevant buyers before farming.",
+      "tip": "Keep a manual save before a major chapter transition if you are testing a money route."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Use the vehicle fence when it unlocks",
+      "content": "After the Moses story introduction, deliver eligible stolen cars to the buyer and follow his requirements. Tracked or otherwise ineligible vehicles can be rejected.",
+      "tip": "Inspect the vehicle and buyer prompt before driving across the map."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Complete activity and robbery objectives",
+      "content": "Gang Operations, business robberies, and optional jobs provide money while also contributing to the completion checklist. Loot required valuables and finish the activity’s escape/objective steps.",
+      "tip": "Use map filters to chain nearby jobs rather than repeating a low-paying activity."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Save high-value bank work for its unlocks",
+      "content": "Later story progression opens bank jobs and vault-related opportunities. Prepare an escape route, watch the heat level, and deposit cash when safe.",
+      "tip": "The 100% checklist tracks some fencing totals separately from cash earned, so check the exact counter."
+    }
+  ],
+  "requirements": [
+    "Progress through the story to unlock buyers and higher-value activities.",
+    "Check the in-game tracker for separate cash and fenced-goods totals."
+  ],
+  "commonMistakes": [
+    "Expecting late-game payouts before the relevant story unlock.",
+    "Driving an ineligible or tracked car to a fence.",
+    "Assuming cash earnings and fenced-goods totals are the same statistic."
+  ],
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 1,
+  "tags": [
+    "guide",
+    "money",
+    "robberies",
+    "progression"
+  ],
+  "relatedEntityIds": [
+    "msn-malibu-heist",
+    "loc-malibu-club",
+    "loc-vice-city"
+  ],
+  "sourceIds": [
+    "src-powerpyx-money",
+    "src-powerpyx-100"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Making Money in Leonida",
+    "description": "A progression-aware earning guide covering early-game limits, repeatable activities, vehicle fencing, and later bank work."
+  }
+}

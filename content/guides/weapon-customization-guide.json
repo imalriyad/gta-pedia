@@ -1,0 +1,73 @@
+{
+  "id": "guide-weapon-customization",
+  "name": "Weapon Loadouts and Customization",
+  "slug": "weapon-customization-guide",
+  "category": "guides",
+  "aliases": [
+    "Weapon Loadout",
+    "Weapon Customization",
+    "Weapon Storage"
+  ],
+  "summary": "Build a useful active loadout, manage stored weapons, and use shops to configure weapons the game makes available.",
+  "description": "GTA VI uses a limited active loadout with additional weapons stored outside the wheel. Weapon options and attachments depend on the weapon and progression. This guide focuses on the verified controls and shop workflow instead of assuming every attachment is available for every gun.",
+  "difficulty": "Easy",
+  "estimatedTime": "15 minutes",
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Open the weapon wheel and select a slot",
+      "content": "Hold L1/LB to open the weapon wheel, then select the relevant weapon slot. Use the Items tab for non-weapon equipment.",
+      "tip": "Choose a loadout that fits the next activity before leaving a safe area."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Visit a shop to inspect customization options",
+      "content": "Select an owned weapon at an Ammu-Nation or other supported workbench and inspect the available modification categories. Options vary by gun and unlock state.",
+      "tip": "Read the preview and cost for each change; do not assume the same parts fit every weapon."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Manage weapons beyond the active loadout",
+      "content": "Use the personal vehicle trunk or a weapon locker to retrieve and store weapons when the active wheel is full.",
+      "tip": "Only weapons available through that storage point can be equipped there."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Test modifications before a difficult mission",
+      "content": "Fire at a safe range or in a low-risk area to learn recoil and handling after a modification. Return to the menu if a change does not suit your aim.",
+      "tip": "There is no single best attachment combination for every encounter."
+    }
+  ],
+  "requirements": [
+    "An owned weapon and access to a shop or locker that supports it.",
+    "Available modifications depend on the weapon and progression."
+  ],
+  "commonMistakes": [
+    "Expecting the wheel to hold every owned gun.",
+    "Assuming an attachment is compatible because another weapon accepts it."
+  ],
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "guide",
+    "weapons",
+    "loadout",
+    "customization"
+  ],
+  "relatedEntityIds": [
+    "wep-duke-556",
+    "wep-klose-k17",
+    "wep-moreland-850",
+    "wpn-sniper-rifle"
+  ],
+  "sourceIds": [
+    "src-gamesradar-loadout",
+    "src-gameta-weapon-custom"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Weapon Loadouts and Customization",
+    "description": "Build a useful active loadout, manage stored weapons, and use shops to configure weapons the game makes available."
+  }
+}

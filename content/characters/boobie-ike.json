@@ -1,0 +1,50 @@
+{
+  "id": "char-boobie-ike",
+  "name": "Boobie Ike",
+  "slug": "boobie-ike",
+  "category": "characters",
+  "aliases": [
+    "Boobie",
+    "The Mogul"
+  ],
+  "summary": "The flamboyant Vice City mogul who built a legit-looking business empire on drug money and constantly hunts for his next mainstream hit.",
+  "description": "Boobie Ike represents the modern transformation of Vice City's cash-heavy illicit economy into commercial real estate, luxury nightlife lounges, and entertainment ventures. Flanked by high-end jewelry and an entourage of influencers, Boobie offers high-paying contracts to operators capable of keeping problems away from his legitimate front corporations.",
+  "role": "Vice City Kingpin & Business Mogul",
+  "affiliations": [
+    "Ike Enterprises",
+    "Vice City Nightlife Syndicate"
+  ],
+  "knownLocations": [
+    "loc-vice-city",
+    "loc-ocean-beach",
+    "loc-malibu-club"
+  ],
+  "voiceActor": "Unconfirmed",
+  "personality": "Extravagant, demanding, calculating, image-obsessed.",
+  "thumbnail": "/images/characters/boobie-ike-portrait-1080.webp",
+  "image": "/images/characters/boobie-ike-portrait-1080.webp",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 2,
+  "tags": [
+    "characters",
+    "mogul",
+    "kingpin",
+    "vice-city",
+    "nightlife"
+  ],
+  "relatedEntityIds": [
+    "loc-vice-city",
+    "loc-malibu-club",
+    "char-dre-quan"
+  ],
+  "sourceIds": [
+    "src-press-release-1"
+  ],
+  "firstPublishedAt": "2024-04-15T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Boobie Ike: Vice City Mogul & Empire Boss",
+    "description": "Comprehensive guide to Boobie Ike in GTA VI. Learn about his entertainment empire, nightclub assets, and missions with Lucia and Jason."
+  }
+}

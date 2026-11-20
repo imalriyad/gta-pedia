@@ -1,0 +1,26 @@
+{
+  "id": "wpn-sniper-rifle",
+  "name": "Precision Sniper Rifle",
+  "slug": "sniper-rifle",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "Long-range bolt-action sniper rifle confirmed in GTA VI trailers used by Jason on highway overpass. Delivers one-shot kills at extreme distance.",
+  "description": "The Precision Sniper Rifle is a hybrid bolt-action platform combining the accuracy of the Remington 700 with the heavy-caliber stopping power of the Barrett M82. Seen in GTA VI trailer footage with Jason positioned on a highway overpass, the rifle features a high-magnification scope, suppressor-ready muzzle, and a 10-round detachable box magazine. At extreme distances it can penetrate light vehicle cover.",
+  "weaponClass": "Sniper",
+  "capacity": "10 rounds",
+  "realWorldInspiration": "Remington 700 / Barrett M82 hybrid",
+  "thumbnail": "/images/cards/update-secret-ending.png",
+  "image": "/images/hero/hero-banner.png",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": ["sniper", "long-range", "bolt-action"],
+  "relatedEntityIds": [],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2026-11-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Precision Sniper Rifle: Stats & Locations",
+    "description": "Full profile of the Precision Sniper Rifle in GTA VI. Damage, range, attachments, and where to find this bolt-action long-range weapon in Leonida."
+  }
+}

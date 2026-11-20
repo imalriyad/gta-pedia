@@ -1,0 +1,25 @@
+{
+  "id": "veh-speeder-boat",
+  "name": "Speeder",
+  "slug": "speeder-boat",
+  "category": "vehicles",
+  "aliases": [],
+  "summary": "Fast offshore powerboat confirmed in Keys and Vice City waterway chase scenes. Top water speed makes it the smuggler vessel of choice in Leonida.",
+  "description": "The Shitzu Speeder is an offshore racing powerboat inspired by classic cigarette boats. Confirmed in Keys archipelago and Vice City waterway chase sequences, its twin high-output engines deliver unmatched water speed, making it the preferred vessel for contraband runners and smugglers operating across Leonida's extensive coastline. It handles choppy open water with ease.",
+  "vehicleClass": "Boat",
+  "manufacturer": "Shitzu",
+  "realWorldInspiration": "Cigarette boat / offshore racing boat",
+  "thumbnail": "/images/cards/explore-activities.png",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": ["vehicles", "boat", "water", "shitzu", "smuggling", "fast"],
+  "relatedEntityIds": [],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2026-11-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Speeder Boat: Specs & Locations",
+    "description": "Full profile of the Shitzu Speeder in GTA VI. Top speed, handling on water, and locations for Leonida's fastest offshore powerboat."
+  }
+}

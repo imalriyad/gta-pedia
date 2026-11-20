@@ -1,0 +1,49 @@
+{
+  "id": "char-dre-quan",
+  "name": "Dre'Quan Priest",
+  "slug": "dre-quan-priest",
+  "category": "characters",
+  "aliases": [
+    "Dre'Quan",
+    "Priest"
+  ],
+  "summary": "A self-made music executive betting a strip-club fortune on discovering the next massive Vice City rap breakthrough.",
+  "description": "Dre'Quan Priest leveraged profits from underground clubs and entertainment venues like the Jack of Hearts into an ambitious record label. Caught between ruthless street rivals and high-stakes label politics, Dre'Quan employs Jason and Lucia to resolve territorial disputes, protect VIP talent, and recover stolen demo master recordings.",
+  "role": "Music Producer & Club Owner",
+  "affiliations": [
+    "Priest Entertainment",
+    "Jack of Hearts Club"
+  ],
+  "knownLocations": [
+    "loc-vice-city",
+    "loc-ocean-beach"
+  ],
+  "voiceActor": "Unconfirmed",
+  "personality": "Ambitious, charismatic, streetwise, fiercely protective of his artists.",
+  "thumbnail": "/images/characters/dre-quan-priest-portrait-1080.webp",
+  "image": "/images/characters/dre-quan-priest-portrait-1080.webp",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 2,
+  "tags": [
+    "characters",
+    "music",
+    "record-label",
+    "clubs",
+    "vice-city"
+  ],
+  "relatedEntityIds": [
+    "loc-vice-city",
+    "char-real-dimez",
+    "char-boobie-ike"
+  ],
+  "sourceIds": [
+    "src-press-release-1"
+  ],
+  "firstPublishedAt": "2024-04-18T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Dre'Quan Priest: Music Mogul & Nightlife Boss",
+    "description": "Profile of Dre'Quan Priest in GTA VI. Music empire, strip club affiliations, recording contracts, and storyline missions."
+  }
+}

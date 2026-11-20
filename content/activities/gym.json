@@ -1,0 +1,32 @@
+{
+  "id": "act-gym",
+  "name": "Gym",
+  "slug": "gym",
+  "category": "activities",
+  "aliases": [],
+  "summary": "The source reports indoor and outdoor gyms, interactive exercises, and shared workouts. Exercise and diet are described as affecting character physique and stats.",
+  "description": "The source reports indoor and outdoor gyms, interactive exercises, and shared workouts. Exercise and diet are described as affecting character physique and stats.",
+  "activityType": "Sport",
+  "location": "Unknown",
+  "difficulty": "3/5",
+  "players": "Solo",
+  "sharedActivity": false,
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "sport"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Gym",
+    "description": "The reference catalog includes gym training. Promotional coverage describes gym scenes, but specific exercises, stat changes, and progression requirements "
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/09/Lucia-in-Grand-Theft-Auto-6-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/09/Lucia-in-Grand-Theft-Auto-6-1024x576.jpg"
+}

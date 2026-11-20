@@ -1,0 +1,42 @@
+{
+  "id": "fauna-flamingo",
+  "name": "American Pink Flamingo",
+  "slug": "pink-flamingo",
+  "category": "wildlife",
+  "aliases": [
+    "Leonida Flamingo",
+    "Greater Flamingo"
+  ],
+  "summary": "Graceful wading bird abundant across the coastal estuaries, mangrove flats, and protected wildlife reserves of Leonida. Seen flocking across wetlands in Trailer 1.",
+  "description": "The American Pink Flamingo represents the vibrant tropical biodiversity of the State of Leonida. Flocks congregate in shallow brackish waters throughout the southern Keys and protected reserves along the Grassrivers borders. Flying boats and low-altitude aircraft cause large flocks to take flight simultaneously, creating breathtaking cinematic vistas.",
+  "habitat": "The Leonida Keys, Coastal Mudflats, Grassrivers Sanctuary",
+  "threatLevel": "Harmless / Passive",
+  "drops": [
+    "Flamingo Feathers"
+  ],
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": [
+    "wildlife",
+    "fauna",
+    "flamingo",
+    "birds",
+    "keys",
+    "trailer-confirmed"
+  ],
+  "relatedEntityIds": [
+    "loc-leonida-keys",
+    "loc-grassrivers"
+  ],
+  "sourceIds": [
+    "src-trailer-1"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "American Flamingo: Wildlife Database",
+    "description": "Profile of the American Pink Flamingo in GTA VI. Verified wetland locations across the Keys and Grassrivers, flocking behaviors, and visual appearances."
+  },
+  "image": "https://www.gtavice.net/content/images/gta-vi-trailer-1-0623.jpg?etag=656e6bcf",
+  "thumbnail": "https://www.gtavice.net/content/images/gta-vi-trailer-1-0623.jpg?etag=656e6bcf"
+}

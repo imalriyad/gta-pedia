@@ -1,0 +1,23 @@
+{
+  "id": "radio-vc-fm",
+  "name": "Vice City FM",
+  "slug": "vice-city-fm",
+  "category": "radio",
+  "aliases": ["VCFM", "99.1 Vice City FM"],
+  "summary": "Flagship electronic, synthwave, and contemporary club music radio station transmitting from Downtown Vice City, celebrating neon nightlife.",
+  "description": "Vice City FM is the premier soundtrack to midnight coastal cruises along Ocean Drive. Featuring energetic modern dance tracks, throwback synth-pop remixes, and contemporary Latin club anthems, the station reflects the high-voltage atmosphere of modern Vice City night clubs like The Malibu Club.",
+  "genre": "Synthwave, Electronic Dance, Club Anthems",
+  "host": "DJ Fernando Martinez (guest spots) & Modern Hosts",
+  "broadcastRegion": "Vice City & Northern Leonida",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": ["radio", "music", "synthwave", "electronic", "vice-city", "soundtrack"],
+  "relatedEntityIds": ["loc-vice-city", "loc-malibu-club"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Vice City FM: Radio Station Tracklist & Host",
+    "description": "Tune into Vice City FM in GTA VI. Verified electronic dance tracklist, synthwave playlists, station hosts, and coverage across Leonida."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "radio-sound-4-sound",
+  "name": "Sound 4 Sound Radio",
+  "slug": "sound-4-sound",
+  "category": "radio",
+  "aliases": ["Sound4Sound", "S4S"],
+  "summary": "Underground Florida rap, trap, and Miami bass station broadcasting fresh independent cuts and drill tracks. Closely associated with Dre'Quan Priest and Real Dimez.",
+  "description": "Sound 4 Sound is the cultural heartbeat of the underground music scene in modern Leonida. Spotlighting rapid 808s, Miami bass beats, and lyrical southern hip-hop, this station plays directly inside Vice City street clubs and modified tuner cars. Key storyline characters like Dre'Quan Priest and rap duo Real Dimez are featured on the station's heavy rotation.",
+  "genre": "Hip-Hop, Trap, Miami Bass, Southern Drill",
+  "host": "Dre'Quan Priest (Guest Host) & DJ Rico",
+  "broadcastRegion": "Ocean Beach, Little Havana, Port Gellhorn",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": ["radio", "music", "hip-hop", "rap", "miami-bass", "dre-quan", "real-dimez"],
+  "relatedEntityIds": ["char-dre-quan", "char-real-dimez", "gang-vc-street"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Sound 4 Sound Radio: Hip-Hop & Rap",
+    "description": "Listen to Sound 4 Sound radio in GTA VI. Southern trap tracklists, Dre'Quan Priest features, Miami bass culture, and in-game artist lore."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "char-cal-hampton",
+  "name": "Cal Hampton",
+  "slug": "cal-hampton",
+  "category": "characters",
+  "aliases": [
+    "Cal"
+  ],
+  "summary": "Jason's conspiracy-minded homebody friend based in the Leonida Keys, monitoring Coast Guard comms with a cold beer in hand.",
+  "description": "Cal Hampton is a paranoid, terminally-online survivalist and friend of Jason Duval residing in the southern Leonida Keys. Living in a weathered stilt house cluttered with radio scanners, shortwave antennas, and surplus gear, Cal provides technical reconnaissance, eavesdrops on police and Coast Guard patrols, and tips off Jason and Lucia to high-value smuggling movements.",
+  "role": "Recon & Technical Associate",
+  "affiliations": [
+    "Jason Duval's Network",
+    "Keys Smugglers Guild"
+  ],
+  "knownLocations": [
+    "loc-leonida-keys",
+    "loc-vice-city"
+  ],
+  "voiceActor": "Unconfirmed",
+  "personality": "Paranoid, recluse, loyal, technologically adept, sarcastic.",
+  "thumbnail": "/images/characters/cal-hampton-portrait-1080.webp",
+  "image": "/images/characters/cal-hampton-portrait-1080.webp",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 1,
+  "tags": [
+    "characters",
+    "recon",
+    "conspiracy",
+    "keys",
+    "jason"
+  ],
+  "relatedEntityIds": [
+    "char-jason",
+    "char-brian-heder",
+    "loc-leonida-keys"
+  ],
+  "sourceIds": [
+    "src-trailer-1",
+    "src-press-release-1"
+  ],
+  "firstPublishedAt": "2024-04-10T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Cal Hampton: Keys Associate & Radio Monitor",
+    "description": "Character dossier for Cal Hampton in GTA VI. Learn about his friendship with Jason, Coast Guard surveillance, and Keys safehouse operations."
+  }
+}

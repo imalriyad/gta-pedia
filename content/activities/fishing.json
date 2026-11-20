@@ -1,0 +1,32 @@
+{
+  "id": "act-fishing",
+  "name": "Fishing",
+  "slug": "fishing",
+  "category": "activities",
+  "aliases": [],
+  "summary": "Fishing is a returning activity. Rob Nelson described it as catch-and-release, with challenges. Exact mechanics are still being documented.",
+  "description": "Fishing is a returning activity. Rob Nelson described it as catch-and-release, with challenges. Exact mechanics are still being documented.",
+  "activityType": "Mini-Game",
+  "location": "Mount Kalaga; Leonida Keys",
+  "difficulty": "Unknown",
+  "players": "Solo",
+  "sharedActivity": true,
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "mini-game"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Fishing",
+    "description": "Fishing appears among the activities in the reference catalog. Species and fishing details are covered in the wildlife directory; exact mechanics and rewar"
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/09/Lure-Predator-L35P-in-GTA-6-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/09/Lure-Predator-L35P-in-GTA-6-1024x576.jpg"
+}

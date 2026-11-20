@@ -1,0 +1,29 @@
+{
+  "id": "loc-malibu-club",
+  "name": "The Malibu Club",
+  "slug": "the-malibu-club",
+  "category": "locations",
+  "aliases": ["Malibu Club", "Club Malibu"],
+  "summary": "The legendary Vice City nightlife institution featuring neon dance floors, VIP lounges, and high-profile criminal connections.",
+  "description": "A celebrated icon of Vice City lore, The Malibu Club appears prominently renovated in Leonida's nightlife scene. Flashing vibrant magenta and cyan strobe lighting, the club hosts elite DJs, high-society socialites, and underworld brokers operating out of private mezzanine booths.",
+  "region": "Vice City",
+  "district": "Ocean Drive / Vice Beach",
+  "locationType": "Nightclub & Venue",
+  "landmarks": ["Neon Dance Hall", "VIP Mezzanine Suite", "Backstage Security Office"],
+  "businesses": ["Malibu Beverage Corp."],
+  "activities": ["Dancing", "Networking", "VIP Infiltration", "Underworld Contracts"],
+  "thumbnail": "/images/cards/update-malibu.png",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 1,
+  "tags": ["nightclub", "malibu-club", "vice-city", "music", "nightlife"],
+  "relatedEntityIds": ["loc-vice-city", "char-lucia", "char-jason"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-03-10T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "The Malibu Club: Nightlife, Locations & Access",
+    "description": "Explore The Malibu Club in Vice City. Location, VIP lounge details, mission appearances, and nightlife activities in GTA VI."
+  }
+}
+

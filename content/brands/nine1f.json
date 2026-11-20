@@ -1,0 +1,23 @@
+{
+  "id": "brand-nine1f",
+  "name": "Nine1F Social Media",
+  "slug": "nine1f",
+  "category": "brands",
+  "aliases": ["Nine1F App", "Leonida TikTok Parody"],
+  "summary": "Viral short-form social video platform in GTA VI parodying TikTok and Instagram Reels. Plays a central role in environmental storytelling and viral world-building.",
+  "description": "Nine1F is a defining innovation of GTA VI's modern setting. Seen heavily throughout Trailer 1, vertical video feeds with real-time comments, livestreams, and viral clips capture outrageous Florida-style events: twerking on car roofs, alligator captures in neighborhood pools, high-speed police pursuits, and street fights. Players access Nine1F feeds through their in-game smartphone.",
+  "industry": "Tech / Social Media Platform",
+  "slogan": "Live Your Best Life. Stream Everything.",
+  "headquarters": "Vice City Tech Hub",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["brand", "company", "social-media", "nine1f", "smartphone", "trailer-confirmed"],
+  "relatedEntityIds": ["loc-vice-city", "loc-ocean-beach"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Nine1F Social App: GTA VI Viral Smartphone System",
+    "description": "Examine the Nine1F social media platform in GTA VI. Vertical video feeds, livestream mechanics, in-game smartphone features, and trailer breakdowns."
+  }
+}

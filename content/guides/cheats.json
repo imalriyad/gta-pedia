@@ -1,0 +1,71 @@
+{
+  "id": "guide-cheats",
+  "name": "GTA VI Cheats: What Is Verified",
+  "slug": "cheats",
+  "category": "guides",
+  "aliases": [
+    "Cheats",
+    "Cheat Codes",
+    "GTA VI cheat codes"
+  ],
+  "summary": "A safe reference for locating the cheat system and understanding its save and trophy consequences.",
+  "description": "Cheat codes are available in GTA VI, but code lists can vary by patch and published walkthrough. This guide deliberately links to a maintained code index instead of repeating unverified phone numbers or button sequences. Read the warning on the individual code before activating it: cheats can disable trophies/achievements for the current session, and some guides advise not saving a cheated session.",
+  "difficulty": "Easy",
+  "estimatedTime": "Instant",
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Make a clean manual save",
+      "content": "Create a separate manual save before experimenting with cheats. Keep your completion run on an untouched save.",
+      "tip": "A new save slot makes it easier to return to a clean run."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Open the in-game phone",
+      "content": "Use Up on the D-pad to open the phone, then choose the dialer if the selected code uses a phone number. Some codes use controller inputs instead.",
+      "tip": "Follow the entry method shown beside each code in the linked code index."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Check the code against a current list",
+      "content": "Use the linked launch-era cheat index for exact inputs, unlock conditions, and known effects. Do not rely on guessed vehicle names or code sequences.",
+      "tip": "Recheck after updates; code availability can change with patches and story progress."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Return to the clean save",
+      "content": "If you care about trophies, achievements, or a clean completion record, reload the manual save made before activating cheats.",
+      "tip": "Treat any trophy warning displayed by the game as authoritative."
+    }
+  ],
+  "requirements": [
+    "A manual save slot reserved for experiments.",
+    "Check the current source list for the exact code and its effect before entering it."
+  ],
+  "commonMistakes": [
+    "Using a code on your main completion save.",
+    "Assuming every cheat is a phone code or that an old list still matches the current patch."
+  ],
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "guide",
+    "cheats",
+    "codes"
+  ],
+  "relatedEntityIds": [
+    "veh-banshee",
+    "veh-cheetah",
+    "veh-airboat"
+  ],
+  "sourceIds": [
+    "src-powerpyx-cheats",
+    "src-powerpyx-trophies"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "GTA VI Cheats: What Is Verified",
+    "description": "A safe reference for locating the cheat system and understanding its save and trophy consequences."
+  }
+}

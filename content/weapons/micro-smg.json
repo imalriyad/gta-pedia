@@ -1,0 +1,25 @@
+{
+  "id": "wep-micro-smg",
+  "name": "Micro SMG",
+  "slug": "micro-smg",
+  "category": "weapons",
+  "aliases": ["MAC-10", "Mini SMG", "Drive-by SMG"],
+  "summary": "Ultra-compact open-bolt submachine gun delivering blistering fire rates perfectly suited for vehicle drive-bys and tight interior room clearing.",
+  "description": "Modeled after the iconic Ingram MAC-10, the Micro SMG unloads its 30-round magazine in seconds. Compact enough to be operated one-handed from vehicle windows and motorcycles, this submachine gun is standard issue for Vice City gang hit squads.",
+  "weaponClass": "Submachine Gun",
+  "capacity": "30 Rounds (Extendable to 50)",
+  "thumbnail": "/images/cards/update-secret-ending.png",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["weapons", "smg", "mac-10", "drive-by", "rapid-fire"],
+  "relatedEntityIds": ["wep-klose-k17", "veh-banshee"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-04-18T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Micro SMG: Fire Rate, Drive-By Capabilities & Specs",
+    "description": "Guide to the Micro SMG in GTA VI. MAC-10 fire rates, vehicle drive-by handling, drum magazines, and underground gun van spawns."
+  }
+}
+

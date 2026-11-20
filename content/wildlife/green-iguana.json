@@ -1,0 +1,42 @@
+{
+  "id": "fauna-iguana",
+  "name": "Green Iguana",
+  "slug": "green-iguana",
+  "category": "wildlife",
+  "aliases": [
+    "Invasive Iguana",
+    "Vice City Lizard"
+  ],
+  "summary": "Invasive arboreal lizard sunning itself on palm trees, garden walls, and hotel rooftops across urban Vice City and residential districts.",
+  "description": "Green Iguanas are an invasive fixture of the Vice City urban landscape, mimicking the real-world South Florida iguana population. During rare in-game cold snaps, stunned iguanas can even be observed falling from high palm trees onto sidewalks and parked vehicles. They are passive toward players and scatter when approached.",
+  "habitat": "Vice City palms, Ocean Beach luxury hotel gardens, Starfish Island walls",
+  "threatLevel": "Harmless",
+  "drops": [
+    "Iguana Skin"
+  ],
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": [
+    "wildlife",
+    "fauna",
+    "iguana",
+    "vice-city",
+    "urban",
+    "ambient"
+  ],
+  "relatedEntityIds": [
+    "loc-vice-city",
+    "loc-ocean-beach"
+  ],
+  "sourceIds": [
+    "src-trailer-1"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Green Iguana: Urban Wildlife Profile",
+    "description": "Examine the Green Iguana population in GTA VI's Vice City. Urban habitats, palm tree behaviors, cold snap ambient events, and interactions."
+  },
+  "image": "https://www.gtabase.com/images/gta-6/animals/temp/iguana-2.jpg",
+  "thumbnail": "https://www.gtabase.com/images/gta-6/animals/temp/iguana-2.jpg"
+}

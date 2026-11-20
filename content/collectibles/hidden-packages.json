@@ -1,0 +1,27 @@
+{
+  "id": "col-hidden-packages",
+  "name": "Hidden Packages",
+  "slug": "hidden-packages",
+  "category": "collectibles",
+  "aliases": ["Secret Packages", "Contraband Packages"],
+  "summary": "100 contraband packages concealed beneath docks, underwater wrecks, rooftop ventilation units, and abandoned motels across Leonida.",
+  "description": "A trademark collectible format returning to Vice City, collecting packages yields weapon spawn deliveries at safehouses every 10 packages collected, culminating in infinite ammunition bonuses upon locating all 100.",
+  "collectibleType": "Contraband Package",
+  "totalCount": 100,
+  "reward": "Tiered weapon unlocks at player safehouses and $250,000 cash reward.",
+  "locationsSummary": "Scattered across ocean floors, back alleys, industrial parks, and high-altitude rooftop ledges.",
+  "thumbnail": "/images/cards/pop-collectibles.png",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 1,
+  "tags": ["collectibles", "packages", "safehouses", "weapons", "100-percent"],
+  "relatedEntityIds": ["loc-vice-city", "guide-100-completion"],
+  "sourceIds": ["src-community-mapping"],
+  "firstPublishedAt": "2024-05-02T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Hidden Packages Guide: All 100 Locations & Map",
+    "description": "Full map and walkthrough for all 100 Hidden Packages in GTA VI Vice City. Safehouse weapon rewards, underwater coordinates, and checklist."
+  }
+}
+

@@ -1,0 +1,28 @@
+{
+  "id": "ee-nostalgia",
+  "name": "Classic Vice City Nostalgia & Tommy Vercetti Tributes",
+  "slug": "classic-vice-city-nostalgia",
+  "category": "easter-eggs",
+  "aliases": ["Vercetti Estate Tribute", "80s Vice City Easter Eggs", "Hawaiian Shirt Easter Egg"],
+  "summary": "Subtle in-game nods, retro radio tracks, mural tributes, and architectural call-backs celebrating the legendary 1980s era of Vice City.",
+  "description": "Scattered across contemporary Vice City are historical monuments and retro touches honouring the city's 1986 legacy. Discovered details include an oceanfront hotel room matching the iconic pastel motel from the original game, Hawaiian floral shirts available in retro thrift shops, and historical plaques on Starfish Island.",
+  "discoveryMethod": "Visit Starfish Island historic mansion district and inspection of retro apparel boutiques in Little Haiti.",
+  "discoveryLocation": "Starfish Island & Ocean Beach alleyways",
+  "prerequisites": "None. Accessible during free roam.",
+  "evidence": "Architectural layouts and signage clearly reflecting 1980s Vice City lore.",
+  "interpretation": "A celebration of 20+ years of Vice City gaming history and tribute to Ray Liotta's unforgettable performance as Tommy Vercetti.",
+  "thumbnail": "/images/cards/explore-easter-eggs.png",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 1,
+  "tags": ["easter-eggs", "nostalgia", "tommy-vercetti", "starfish-island", "retro"],
+  "relatedEntityIds": ["loc-vice-city", "loc-ocean-beach"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-05-15T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Vice City Nostalgia & Tommy Vercetti Easter Eggs",
+    "description": "Discover all retro 1980s Vice City references, Tommy Vercetti tributes, and hidden nostalgic easter eggs throughout GTA VI."
+  }
+}
+

@@ -1,0 +1,34 @@
+{
+  "id": "fauna-atlantic-spanish-mackerel",
+  "name": "Atlantic Spanish Mackerel",
+  "slug": "atlantic-spanish-mackerel",
+  "category": "wildlife",
+  "aliases": [],
+  "summary": "A small marine fish recorded in Leonida, reported in coastal waters across Leonida.",
+  "description": "Atlantic Spanish Mackerel is described as a regular coastal catch that does not require a special lure. Exact fishing spots and catch mechanics remain unconfirmed.",
+  "habitat": "Leonida coastal waters (source-reported)",
+  "threatLevel": "Not applicable",
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "wildlife",
+    "fish",
+    "fishing",
+    "marine"
+  ],
+  "relatedEntityIds": [
+    "act-fishing",
+    "loc-leonida-keys"
+  ],
+  "sourceIds": [
+    "src-gta6bible-animals"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Atlantic Spanish Mackerel",
+    "description": "Source-noted habitat and fishing reference for Atlantic Spanish Mackerel in Leonida."
+  },
+  "image": "/images/wildlife/atlantic-spanish-mackerel.jpg",
+  "thumbnail": "/images/wildlife/atlantic-spanish-mackerel.jpg"
+}

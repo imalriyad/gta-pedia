@@ -1,0 +1,23 @@
+{
+  "id": "brand-rideout-customs",
+  "name": "Rideout Customs",
+  "slug": "rideout-customs",
+  "category": "brands",
+  "aliases": ["Vice Customs", "Rideout Tuning"],
+  "summary": "Leonida's premier automotive performance and body tuning shop franchise, taking over the role of Los Santos Customs for custom lowriders, muscle cars, and superbikes.",
+  "description": "Rideout Customs is the primary automotive workshop brand across Vice City and neighboring counties. In addition to high-end engine performance upgrades, turbocharging, and protective armor plating, Rideout specializes in coastal aesthetics: vibrant pearlescent neon paints, hydraulic kits, custom chrome rims, and tinted security glass.",
+  "industry": "Automotive Tuning & Repair",
+  "slogan": "Turn Heads. Burn Rubber.",
+  "headquarters": "Ocean Beach & Vice City Docks",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": ["brand", "company", "rideout-customs", "car-tuning", "garage", "vehicles"],
+  "relatedEntityIds": ["loc-ocean-beach", "guide-vehicle-tuning", "veh-tulip"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Rideout Customs: GTA VI Vehicle Modification Shops",
+    "description": "Complete guide to Rideout Customs garages in GTA VI. Workshop locations, tuning options, paint finishes, armor plating, and upgrade mechanics."
+  }
+}

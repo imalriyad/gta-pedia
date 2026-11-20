@@ -1,0 +1,33 @@
+{
+  "id": "fauna-holstein-cattle",
+  "name": "Holstein Cattle",
+  "slug": "holstein-cattle",
+  "category": "wildlife",
+  "aliases": [
+    "Holstein cow"
+  ],
+  "summary": "A mammal recorded in Leonida. Its entry places the cattle on central Leonida farmland and says it cannot be hunted for profit.",
+  "description": "Holstein Cattle are part of Leonida’s dairy industry and are found on central Leonida farmland. These location and interaction details have not been independently confirmed in-game.",
+  "habitat": "Central Leonida farmland (source-reported)",
+  "threatLevel": "Not established",
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "wildlife",
+    "mammal",
+    "cattle",
+    "farm"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-animals"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Holstein Cattle",
+    "description": "Source-noted profile of Holstein cattle reported in GTA VI’s Leonida animal directory."
+  },
+  "image": "/images/wildlife/holstein-cattle.jpg",
+  "thumbnail": "/images/wildlife/holstein-cattle.jpg"
+}

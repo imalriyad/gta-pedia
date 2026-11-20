@@ -1,0 +1,25 @@
+{
+  "id": "wep-mustang-357",
+  "name": "Mustang .357 Revolver",
+  "slug": "mustang-357-revolver",
+  "category": "weapons",
+  "aliases": ["Mustang 357", ".357 Magnum", "Colt Python"],
+  "summary": "Heavy-caliber six-shot double-action revolver delivering massive terminal velocity and armor penetration at close to medium ranges.",
+  "description": "The Mustang .357 is a classic American powerhouse inspired by the Colt Python and Smith & Wesson 686. Featuring a ventilated rib barrel and polished chrome or blued steel finishes, this sidearm can incapacitate hostiles with single center-mass hits and pierce unarmored vehicle engine blocks.",
+  "weaponClass": "Heavy Pistol / Revolver",
+  "capacity": "6 Rounds (.357 Magnum)",
+  "thumbnail": "/images/cards/update-secret-ending.png",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["weapons", "revolver", "magnum", "pistol", "heavy"],
+  "relatedEntityIds": ["wep-klose-k17", "char-lucia"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-04-15T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Mustang .357 Revolver: Stats, Penetration & Power",
+    "description": "Weapon overview for the Mustang .357 Revolver in GTA VI. Magnum damage output, cylinder reload mechanics, and acquisition guide."
+  }
+}
+

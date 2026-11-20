@@ -1,0 +1,26 @@
+{
+  "id": "veh-cheetah",
+  "name": "Grotti Cheetah Classic",
+  "slug": "grotti-cheetah-classic",
+  "category": "vehicles",
+  "aliases": ["Cheetah Classic", "Grotti Cheetah"],
+  "summary": "The timeless Italian mid-engine supercar symbol of 1980s Vice City opulence, roaring with twin-turbocharged performance.",
+  "description": "Nothing defines Ocean Drive cruising quite like the Grotti Cheetah Classic. Sleek pop-up headlamps, low-slung aerodynamic chassis, and vibrant red paint schemes make it one of the most sought-after exotic vehicles in Leonida.",
+  "vehicleClass": "Super Sports Classic",
+  "manufacturer": "Grotti",
+  "realWorldInspiration": "Ferrari Testarossa",
+  "thumbnail": "/images/cards/explore-activities.png",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["vehicles", "cars", "supercars", "grotti", "cheetah", "vice-city"],
+  "relatedEntityIds": ["loc-vice-city", "loc-ocean-beach"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-05-04T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Grotti Cheetah Classic: Specs, Tuning & Locations",
+    "description": "Complete guide to the Grotti Cheetah Classic in GTA VI. Specs, customization, top speed, and where to find it on Ocean Drive."
+  }
+}
+

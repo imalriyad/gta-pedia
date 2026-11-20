@@ -1,0 +1,75 @@
+{
+  "id": "guide-wanted-system",
+  "name": "Wanted Levels and Police Evasion",
+  "slug": "wanted-system-and-police-evasion",
+  "category": "guides",
+  "aliases": [
+    "Wanted Levels",
+    "Police Evasion",
+    "Heat Guide"
+  ],
+  "summary": "A practical guide to managing heat, breaking visual identification, and choosing when to hide or leave the search area.",
+  "description": "Launch guides describe a six-star wanted scale and a pursuit system that can retain identifying information after officers lose sight of you. Appearance, clothing, vehicle, weapons, partner visibility, and cameras can affect identification. Escaping is a sequence: stop drawing attention, break sightlines, change identifying details when safe, and leave the active search area.",
+  "difficulty": "Hard",
+  "estimatedTime": "20-25 Minutes",
+  "requirements": [
+    "Watch the wanted indicator and minimap.",
+    "Have a vehicle or route that allows you to leave the active search area."
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Understand the heat level",
+      "content": "Watch the wanted stars and minimap response. More serious crimes and attacks on officers can intensify the response; do not assume that driving away immediately clears the search.",
+      "tip": "If the game shows an active search, treat the area as unsafe even when no patrol car is visible."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Break line of sight and stop escalating",
+      "content": "Turn off the main road, use alleys or covered parking, and stay out of view until the search response changes. Avoid firing or colliding with police, which can raise the response.",
+      "tip": "Do not drive through the centre of the search area while trying to escape."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Reduce identifying clues",
+      "content": "When the pursuit allows it, switch vehicles or clothes, hide a longarm, separate from a visible partner, and avoid monitored routes. A paint shop may help with a vehicle’s appearance once you can reach it safely.",
+      "tip": "Changing one clue does not guarantee an immediate clean getaway."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Leave the hot zone after the search cools",
+      "content": "Once the active search relaxes, move away without speeding or drawing attention. Check the minimap and wanted indicator before returning to busy streets.",
+      "tip": "Deposit carried cash at an ATM when it is safe if you want to limit losses on arrest."
+    }
+  ],
+  "commonMistakes": [
+    "Continuing to attack officers after deciding to escape.",
+    "Returning to the crime scene while the search is still active.",
+    "Assuming breaking line of sight alone removes all identification."
+  ],
+  "thumbnail": "/images/cards/update-helicopter.png",
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 1,
+  "tags": [
+    "guide",
+    "wanted-level",
+    "police",
+    "evasion"
+  ],
+  "relatedEntityIds": [
+    "loc-vice-city",
+    "veh-banshee",
+    "veh-tulip"
+  ],
+  "sourceIds": [
+    "src-gtabase-wanted",
+    "src-gamesradar-police"
+  ],
+  "firstPublishedAt": "2024-05-14T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Wanted Levels and Police Evasion",
+    "description": "A practical guide to managing heat, breaking visual identification, and choosing when to hide or leave the search area."
+  }
+}

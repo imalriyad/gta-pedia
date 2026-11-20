@@ -1,0 +1,32 @@
+{
+  "id": "act-american-football",
+  "name": "American Football",
+  "slug": "american-football",
+  "category": "activities",
+  "aliases": [],
+  "summary": "Promotional imagery shows a football in Jason’s trunk, people tossing one on the beach, and an American Football Federation jersey. A playable football activity remains speculative.",
+  "description": "Promotional imagery shows a football in Jason’s trunk, people tossing one on the beach, and an American Football Federation jersey. A playable football activity remains speculative.",
+  "activityType": "Sport",
+  "location": "Vice City beach (observed imagery)",
+  "difficulty": "3/5",
+  "players": "Solo",
+  "sharedActivity": false,
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "sport"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "American Football",
+    "description": "Football-related imagery appears in promotional material, including a ball in Jason’s trunk, beach NPCs, and a Manatees jersey. A playable football activit"
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/Football-in-Jasons-Trunk-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/Football-in-Jasons-Trunk-1024x576.jpg"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "guide-vehicle-tuning",
+  "name": "Vehicle Repair and Customization",
+  "slug": "vehicle-tuning-guide",
+  "category": "guides",
+  "aliases": [
+    "Vehicle Customization",
+    "Vehicle Repair",
+    "Mod Shops"
+  ],
+  "summary": "Where to repair, respray, and modify vehicles, with a practical way to protect your personal-car setup.",
+  "description": "Vehicle services are spread across repair shops and specialist Mod Shops. Launch coverage reports that Pay ’n’ Spray is useful for repairs and resprays, while Mod Shops handle broader customization and upgrades. Some options unlock as the story progresses; use the service prompt and available menu as the source of truth for a specific vehicle.",
+  "difficulty": "Easy",
+  "estimatedTime": "20 minutes",
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Keep track of your personal vehicle",
+      "content": "Use the map and vehicle prompt to find your current personal car. If you plan to modify a vehicle, confirm it is the one you want to keep.",
+      "tip": "A stolen or temporary vehicle may not retain the same status as your personal vehicle."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Repair and respray at Pay ’n’ Spray",
+      "content": "Drive into an available Pay ’n’ Spray and select the offered service. A respray may also help remove visual identification during a pursuit.",
+      "tip": "If police remain nearby, first break line of sight and reach the shop without drawing more attention."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Visit a Mod Shop for upgrades",
+      "content": "Use the map to locate a Mod Shop, then browse the categories offered for that vehicle. Available parts and performance options may differ by vehicle and story progress.",
+      "tip": "Preview changes and check the price before confirming."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Test the setup safely",
+      "content": "After a major change, test handling on a quiet road and return to the shop if the setup does not suit the route or activity.",
+      "tip": "A fast build is not always best for tight city routes or rough terrain."
+    }
+  ],
+  "requirements": [
+    "A vehicle and access to an available repair shop, Pay ’n’ Spray, or Mod Shop.",
+    "Some services and upgrades unlock as the story progresses."
+  ],
+  "commonMistakes": [
+    "Assuming every shop offers identical parts.",
+    "Expecting locked upgrades to appear before story progression."
+  ],
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "guide",
+    "vehicles",
+    "customization",
+    "repair"
+  ],
+  "relatedEntityIds": [
+    "veh-tulip",
+    "veh-banshee",
+    "veh-bati-801"
+  ],
+  "sourceIds": [
+    "src-pcgamer-refuel-repair",
+    "src-powerpyx-100"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Vehicle Repair and Customization",
+    "description": "Where to repair, respray, and modify vehicles, with a practical way to protect your personal-car setup."
+  }
+}

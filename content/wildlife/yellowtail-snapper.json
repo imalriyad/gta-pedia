@@ -1,0 +1,34 @@
+{
+  "id": "fauna-yellowtail-snapper",
+  "name": "Yellowtail Snapper",
+  "slug": "yellowtail-snapper",
+  "category": "wildlife",
+  "aliases": [],
+  "summary": "A small marine fish recorded in Leonida. The reference describes catches in Leonida’s southern coastal waters and deeper western waters.",
+  "description": "Yellowtail Snapper is described as a small marine fish found around Leonida, especially in southern coastal and deeper western waters. Specific bait, catch rates, and exact fishing spots should be verified in-game.",
+  "habitat": "Leonida waters (source-reported)",
+  "threatLevel": "Not applicable",
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "wildlife",
+    "fish",
+    "fishing",
+    "marine"
+  ],
+  "relatedEntityIds": [
+    "act-fishing",
+    "loc-leonida-keys"
+  ],
+  "sourceIds": [
+    "src-gta6bible-animals"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Yellowtail Snapper",
+    "description": "Source-noted habitat and fishing reference for Yellowtail Snapper in Leonida."
+  },
+  "image": "/images/wildlife/yellowtail-snapper.jpg",
+  "thumbnail": "/images/wildlife/yellowtail-snapper.jpg"
+}

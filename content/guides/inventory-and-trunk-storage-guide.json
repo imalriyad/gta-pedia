@@ -1,0 +1,72 @@
+{
+  "id": "guide-inventory",
+  "name": "Weapons, Items, and Vehicle Storage",
+  "slug": "inventory-and-trunk-storage-guide",
+  "category": "guides",
+  "aliases": [
+    "Weapon Wheel",
+    "Weapon Storage",
+    "Loadout Guide"
+  ],
+  "summary": "Understand the compact weapon loadout, equipment tabs, and how to retrieve stored weapons from a personal vehicle.",
+  "description": "The launch weapon system uses a limited active loadout, with additional weapons stored in a personal vehicle or weapon locker. GamesRadar reports two sidearm slots, two longarm slots, melee and explosives, with separate Weapons and Items tabs. The exact capacity and menu labels can vary by protagonist or progression.",
+  "difficulty": "Easy",
+  "estimatedTime": "10-15 Minutes",
+  "requirements": [
+    "Access to the weapon wheel and a personal vehicle or weapon locker for stored weapons."
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Open the weapon wheel",
+      "content": "Hold L1/LB to open the loadout. Use R1/RB to switch between the Weapons and Items tabs, then select a slot.",
+      "tip": "Read the on-screen control prompts if your controller layout has been remapped."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Choose a compact carry loadout",
+      "content": "Prioritize a reliable sidearm, a suitable longarm, and the equipment needed for the activity. Extra weapons may need to stay in storage.",
+      "tip": "Select the right tool before entering a mission; swapping at a vehicle may not be possible mid-objective."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Retrieve stored weapons from your personal vehicle",
+      "content": "Stand beside your personal vehicle and use the interaction prompt (reported as Triangle/Y, then hold L1/LB) to access the trunk loadout. Use the wheel to equip or stow an available weapon.",
+      "tip": "Only the personal vehicle’s stored inventory is available through this route."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Use an Ammu-Nation locker when available",
+      "content": "Visit the weapon locker to manage the weapons kept outside the active loadout. Check the inventory after purchases or story unlocks.",
+      "tip": "Do not assume buying a weapon automatically equips it in an active slot."
+    }
+  ],
+  "commonMistakes": [
+    "Carrying every owned weapon at once.",
+    "Confusing the Items tab with the vehicle-stored weapons list."
+  ],
+  "thumbnail": "/images/cards/update-secret-ending.png",
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "guide",
+    "loadout",
+    "inventory",
+    "weapons"
+  ],
+  "relatedEntityIds": [
+    "wep-duke-556",
+    "wep-moreland-850",
+    "veh-tulip"
+  ],
+  "sourceIds": [
+    "src-gamesradar-loadout"
+  ],
+  "firstPublishedAt": "2024-05-12T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Weapons, Items, and Vehicle Storage",
+    "description": "Understand the compact weapon loadout, equipment tabs, and how to retrieve stored weapons from a personal vehicle."
+  }
+}

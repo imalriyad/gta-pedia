@@ -1,0 +1,25 @@
+{
+  "id": "ee-vice-city-callback",
+  "name": "Vice City 2002 Nostalgia Callbacks",
+  "slug": "vice-city-callback",
+  "category": "easter-eggs",
+  "aliases": ["GTA Vice City References", "Tommy Vercetti References", "1986 Callbacks"],
+  "summary": "GTA VI is set in Vice City and contains deliberate callbacks to the 2002 classic, including the iconic Malibu Club neon sign, Vercetti estate nods, and retro radio broadcasts.",
+  "description": "Returning to Vice City after over two decades, GTA VI incorporates architectural, musical, and dialogue references celebrating the 1980s aesthetic of Grand Theft Auto: Vice City. From iconic beachside avenues to familiar club facades, veteran players will encounter numerous homages to the Tommy Vercetti era.",
+  "discoveryMethod": "Explore Vice City landmarks, tune into retro radio channels, and inspect historical markers throughout Ocean Beach.",
+  "discoveryLocation": "Ocean Beach, Starfish Island, and Downtown Vice City",
+  "prerequisites": "None.",
+  "evidence": "Architectural preservation of the Malibu Club exterior aesthetic and archival mentions in Leonida radio broadcasts.",
+  "interpretation": "A tribute to the origins of the Vice City setting while framing its contemporary modern evolution.",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": ["easter-egg", "vice-city", "nostalgia", "malibu-club", "radio"],
+  "relatedEntityIds": ["loc-vice-city", "loc-malibu-club"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Vice City 2002 Callbacks & Nostalgia",
+    "description": "Explore all classic 2002 GTA Vice City references in GTA VI. Discover Malibu Club nods, retro radio tracks, and homage locations."
+  }
+}

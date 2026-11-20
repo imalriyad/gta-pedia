@@ -1,0 +1,32 @@
+{
+  "id": "act-shooting-range",
+  "name": "Shooting Range",
+  "slug": "shooting-range",
+  "category": "activities",
+  "aliases": [],
+  "summary": "Extended Look footage shows Lucia in a target challenge with a timer and score feedback; the source describes 12 targets in the displayed course.",
+  "description": "Extended Look footage shows Lucia in a target challenge with a timer and score feedback; the source describes 12 targets in the displayed course.",
+  "activityType": "Mini-Game",
+  "location": "Unknown",
+  "difficulty": "3/5",
+  "players": "Solo",
+  "sharedActivity": false,
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "mini-game"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Shooting Range",
+    "description": "Extended Look footage shows Lucia at a shooting challenge with targets, a timer, and score feedback. The reference page describes a 12-target course; rewar"
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/10/Shooting-Range-HUD-GTA-6-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/10/Shooting-Range-HUD-GTA-6-1024x576.jpg"
+}

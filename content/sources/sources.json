@@ -1,0 +1,246 @@
+[
+  {
+    "id": "src-gta6bible-animals",
+    "title": "GTA 6 Animals",
+    "url": "https://gta6bible.com/animals/",
+    "sourceType": "reputable-publication",
+    "publisher": "GTA 6 Bible",
+    "notes": "Reference for the Animals directory and its animal profile category."
+  },
+  {
+    "id": "src-gta6bible-activities",
+    "title": "GTA 6 Activities",
+    "url": "https://gta6bible.com/activities/",
+    "sourceType": "reputable-publication",
+    "publisher": "GTA 6 Bible",
+    "accessedAt": "2026-11-20",
+    "notes": "Reference for the 18-entry activities directory and its linked activity profiles. Activity availability and estimated details remain labelled as reported."
+  },
+  {
+    "id": "src-gta6bible-vehicles",
+    "title": "GTA 6 Vehicles",
+    "url": "https://gta6bible.com/vehicles/",
+    "sourceType": "reputable-publication",
+    "publisher": "GTA 6 Bible",
+    "accessedAt": "2026-11-20",
+    "notes": "Secondary reference for the vehicle index, displayed names, classes, and source status. Performance values may be estimates."
+  },
+  {
+    "id": "src-gta6bible-gangs",
+    "title": "Every Gang and Faction in GTA 6",
+    "url": "https://gta6bible.com/every-gang-and-faction-in-gta-6/",
+    "sourceType": "reputable-publication",
+    "publisher": "GTA 6 Bible",
+    "publishedAt": "2026-10-28",
+    "accessedAt": "2026-11-20",
+    "notes": "Secondary reference for the two named gangs and the Rockstar imagery cited in their profiles. The source distinguishes observed names from speculation."
+  },
+  {
+    "id": "src-pcgamer-refuel-repair",
+    "title": "Refueling cars in GTA 6 is barely necessary, but there's much better reason to visit garages",
+    "publisher": "PC Gamer",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-refuel-repair-cars/",
+    "publishedAt": "2026-11-19",
+    "accessedAt": "2026-11-20",
+    "sourceType": "reputable-publication",
+    "notes": "Launch-era coverage of vehicle repair, refueling, Pay 'n' Spray, and Mod Shops."
+  },
+  {
+    "id": "src-trailer-1",
+    "title": "Grand Theft Auto VI Trailer 1",
+    "url": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+    "sourceType": "official-trailer",
+    "publisher": "Rockstar Games",
+    "publishedAt": "2023-12-04",
+    "notes": "First official reveal trailer introducing Lucia, Jason, and the state of Leonida including Vice City."
+  },
+  {
+    "id": "src-press-release-1",
+    "title": "Rockstar Games Announces Grand Theft Auto VI",
+    "url": "https://www.rockstargames.com/newswire/article/4k83k5214o1o9a/grand-theft-auto-vi-trailer-1",
+    "sourceType": "official-website",
+    "publisher": "Rockstar Games",
+    "publishedAt": "2023-12-04",
+    "notes": "Official press release confirming setting in Leonida and the neon-soaked streets of Vice City."
+  },
+  {
+    "id": "src-community-mapping",
+    "title": "Leonida Community Cartography & Trailer Analysis",
+    "sourceType": "community-research",
+    "publisher": "GTA Mapping Community",
+    "publishedAt": "2024-06-15",
+    "notes": "Comprehensive community triangulation of visible landmarks and geography from trailer footage."
+  },
+  {
+    "id": "src-rockstar-only-in-leonida",
+    "title": "Only in Leonida: Official Character Profiles",
+    "url": "https://www.rockstargames.com/VI/only-in-leonida",
+    "sourceType": "official-website",
+    "publisher": "Rockstar Games",
+    "publishedAt": "2025-05-06",
+    "notes": "Official profiles for the principal cast and the stated links between them."
+  },
+  {
+    "id": "src-rockstar-map",
+    "title": "Grand Theft Auto VI Media: Leonida Map & Cover Art Poster",
+    "url": "https://www.rockstargames.com/VI/media",
+    "sourceType": "official-website",
+    "publisher": "Rockstar Games",
+    "publishedAt": "2026-11-19",
+    "notes": "Rockstar's official page offers the printable Leonida map; use it for authoritative geography."
+  },
+  {
+    "id": "src-powerpyx-100",
+    "title": "GTA 6 100% Completion Checklist & Guide",
+    "url": "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/",
+    "sourceType": "reputable-publication",
+    "publisher": "PowerPyx",
+    "publishedAt": "2026-11-18",
+    "notes": "Launch-era checklist, requirement counts, progression menu paths, and completion tips."
+  },
+  {
+    "id": "src-gtabase-100",
+    "title": "GTA 6 100% Completion Guide & Interactive Checklist",
+    "url": "https://www.gtabase.com/articles/gta-6/gta-6-100-completion-guide-interactive-checklist",
+    "sourceType": "reputable-publication",
+    "publisher": "GTABase",
+    "publishedAt": "2026-11-18",
+    "notes": "Independent cross-check of the 35 launch checklist criteria and their walkthroughs."
+  },
+  {
+    "id": "src-powerpyx-walkthrough",
+    "title": "GTA 6 Full Walkthrough — All Missions",
+    "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+    "sourceType": "reputable-publication",
+    "publisher": "PowerPyx",
+    "publishedAt": "2026-11-18",
+    "notes": "Launch walkthrough covering chapters, mission availability, and time-sensitive optional content."
+  },
+  {
+    "id": "src-pcgamer-missions",
+    "title": "Here's Every GTA 6 Mission and Chapter",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mission-list/",
+    "sourceType": "reputable-publication",
+    "publisher": "PC Gamer",
+    "publishedAt": "2026-11-18",
+    "notes": "Independent chapter and main-mission list; mission summaries are paraphrased in our index."
+  },
+  {
+    "id": "src-powerpyx-trophies",
+    "title": "GTA 6 Trophy Guide & Roadmap",
+    "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+    "sourceType": "reputable-publication",
+    "publisher": "PowerPyx",
+    "publishedAt": "2026-11-18",
+    "notes": "Launch trophy count, missables, free-roam cleanup, and roadmap."
+  },
+  {
+    "id": "src-powerpyx-money",
+    "title": "GTA 6 Money Guide — How to Get Money Fast",
+    "url": "https://www.powerpyx.com/gta-6-money-guide-how-to-get-money-fast/",
+    "sourceType": "reputable-publication",
+    "publisher": "PowerPyx",
+    "publishedAt": "2026-11-18",
+    "notes": "Chapter-gated money methods verified during launch coverage."
+  },
+  {
+    "id": "src-powerpyx-aircraft",
+    "title": "GTA 6 Helicopter & Plane Locations",
+    "url": "https://www.powerpyx.com/gta-6-helicopter-plane-locations/",
+    "sourceType": "reputable-publication",
+    "publisher": "PowerPyx",
+    "publishedAt": "2026-11-18",
+    "notes": "Launch-era aircraft location list and access notes."
+  },
+  {
+    "id": "src-powerpyx-cheats",
+    "title": "GTA 6 All Cheats",
+    "url": "https://www.powerpyx.com/gta-6-all-cheats/",
+    "sourceType": "reputable-publication",
+    "publisher": "PowerPyx",
+    "publishedAt": "2026-11-18",
+    "notes": "A regularly updated list of confirmed cheat inputs. Check the page for codes and platform-specific sequences."
+  },
+  {
+    "id": "src-pcgamer-wanted",
+    "title": "How to Reach 6 Stars in GTA 6",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-six-stars/",
+    "sourceType": "reputable-publication",
+    "publisher": "PC Gamer",
+    "publishedAt": "2026-11-19",
+    "notes": "Launch guide to the six-star wanted tier."
+  },
+  {
+    "id": "src-gamesradar-police",
+    "title": "Rockstar Explains GTA 6's Wanted System",
+    "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-says-gta-6s-police-can-be-harder-to-shake-off-than-before-but-its-fun-because-it-forces-you-to-think-more/",
+    "sourceType": "interview",
+    "publisher": "GamesRadar+",
+    "publishedAt": "2026-09-01",
+    "notes": "Interview with Rockstar North co-studio head Rob Nelson about the wanted system design."
+  },
+  {
+    "id": "src-pc-release-status",
+    "title": "Grand Theft Auto VI Official Platform Listing",
+    "url": "https://www.rockstargames.com/VI",
+    "sourceType": "official-website",
+    "publisher": "Rockstar Games",
+    "publishedAt": "2026-11-19",
+    "notes": "Rockstar's current game page lists console platforms; it does not publish PC system requirements."
+  },
+  {
+    "id": "src-pushsquare-switching",
+    "title": "GTA 6: How to Change Characters",
+    "url": "https://www.pushsquare.com/guides/gta-6-how-to-change-characters",
+    "sourceType": "reputable-publication",
+    "publisher": "Push Square",
+    "publishedAt": "2026-11-19",
+    "notes": "Launch control guide for swapping, inviting the partner, and story-based restrictions."
+  },
+  {
+    "id": "src-gamesradar-loadout",
+    "title": "How to Store and Recover Longarms from Your Car",
+    "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-manage-loadout/",
+    "sourceType": "reputable-publication",
+    "publisher": "GamesRadar+",
+    "publishedAt": "2026-11-19",
+    "notes": "Launch guide to the on-foot loadout, personal vehicle trunk, and Ammu-Nation weapon locker."
+  },
+  {
+    "id": "src-gtabase-wanted",
+    "title": "GTA 6 Wanted Level & Heat Guide",
+    "url": "https://www.gtabase.com/articles/gta-6/gta-6-wanted-level-explained-police-system-guide",
+    "sourceType": "reputable-publication",
+    "publisher": "GTABase",
+    "publishedAt": "2026-11-19",
+    "notes": "Launch guide to wanted states, heat identifiers, evasion, and losses when busted."
+  },
+  {
+    "id": "src-gta6-how-hunting",
+    "title": "GTA 6 Hunting and Wildlife Study Guide",
+    "url": "https://gta6.how/gameplay/activities/hunting/",
+    "sourceType": "reputable-publication",
+    "publisher": "GTA6.how",
+    "publishedAt": "2026-11-18",
+    "notes": "Launch-era instructions for studying wildlife with binoculars and regional habitats."
+  },
+  {
+    "id": "src-gameta-weapon-custom",
+    "title": "GTA 6 Weapon Customization Guide",
+    "url": "https://gameta.io/guides/gta-6-weapon-customization-guide",
+    "sourceType": "reputable-publication",
+    "publisher": "Gameta",
+    "publishedAt": "2026-11-19",
+    "notes": "Launch-era coverage of weapon modification at shops and weapon-specific options."
+  },
+  {
+    "id": "src-pcgamer-save",
+    "title": "How to Save Your Game in GTA 6",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-save-game/",
+    "sourceType": "reputable-publication",
+    "publisher": "PC Gamer",
+    "publishedAt": "2026-11-19",
+    "notes": "Launch instructions for creating manual saves."
+  }
+]
+

@@ -1,0 +1,32 @@
+{
+  "id": "act-dirt-biking",
+  "name": "Dirt Biking",
+  "slug": "dirt-biking",
+  "category": "activities",
+  "aliases": [],
+  "summary": "Promotional footage shows off-road motorcycle riding and racing. Specific event structure, locations, and rewards remain unconfirmed.",
+  "description": "Promotional footage shows off-road motorcycle riding and racing. Specific event structure, locations, and rewards remain unconfirmed.",
+  "activityType": "Leisure",
+  "location": "Leonida off-road areas",
+  "difficulty": "3/5",
+  "players": "Multiplayer listed by source; not confirmed",
+  "sharedActivity": false,
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "leisure"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Dirt Biking",
+    "description": "Promotional footage shows off-road motorcycle riding and racing. Specific event structure, locations, and rewards remain unconfirmed."
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/Bikers-in-GTA-6-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/Bikers-in-GTA-6-1024x576.jpg"
+}

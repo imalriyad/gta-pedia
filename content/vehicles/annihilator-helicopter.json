@@ -1,0 +1,25 @@
+{
+  "id": "veh-annihilator",
+  "name": "Annihilator Attack Helicopter",
+  "slug": "annihilator-helicopter",
+  "category": "vehicles",
+  "aliases": [],
+  "summary": "Military-grade attack helicopter with side-mounted miniguns and rocket pods. Used by LCSO pursuit helicopters at 5-star wanted levels in Leonida.",
+  "description": "The Buckingham Annihilator is a military-grade attack helicopter drawing from the AH-64 Apache design language. Armed with side-mounted miniguns and underslung rocket pods, it appears as the LCSO's heavy pursuit asset at 5-star wanted levels across Leonida State. Its armored airframe withstands significant small-arms fire and its weapons systems can disable vehicles rapidly.",
+  "vehicleClass": "Helicopter",
+  "manufacturer": "Buckingham",
+  "realWorldInspiration": "AH-64 Apache",
+  "thumbnail": "/images/cards/explore-activities.png",
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": ["vehicles", "helicopter", "buckingham", "military", "police", "wanted"],
+  "relatedEntityIds": [],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2026-11-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Annihilator Attack Helicopter: Specs & Locations",
+    "description": "Complete profile of the Buckingham Annihilator in GTA VI. Weapons, armor rating, and when LCSO deploys this military helicopter during 5-star pursuits."
+  }
+}

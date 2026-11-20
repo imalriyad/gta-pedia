@@ -1,0 +1,32 @@
+{
+  "id": "act-strip-clubs",
+  "name": "Strip Clubs",
+  "slug": "strip-clubs",
+  "category": "activities",
+  "aliases": [],
+  "summary": "The Extended Look shows Jason and Lucia visiting a strip club together. The named venues are Jack of Hearts in Vice City and Delights in Port Gellhorn.",
+  "description": "The Extended Look shows Jason and Lucia visiting a strip club together. The named venues are Jack of Hearts in Vice City and Delights in Port Gellhorn.",
+  "activityType": "Leisure",
+  "location": "Vice City (venue details unknown)",
+  "difficulty": "Unknown",
+  "players": "Solo",
+  "sharedActivity": false,
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "leisure"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Strip Clubs",
+    "description": "The activities directory includes strip clubs as a leisure entry. Specific venues, interactions, and gameplay effects are not documented in this record."
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/03/Jack-of-Hearts-in-GTA-VI-Trailer-1-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/03/Jack-of-Hearts-in-GTA-VI-Trailer-1-1024x576.jpg"
+}

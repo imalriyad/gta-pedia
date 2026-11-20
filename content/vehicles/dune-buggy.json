@@ -1,0 +1,25 @@
+{
+  "id": "veh-dune-buggy",
+  "name": "BF Dune Buggy",
+  "slug": "dune-buggy",
+  "category": "vehicles",
+  "aliases": [],
+  "summary": "Lightweight off-road buggy built for Grassrivers terrain. Excellent off-road handling on swamp dirt tracks. Seen during Mud Bogging activity sequences.",
+  "description": "The BF Dune Buggy is a lightweight open-frame off-road vehicle inspired by the classic Meyers Manx. Purpose-built for Grassrivers terrain, it excels on the swamp dirt tracks, shallow water crossings, and muddy trails that define southern Leonida. Its roll cage, long-travel suspension, and high ground clearance are on display during the game's Mud Bogging side activity sequences.",
+  "vehicleClass": "Off-Road",
+  "manufacturer": "BF",
+  "realWorldInspiration": "Meyers Manx",
+  "thumbnail": "/images/cards/explore-activities.png",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": ["vehicles", "off-road", "bf", "buggy", "grassrivers", "mud"],
+  "relatedEntityIds": [],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2026-11-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "BF Dune Buggy: Specs & Locations",
+    "description": "Complete guide to the BF Dune Buggy in GTA VI. Off-road stats, Mud Bogging activity, and how to find this Grassrivers terrain vehicle."
+  }
+}

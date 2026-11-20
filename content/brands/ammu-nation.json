@@ -1,0 +1,23 @@
+{
+  "id": "brand-ammu-nation",
+  "name": "Ammu-Nation",
+  "slug": "ammu-nation",
+  "category": "brands",
+  "aliases": ["AmmuNation", "Protecting Your Rights"],
+  "summary": "The iconic firearms retail franchise serving the citizens of America since 1984. Stores across Leonida feature shooting ranges, gunsmith workbenches, and body armor supplies.",
+  "description": "Ammu-Nation ('Protecting Your Rights!') returns as the primary legal firearms provider across Leonida. Stores feature expanded workbench gunsmith facilities where players customize ballistics, scopes, suppressors, and extended magazines. Commercial radio spots enthusiastically celebrate extreme Second Amendment lifestyle parodies.",
+  "industry": "Firearms & Tactical Equipment Retail",
+  "slogan": "Protecting Your Rights!",
+  "headquarters": "Vice City Financial District",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["brand", "company", "ammu-nation", "weapons", "firearms", "stores"],
+  "relatedEntityIds": ["guide-weapon-customization", "wep-duke-556", "wep-klose-k17"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Ammu-Nation: Gun Stores & Gunsmith Guide",
+    "description": "Ammu-Nation store directory in GTA VI. Gunsmith upgrade mechanics, ammunition purchases, shooting range challenges, and store locations."
+  }
+}

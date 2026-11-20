@@ -1,0 +1,25 @@
+{
+  "id": "wpn-molotov",
+  "name": "Molotov Cocktail",
+  "slug": "molotov-cocktail",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "Incendiary thrown weapon. Creates a burning pool on impact igniting enemies, vehicles, and terrain. Confirmed in Grassrivers combat sequences.",
+  "description": "The Molotov Cocktail is a classic improvised incendiary device confirmed in GTA VI Grassrivers combat sequences. On impact it shatters and creates a persistent burning pool that ignites enemies, vehicles, and flammable terrain. The fire lingers for several seconds, area-denying chokepoints and flushing enemies from cover. Each throw consumes one unit from inventory.",
+  "weaponClass": "Thrown",
+  "capacity": "1 per throw",
+  "thumbnail": "/images/cards/update-secret-ending.png",
+  "image": "/images/hero/hero-banner.png",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": ["thrown", "incendiary", "fire", "explosive"],
+  "relatedEntityIds": [],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2026-11-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Molotov Cocktail: Stats & Locations",
+    "description": "Complete profile of the Molotov Cocktail in GTA VI. Fire duration, damage, and where to find this incendiary thrown weapon in Leonida."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "act-hunting",
+  "name": "Hunting",
+  "slug": "hunting",
+  "category": "activities",
+  "aliases": [],
+  "summary": "Hunting is described as a confirmed activity, with money and animal-compendium progress reported as rewards. Mount Kalaga’s official description also mentions hunting.",
+  "description": "Hunting is described as a confirmed activity, with money and animal-compendium progress reported as rewards. Mount Kalaga’s official description also mentions hunting.",
+  "activityType": "Mini-Game",
+  "location": "Leonida wilderness",
+  "difficulty": "3/5",
+  "players": "Solo",
+  "sharedActivity": false,
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "mini-game"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Hunting",
+    "description": "Hunting is described as a confirmed activity, with money and animal-compendium progress reported as rewards. Mount Kalaga’s official description also mentions hunting."
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/10/GTA-6-Animals-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/10/GTA-6-Animals-1024x576.jpg"
+}

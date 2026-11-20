@@ -1,0 +1,32 @@
+{
+  "id": "act-wrestling",
+  "name": "Wrestling",
+  "slug": "wrestling",
+  "category": "activities",
+  "aliases": [],
+  "summary": "Extended Look footage shows Jason in a backyard wrestling match. The source says match rules, win conditions, and rewards are still unknown.",
+  "description": "Extended Look footage shows Jason in a backyard wrestling match. The source says match rules, win conditions, and rewards are still unknown.",
+  "activityType": "Sport",
+  "location": "Backyard setting; exact location unknown",
+  "difficulty": "3/5",
+  "players": "Solo",
+  "sharedActivity": false,
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "sport"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Wrestling",
+    "description": "Extended Look footage shows Jason in a backyard wrestling ring. It is unclear whether this is a repeatable activity or a story scene, and rewards are unkno"
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/09/Wrestler-Body-Slamming-Jason-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/09/Wrestler-Body-Slamming-Jason-1024x576.jpg"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "act-base-jumping",
+  "name": "Base Jumping",
+  "slug": "base-jumping",
+  "category": "activities",
+  "aliases": [],
+  "summary": "Promotional footage shows Lucia jumping from a height and deploying a parachute. Whether this is a repeatable activity with challenge routes is unknown.",
+  "description": "Promotional footage shows Lucia jumping from a height and deploying a parachute. Whether this is a repeatable activity with challenge routes is unknown.",
+  "activityType": "Leisure",
+  "location": "Leonida (exact start points unknown)",
+  "difficulty": "3/5",
+  "players": "Solo",
+  "sharedActivity": false,
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "leisure"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Base Jumping",
+    "description": "Promotional footage shows Lucia jumping from a height and deploying a parachute. Whether this is a repeatable activity with challenge routes is unknown."
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/09/GTA-6-Skydiving-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/09/GTA-6-Skydiving-1024x576.jpg"
+}

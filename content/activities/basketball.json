@@ -1,0 +1,32 @@
+{
+  "id": "act-basketball",
+  "name": "Basketball",
+  "slug": "basketball",
+  "category": "activities",
+  "aliases": [],
+  "summary": "Extended Look footage shows Jason handling a basketball and shooting at a hoop. The exact rules, multiplayer options, and any stat effects have not been confirmed.",
+  "description": "Extended Look footage shows Jason handling a basketball and shooting at a hoop. The exact rules, multiplayer options, and any stat effects have not been confirmed.",
+  "activityType": "Sport",
+  "location": "Jason’s safehouse; Vice City court shown",
+  "difficulty": "3/5",
+  "players": "Solo",
+  "sharedActivity": false,
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": [
+    "activity",
+    "sport"
+  ],
+  "relatedEntityIds": [],
+  "sourceIds": [
+    "src-gta6bible-activities"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Basketball",
+    "description": "Extended Look footage shows Jason handling a basketball and shooting at a hoop. The exact rules, multiplayer options, and any stat effects have not been co"
+  },
+  "image": "https://gta6bible.com/wp-content/uploads/2026/04/Jason-playing-Basketball-GTA-6-1024x576.jpg",
+  "thumbnail": "https://gta6bible.com/wp-content/uploads/2026/04/Jason-playing-Basketball-GTA-6-1024x576.jpg"
+}

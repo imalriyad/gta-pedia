@@ -1,0 +1,50 @@
+{
+  "id": "msn-prison-prologue",
+  "name": "Prologue",
+  "slug": "prison-break-prologue",
+  "category": "missions",
+  "aliases": [
+    "Prologue",
+    "The Beginning"
+  ],
+  "summary": "The opening main-story mission. Public launch walkthroughs confirm the mission title and sequence; this page avoids inventing scene-by-scene objectives.",
+  "description": "Lucia and Jason are the two protagonists. Use the in-game objective list for exact steps and rewards; those details can vary with story choices or updates.",
+  "missionType": "Main Story",
+  "protagonists": [
+    "char-lucia"
+  ],
+  "difficulty": "See in-game mission",
+  "estimatedTime": "Not reliably published",
+  "rewards": [],
+  "objectives": [
+    "Follow the on-screen mission objectives",
+    "Check the linked walkthrough for current step-by-step details"
+  ],
+  "tips": [
+    "Use the in-game objective list as the authoritative source",
+    "Save before a major story transition if preserving progress matters"
+  ],
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 1,
+  "tags": [
+    "main-story",
+    "prologue",
+    "lucia",
+    "prison",
+    "tutorial"
+  ],
+  "relatedEntityIds": [
+    "char-lucia",
+    "char-jason"
+  ],
+  "sourceIds": [
+    "src-powerpyx-walkthrough",
+    "src-pcgamer-missions"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Prologue Mission",
+    "description": "The opening main-story mission. Public launch walkthroughs confirm the mission title and sequence; this page avoids inventing scene-by-scene objectives."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "fauna-shark",
+  "name": "Great Hammerhead Shark",
+  "slug": "hammerhead-shark",
+  "category": "wildlife",
+  "aliases": ["Hammerhead", "Deep Ocean Predator"],
+  "summary": "Large marine apex predator patrolling the deep offshore drop-offs and reefs beyond Vice City and the Keys. A deadly menace to stranded swimmers and scuba divers.",
+  "description": "Great Hammerhead Sharks roam the open Atlantic waters surrounding the Leonida coastline. While shallow bathing zones on Ocean Beach are relatively safe, swimming into deep ocean boundaries or investigating submerged shipwrecks risks attracting inquisitive or predatory sharks. Attacking sharks deal massive lethal damage unless repelled with spearguns or firearms.",
+  "habitat": "Deep Atlantic offshore waters, Leonida Keys outer reefs, shipwreck zones",
+  "threatLevel": "Extremely Dangerous",
+  "drops": ["Shark Tooth Trophy"],
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": ["wildlife", "marine", "shark", "predator", "ocean-beach", "keys"],
+  "relatedEntityIds": ["loc-ocean-beach", "loc-leonida-keys"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Hammerhead Shark: Dangerous Marine Fauna",
+    "description": "Guide to the Great Hammerhead Shark in GTA VI. Deep ocean territories, attack behaviors, survival tips for shipwreck diving, and combat."
+  }
+}

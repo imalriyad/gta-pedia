@@ -1,0 +1,53 @@
+{
+  "id": "msn-keys-heist",
+  "name": "Gone Fishing",
+  "slug": "keys-heist-setup",
+  "category": "missions",
+  "aliases": [
+    "The Keys Job",
+    "Island Score Setup"
+  ],
+  "summary": "A main-story mission listed in launch walkthrough indexes. The earlier fan-made yacht infiltration description was not supported and has been removed.",
+  "description": "Follow the objective markers and dialogue prompts shown in game. No unverified approach choices or reward amounts are listed here.",
+  "missionType": "Main Story",
+  "protagonists": [
+    "char-lucia",
+    "char-jason"
+  ],
+  "difficulty": "See in-game mission",
+  "estimatedTime": "Not reliably published",
+  "rewards": [],
+  "objectives": [
+    "Follow the on-screen mission objectives",
+    "Check the linked walkthrough for current step-by-step details"
+  ],
+  "tips": [
+    "Use the in-game objective list as the authoritative source",
+    "Save before a major story transition if preserving progress matters"
+  ],
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 2,
+  "tags": [
+    "main-story",
+    "keys",
+    "stealth",
+    "heist",
+    "cal-hampton"
+  ],
+  "relatedEntityIds": [
+    "char-lucia",
+    "char-jason",
+    "char-cal-hampton",
+    "loc-leonida-keys"
+  ],
+  "sourceIds": [
+    "src-powerpyx-walkthrough",
+    "src-pcgamer-missions"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Gone Fishing Mission",
+    "description": "A main-story mission listed in launch walkthrough indexes. The earlier fan-made yacht infiltration description was not supported and has been removed."
+  }
+}

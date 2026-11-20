@@ -1,0 +1,50 @@
+{
+  "id": "char-lucia",
+  "name": "Lucia",
+  "slug": "lucia",
+  "category": "characters",
+  "aliases": [
+    "Lucia Caminos"
+  ],
+  "summary": "One of the two primary playable protagonists of Grand Theft Auto VI, portrayed navigating high-risk heists and personal survival across Leonida with her partner Jason.",
+  "description": "Lucia is the first female protagonist in the HD universe of the Grand Theft Auto series. First introduced in the official reveal trailer wearing a prison uniform at the Leonida Department of Corrections, she demonstrates a resilient, calculated, and street-smart persona. Her dynamic with Jason forms the emotional and criminal core of the storyline, operating under a mutual pact of trust in a chaotic modern Vice City.",
+  "role": "Playable Protagonist",
+  "affiliations": [
+    "Jason Duval's Crew",
+    "Leonida Dept. of Corrections (formerly)"
+  ],
+  "knownLocations": [
+    "loc-vice-city",
+    "loc-ocean-beach",
+    "loc-malibu-club"
+  ],
+  "voiceActor": "Unconfirmed",
+  "personality": "Pragmatic, resolute, fiercely loyal yet cautious under pressure.",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 1,
+  "tags": [
+    "protagonist",
+    "playable",
+    "heists",
+    "vice-city"
+  ],
+  "relatedEntityIds": [
+    "char-jason",
+    "loc-vice-city",
+    "loc-malibu-club",
+    "guide-100-completion"
+  ],
+  "sourceIds": [
+    "src-trailer-1",
+    "src-press-release-1"
+  ],
+  "firstPublishedAt": "2024-01-15T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Lucia: Biography, Role & Verified Details",
+    "description": "Comprehensive profile of Lucia, female protagonist of GTA VI. Explore confirmed background, story role, trailer analysis, and relationship with Jason."
+  },
+  "image": "/images/characters/lucia-caminos-portrait-1080.webp",
+  "thumbnail": "/images/characters/lucia-caminos-portrait-1080.webp"
+}

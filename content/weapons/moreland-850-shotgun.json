@@ -1,0 +1,25 @@
+{
+  "id": "wep-moreland-850",
+  "name": "Moreland 850 Shotgun",
+  "slug": "moreland-850-shotgun",
+  "category": "weapons",
+  "aliases": ["Moreland 850", "Pump Shotgun", "Remington 870"],
+  "summary": "Rugged, high-impact 12-gauge pump-action shotgun manufactured by Moreland, delivering devastating close-quarters stopping power.",
+  "description": "Featured prominently in stash house breaches and convenience store robberies, the Moreland 850 is modeled after the legendary Remington 870. Holding up to 8 rounds in its extended tubular magazine, its buckshot spread dominates indoor CQB engagements and vehicle disablement.",
+  "weaponClass": "Shotgun",
+  "capacity": "8 Shells (12 Gauge)",
+  "thumbnail": "/images/cards/update-secret-ending.png",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": ["weapons", "shotgun", "pump-action", "moreland", "breaching"],
+  "relatedEntityIds": ["wep-duke-556", "char-jason"],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2024-04-12T00:00:00Z",
+  "lastUpdatedAt": "2026-11-19T00:00:00Z",
+  "seo": {
+    "title": "Moreland 850 Shotgun: Specs, Damage & Locations",
+    "description": "Full guide to the Moreland 850 Shotgun in GTA VI. Pump-action stats, spread patterns, breaching utility, and ammo capacity."
+  }
+}
+

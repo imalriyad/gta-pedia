@@ -1,0 +1,63 @@
+{
+  "id": "loc-vice-city",
+  "name": "Vice City",
+  "slug": "vice-city",
+  "category": "locations",
+  "aliases": [
+    "The Magic City",
+    "Vice",
+    "Greater Vice City Metro"
+  ],
+  "summary": "The premier metropolis of Leonida, renowned for its glittering neon nightlife, vibrant beaches, opulent waterways, and gritty criminal districts.",
+  "description": "Vice City returns in Grand Theft Auto VI as the centerpiece of the state of Leonida. Re-imagined on a monumental scale for the current generation, Vice City spans luxurious coastal beachfronts lined with art-deco hotels, towering downtown skyscrapers, lively nightlife corridors like Ocean Drive and Little Haiti, and industrial docklands. It serves as the primary setting for Lucia and Jason's criminal exploits.",
+  "region": "State of Leonida",
+  "district": "Metro Vice City",
+  "locationType": "Metropolis",
+  "landmarks": [
+    "Ocean Drive",
+    "The Malibu Club",
+    "Vice City Ferris Wheel",
+    "Starfish Island",
+    "Vice City International Airport"
+  ],
+  "businesses": [
+    "Malibu Club",
+    "VCPD Headquarters",
+    "Ammu-Nation Downtown"
+  ],
+  "activities": [
+    "Nightclubs",
+    "Street Racing",
+    "Boating & Jetskiing",
+    "Heists"
+  ],
+  "thumbnail": "/images/locations/vice-city-02-1920.webp",
+  "image": "/images/locations/vice-city-02-1920.webp",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": [
+    "city",
+    "vice-city",
+    "leonida",
+    "metropolis",
+    "landmarks"
+  ],
+  "relatedEntityIds": [
+    "loc-malibu-club",
+    "loc-ocean-beach",
+    "char-lucia",
+    "char-jason",
+    "guide-100-completion"
+  ],
+  "sourceIds": [
+    "src-trailer-1",
+    "src-press-release-1"
+  ],
+  "firstPublishedAt": "2024-01-15T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Vice City: Map, Landmarks & Districts",
+    "description": "Detailed guide to Vice City in GTA VI. Discover verified districts, Ocean Drive landmarks, nightlife venues, and geographic layout across Leonida."
+  }
+}

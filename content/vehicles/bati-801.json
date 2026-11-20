@@ -1,0 +1,25 @@
+{
+  "id": "veh-bati-801",
+  "name": "Bati 801 Motorcycle",
+  "slug": "bati-801",
+  "category": "vehicles",
+  "aliases": [],
+  "summary": "High-performance Italian-style superbike. The fastest motorcycle in Leonida State. Lucia uses one for a Keys smuggler chase in trailer footage.",
+  "description": "The Pegassi Bati 801 returns to GTA VI as the premier superbike of Leonida State, drawing inspiration from the Ducati 848. Its aggressive Italian fairing, inline-four engine, and race-tuned suspension make it the fastest two-wheeled vehicle available. Lucia is confirmed riding one during a high-speed Keys smuggler chase sequence seen in trailer footage.",
+  "vehicleClass": "Motorcycle",
+  "manufacturer": "Pegassi",
+  "realWorldInspiration": "Ducati 848",
+  "thumbnail": "/images/cards/explore-activities.png",
+  "status": "published",
+  "verificationStatus": "confirmed",
+  "spoilerLevel": 0,
+  "tags": ["vehicles", "motorcycle", "pegassi", "superbike", "fast"],
+  "relatedEntityIds": [],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2026-11-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Bati 801 Motorcycle: Specs & Locations",
+    "description": "Full details on the Pegassi Bati 801 Motorcycle in GTA VI. Top speed, handling, and where to find the fastest superbike in Leonida State."
+  }
+}

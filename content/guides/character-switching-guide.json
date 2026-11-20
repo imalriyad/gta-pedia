@@ -1,0 +1,68 @@
+{
+  "id": "guide-switching",
+  "name": "Switching Between Jason and Lucia",
+  "slug": "character-switching-guide",
+  "category": "guides",
+  "aliases": [
+    "Character Switching",
+    "Jason and Lucia Switching"
+  ],
+  "summary": "How character switching works, when the story restricts it, and how to bring your partner along.",
+  "description": "Switching is a story-gated feature. Published launch guidance describes quick switching with the controller D-pad and inviting or splitting up with your partner through the character wheel. Story chapters can temporarily lock you to one protagonist, so do not treat a disabled prompt as a bug. The game’s official character profiles establish Jason and Lucia as the central pair, while the switching guide documents the controls.",
+  "difficulty": "Medium",
+  "estimatedTime": "15-20 Minutes to Master",
+  "requirements": [
+    "A supported controller or keyboard layout; use the prompts shown in your control settings.",
+    "Some story sequences temporarily restrict protagonist switching."
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Check whether switching is available",
+      "content": "During some story sequences, only the assigned protagonist can be controlled. In free roam, use the character wheel when the on-screen prompt is available.",
+      "tip": "If the option is unavailable, finish the current objective or story beat before trying again."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Quick-switch between protagonists",
+      "content": "Hold Right on the D-pad to open the character wheel, then press R1 to switch to the highlighted protagonist (PlayStation control layout). Use the equivalent controls shown in your platform’s control settings.",
+      "tip": "The on-screen prompt and Settings > Controls take precedence if your button mapping differs."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Invite or split up with your partner",
+      "content": "Hold Right on the D-pad and use Triangle to invite your partner or send them off on their own when the option is available.",
+      "tip": "Use partner commands only when the story/activity permits them; there is no verified general-purpose tactical order wheel."
+    }
+  ],
+  "commonMistakes": [
+    "Character switching is story-gated; a lock can be intentional.",
+    "Do not assume switching heals, slows time, shares equipment, or makes the inactive character invulnerable."
+  ],
+  "thumbnail": "/images/characters/lucia-caminos.jpg",
+  "image": "/images/hero/hero-banner.png",
+  "status": "published",
+  "verificationStatus": "community-reported",
+  "spoilerLevel": 1,
+  "tags": [
+    "guide",
+    "character-switching",
+    "lucia",
+    "jason"
+  ],
+  "relatedEntityIds": [
+    "char-lucia",
+    "char-jason",
+    "guide-100-completion"
+  ],
+  "sourceIds": [
+    "src-pushsquare-switching",
+    "src-rockstar-only-in-leonida"
+  ],
+  "firstPublishedAt": "2024-05-10T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Switching Between Jason and Lucia",
+    "description": "How character switching works, when the story restricts it, and how to bring your partner along."
+  }
+}

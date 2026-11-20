@@ -1,0 +1,41 @@
+{
+  "id": "fauna-dolphin",
+  "name": "Bottlenose Dolphin",
+  "slug": "bottlenose-dolphin",
+  "category": "wildlife",
+  "aliases": [
+    "Atlantic Bottlenose Dolphin",
+    "Leonida Dolphin"
+  ],
+  "summary": "Intelligent marine mammal inhabiting the turquoise coastal waters of Vice City beaches and the open channels of the Leonida Keys. Known to ride the bow waves of speedboats.",
+  "description": "Bottlenose Dolphins populate the ocean environments surrounding the Vice City coastline and the Keys archipelago. As seen in maritime sequences from official footage, pods of dolphins swim alongside yachts and high-speed watercraft. They interact dynamically with the water surface, occasionally jumping through wake lines.",
+  "habitat": "Ocean Beach, Biscayne Bay waters, Leonida Keys channels",
+  "threatLevel": "Harmless / Playful",
+  "drops": [],
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 0,
+  "tags": [
+    "wildlife",
+    "marine",
+    "dolphin",
+    "ocean-beach",
+    "keys",
+    "trailer-confirmed"
+  ],
+  "relatedEntityIds": [
+    "loc-ocean-beach",
+    "loc-leonida-keys",
+    "veh-speeder-boat"
+  ],
+  "sourceIds": [
+    "src-trailer-1"
+  ],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Bottlenose Dolphin: Marine Fauna",
+    "description": "Discover Bottlenose Dolphins in GTA VI. Coastal habits around Ocean Beach and the Keys, pod mechanics, and watercraft interactions."
+  },
+  "image": "https://images.cgames.de/images/gamestar/226/gta-6-tiere-delfin_6397322.jpg",
+  "thumbnail": "https://images.cgames.de/images/gamestar/226/gta-6-tiere-delfin_6397322.jpg"
+}

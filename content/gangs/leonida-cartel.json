@@ -1,0 +1,23 @@
+{
+  "id": "gang-leonida-cartel",
+  "name": "Leonida Cartel",
+  "slug": "leonida-cartel",
+  "category": "gangs",
+  "aliases": ["The Cartel","South American Network"],
+  "summary": "Powerful transnational drug cartel with deep roots in Leonida State. Controls the Keys smuggling routes and finances high-end Vice City operations through shell companies.",
+  "description": "The Leonida Cartel is the dominant criminal organization in GTA VI's world. Operating through legitimate-seeming businesses in Vice City and smuggling networks through the Leonida Keys, they represent both a threat and an opportunity for Lucia and Jason. Raul Bautista has historical cartel connections that complicate his loyalties. The cartel's Vice City leadership uses the Malibu Club area as a money laundering front.",
+  "territory": "Leonida Keys, Vice City financial district, international smuggling routes",
+  "knownMembers": ["Unnamed cartel bosses (trailer-confirmed)", "Connections to Raul Bautista"],
+  "rivalFactions": ["LCSO","FBI","Ambrosia Biker Gang"],
+  "status": "archived",
+  "verificationStatus": "speculation",
+  "spoilerLevel": 1,
+  "tags": ["gang","cartel","keys","vice-city","smuggling","drugs","main-antagonist"],
+  "relatedEntityIds": ["char-raul-bautista","loc-leonida-keys","loc-vice-city","loc-malibu-club"],
+  "sourceIds": ["src-trailer-1"],
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Leonida Cartel",
+    "description": "Full profile of the Leonida Cartel in GTA VI — their territory, operations, and connections to the main story."
+  }
+}

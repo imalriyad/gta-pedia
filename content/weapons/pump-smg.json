@@ -1,0 +1,26 @@
+{
+  "id": "wpn-pump-smg",
+  "name": "Pump SMG",
+  "slug": "pump-smg",
+  "category": "weapons",
+  "aliases": [],
+  "summary": "Compact machine pistol with high fire rate. Seen wielded by Boobie Ike's crew in indoor confrontation scenes from Trailer 2.",
+  "description": "The Pump SMG is a compact submachine gun inspired by the MP5K, featuring a folding stock, 30-round magazine, and an extremely high cyclic rate of fire. Seen in Trailer 2 wielded by members of Boobie Ike's crew during indoor confrontation sequences, its small profile makes it ideal for close-quarters combat while remaining concealable under clothing.",
+  "weaponClass": "SMG",
+  "capacity": "30 rounds",
+  "realWorldInspiration": "MP5K",
+  "thumbnail": "/images/cards/update-secret-ending.png",
+  "image": "/images/hero/hero-banner.png",
+  "status": "published",
+  "verificationStatus": "observed",
+  "spoilerLevel": 0,
+  "tags": ["smg", "compact", "automatic", "close-quarters"],
+  "relatedEntityIds": [],
+  "sourceIds": ["src-trailer-1"],
+  "firstPublishedAt": "2026-11-20T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Pump SMG: Stats & Locations",
+    "description": "Complete profile of the Pump SMG in GTA VI. Fire rate, damage, and where to find this compact machine pistol used by Boobie Ike's crew."
+  }
+}

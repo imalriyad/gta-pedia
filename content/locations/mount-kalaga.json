@@ -1,0 +1,58 @@
+{
+  "id": "loc-mount-kalaga",
+  "name": "Mount Kalaga National Park",
+  "slug": "mount-kalaga",
+  "category": "locations",
+  "aliases": [
+    "Mount Kalaga",
+    "Kalaga Wilderness",
+    "Northern Forests"
+  ],
+  "summary": "Leonida's mountainous northern wilderness featuring dense pine forests, treacherous off-road trails, whitewater rivers, and off-grid settlements.",
+  "description": "Rising high above the northern border of Leonida, Mount Kalaga National Park offers extreme verticality and wild wilderness. Winding mountain switchbacks, logging roads, fire lookouts, and cavern networks define the landscape. The backcountry is inhabited by wild game, survivalist off-gridders, and secluded meth lab operations hidden within remote forest clearings.",
+  "region": "State of Leonida",
+  "district": "Kalaga Highlands",
+  "locationType": "National Park & Mountain Range",
+  "landmarks": [
+    "Mount Kalaga Peak",
+    "Fire Lookout Tower 4",
+    "Timberline Gorge",
+    "Hidden Caverns"
+  ],
+  "businesses": [
+    "Kalaga Ranger Station",
+    "Backwoods Outfitters"
+  ],
+  "activities": [
+    "Big-Game Hunting",
+    "Off-Road Hill Climbing",
+    "Base Jumping",
+    "Wilderness Survival"
+  ],
+  "thumbnail": "/images/locations/mount-kalaga-01-1920.webp",
+  "image": "/images/locations/mount-kalaga-01-1920.webp",
+  "status": "published",
+  "verificationStatus": "official",
+  "spoilerLevel": 1,
+  "tags": [
+    "locations",
+    "mountains",
+    "forest",
+    "national-park",
+    "hunting",
+    "off-road"
+  ],
+  "relatedEntityIds": [
+    "loc-vice-city",
+    "loc-ambrosia"
+  ],
+  "sourceIds": [
+    "src-press-release-1"
+  ],
+  "firstPublishedAt": "2024-03-30T00:00:00Z",
+  "lastUpdatedAt": "2026-11-20",
+  "seo": {
+    "title": "Mount Kalaga National Park: Trails, Peaks & Hunting",
+    "description": "Guide to Mount Kalaga National Park in GTA VI. Northern mountains, off-road logging trails, wildlife hunting grounds, and hidden camps."
+  }
+}
