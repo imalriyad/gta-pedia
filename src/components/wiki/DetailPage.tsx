@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { BaseEntity } from "@/content/schemas/entity";
 import { getEntityById, getRelatedEntities, getSourcesForEntity } from "@/content/repositories";
 import { categoryMeta } from "@/lib/categories";
@@ -64,29 +65,26 @@ export function DetailPage({ entity }: { entity: BaseEntity }) {
   const visual = isCharacter ? (
     e.image ? (
       <div className="relative aspect-[4/5] w-full overflow-hidden border border-line bg-ink-3">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={e.image} alt={entity.name} className="h-full w-full object-contain" />
+        <Image src={e.image} alt={entity.name} fill sizes="(max-width: 1024px) 100vw, 50vw" quality={78} className="object-contain" />
         <div className="absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-ink/70 to-transparent" />
         <span className="absolute bottom-4 left-4 tag bg-ink/60 text-coral">Official portrait</span>
       </div>
     ) : null
   ) : isLocation && hasPhoto ? (
     <div className="relative aspect-[16/9] w-full overflow-hidden border border-line bg-ink-3">
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src={e.image} alt={entity.name} className="h-full w-full object-contain" />
+      <Image src={e.image} alt={entity.name} fill sizes="(max-width: 1024px) 100vw, 50vw" quality={78} className="object-contain" />
       <span className="absolute bottom-3 left-3 tag bg-ink/60 text-teal">Official still</span>
     </div>
   ) : entity.category === "wildlife" && wildlifeImage ? (
     <div className="relative aspect-[16/9] w-full overflow-hidden border border-line bg-ink-3">
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <FallbackImage src={wildlifeImage} alt={entity.name} fallbackSrc="/images/wildlife/american-black-bear.jpg" className="h-full w-full object-cover" />
+      <FallbackImage src={wildlifeImage} alt={entity.name} fallbackSrc="/images/wildlife/american-black-bear.jpg" sizes="(max-width: 1024px) 100vw, 50vw" className="object-cover" />
     </div>
   ) : isVehicle ? (
     <div className="relative aspect-[16/9] w-full overflow-hidden border border-line bg-[#2c2853]">
       <div className="absolute inset-0 grid-lines opacity-40" />
       {hasPhoto ? (
-        // eslint-disable-next-line @next/next/no-img-element
-        <img src={e.image} alt={entity.name} className="relative h-full w-full object-contain" />
+        <Image src={e.image} alt={entity.name} fill sizes="(max-width: 1024px) 100vw, 50vw" quality={78} className="object-contain" />
       ) : (
         <div className="absolute inset-0 flex items-center justify-center px-12 text-gold/70">
           <VehicleSilhouette kind={e.vehicleClass || ""} className="max-h-[75%]" />
@@ -104,8 +102,7 @@ export function DetailPage({ entity }: { entity: BaseEntity }) {
   ) : isWeapon ? (
     <div className="relative aspect-[3/2] w-full overflow-hidden border border-line bg-[#2c2853]">
       {e.image || e.thumbnail ? (
-        // eslint-disable-next-line @next/next/no-img-element
-        <img src={e.image || e.thumbnail} alt={entity.name} className="h-full w-full object-cover" />
+        <Image src={e.image || e.thumbnail} alt={entity.name} fill sizes="(max-width: 1024px) 100vw, 50vw" quality={72} className="object-cover" />
       ) : (
         <>
           <div className="absolute inset-0 grid-lines opacity-40" />

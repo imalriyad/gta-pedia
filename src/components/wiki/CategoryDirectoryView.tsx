@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useMemo, useState } from "react";
+import Image from "next/image";
 import Link from "next/link";
 import clsx from "clsx";
 import { Search, SlidersHorizontal, X } from "lucide-react";
@@ -76,11 +77,13 @@ export function CategoryDirectoryView({
       <header className="relative overflow-hidden border-b border-line">
         {isVisual && meta.image ? (
           <>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
+            <Image
               src={meta.image}
               alt=""
-              className="absolute inset-0 h-full w-full object-cover opacity-35"
+              fill
+              sizes="100vw"
+              quality={68}
+              className="object-cover opacity-35"
             />
             <div className="absolute inset-0 bg-gradient-to-r from-ink via-ink/85 to-ink/20" />
             <div className="absolute inset-0 bg-gradient-to-t from-ink via-transparent to-ink/40" />

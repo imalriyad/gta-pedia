@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import clsx from "clsx";
 import { ArrowUpRight } from "lucide-react";
 import { VerificationTag } from "@/components/ui/VerificationTag";
@@ -34,11 +35,12 @@ export function CharacterCard({ item, index }: { item: Entity; index: number }) 
     >
       <div className="relative aspect-[4/5] w-full overflow-hidden bg-ink-3">
         {src ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
+          <Image
             src={src}
             alt={item.name}
-            loading="lazy"
+            fill
+            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+            quality={72}
             className="h-full w-full object-cover transition-transform duration-[1.1s] ease-cinema group-hover:scale-[1.035]"
           />
         ) : (
@@ -81,11 +83,12 @@ export function LocationCard({ item, index }: { item: Entity; index: number }) {
     >
       <div className="relative aspect-[16/9] overflow-hidden bg-ink-3">
         {src && (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
+          <Image
             src={src}
             alt={item.name}
-            loading="lazy"
+            fill
+            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+            quality={72}
             className="h-full w-full object-cover transition-transform duration-[1.1s] ease-cinema group-hover:scale-[1.035]"
           />
         )}
@@ -121,11 +124,12 @@ export function VehicleCard({ item, index }: { item: Entity; index: number }) {
       <div className="relative aspect-[16/9] overflow-hidden border-b border-line bg-[#2c2853]">
         <div className="absolute inset-0 grid-lines opacity-40" />
         {hasPhoto ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
-            src={item.image}
+          <Image
+            src={item.image!}
             alt={item.name}
-            loading="lazy"
+            fill
+            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+            quality={72}
             className="relative h-full w-full object-contain transition-transform duration-[1.1s] ease-cinema group-hover:scale-[1.02]"
           />
         ) : (
@@ -172,8 +176,7 @@ export function WeaponCard({ item, index }: { item: Entity; index: number }) {
     >
       <div className="relative aspect-[3/2] overflow-hidden border-b border-line bg-[#2c2853]">
         {src ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img src={src} alt={item.name} loading="lazy" className="h-full w-full object-cover transition-transform duration-[1.1s] ease-cinema group-hover:scale-[1.035]" />
+          <Image src={src} alt={item.name} fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" quality={72} className="object-cover transition-transform duration-[1.1s] ease-cinema group-hover:scale-[1.035]" />
         ) : (
           <>
             <div className="absolute inset-0 grid-lines opacity-40" />
@@ -274,7 +277,7 @@ export function GenericCard({ item, index }: { item: Entity; index: number }) {
       {image ? (
         <div className="relative aspect-[16/9] overflow-hidden bg-ink-3">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <FallbackImage src={image} alt={item.name} loading="lazy" fallbackSrc={item.category === "wildlife" ? "/images/wildlife/american-black-bear.jpg" : undefined} className="h-full w-full object-cover transition-transform duration-[1.1s] ease-cinema group-hover:scale-[1.035]" />
+          <FallbackImage src={image} alt={item.name} fallbackSrc={item.category === "wildlife" ? "/images/wildlife/american-black-bear.jpg" : undefined} sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw" className="object-cover transition-transform duration-[1.1s] ease-cinema group-hover:scale-[1.035]" />
           <div className="absolute inset-0 bg-gradient-to-t from-ink/80 via-transparent to-transparent" />
           <span className="absolute bottom-3 left-4 eyebrow" style={{ color: meta.accent }}>{meta.label}</span>
           <span className="absolute right-3 top-3 mono text-[9px] text-paper/75">{String(index + 1).padStart(2, "0")}</span>

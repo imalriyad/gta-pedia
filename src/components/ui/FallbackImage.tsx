@@ -1,6 +1,7 @@
 "use client";
 
 import { SyntheticEvent } from "react";
+import Image from "next/image";
 
 interface FallbackImageProps {
   src: string;
@@ -8,17 +9,19 @@ interface FallbackImageProps {
   className?: string;
   loading?: "eager" | "lazy";
   fallbackSrc?: string;
+  sizes?: string;
 }
 
-export function FallbackImage({ src, alt, className, loading, fallbackSrc }: FallbackImageProps) {
+export function FallbackImage({ src, alt, className, loading = "lazy", fallbackSrc, sizes = "(max-width: 768px) 100vw, 50vw" }: FallbackImageProps) {
   function handleError(event: SyntheticEvent<HTMLImageElement>) {
     const image = event.currentTarget;
-    if (fallbackSrc && image.src !== new URL(fallbackSrc, window.location.href).href) {
+    if (fallbackSrc && image.dataset.fallbackApplied !== "true") {
+      image.dataset.fallbackApplied = "true";
       image.src = fallbackSrc;
     } else {
       image.hidden = true;
     }
   }
 
-  return <img src={src} alt={alt} className={className} loading={loading} onError={handleError} />;
+  return <Image src={src} alt={alt} fill sizes={sizes} quality={72} className={className} loading={loading} onError={handleError} />;
 }

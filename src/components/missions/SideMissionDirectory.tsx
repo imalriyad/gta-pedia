@@ -1,9 +1,8 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
-import { Check, ExternalLink, Search } from "lucide-react";
+import { Check, Search } from "lucide-react";
 
 type SideMission = {
   id: string;
@@ -15,15 +14,14 @@ type SideMission = {
   reward: string;
   image: string;
   missable?: string;
-  sources: { label: string; href: string }[];
 };
 
 const missions: SideMission[] = [
-  { id: "buy-flowers", title: "Buy Flowers", character: "Jason", giver: "Lucia Caminos", place: "Key Lento", summary: "Pick a bouquet from a flower vendor for Lucia.", reward: "Relationship increase", image: "/images/locations/leonida-keys/leonida-keys-03-1200.webp", sources: [{ label: "GTABase walkthrough", href: "https://www.gtabase.com/gta-6/strangers/buy-flowers" }] },
-  { id: "buy-lucia-a-necklace", title: "Buy Lucia a Necklace", character: "Jason", giver: "Lucia Caminos", place: "The Siren’s Chest · Key Lento", summary: "Order Lucia a custom necklace at the jewelry store.", reward: "$475 purchase · relationship increase", image: "/images/locations/leonida-keys/leonida-keys-01-1200.webp", sources: [{ label: "PowerPyx walkthrough", href: "https://www.powerpyx.com/gta-6-buy-lucia-a-necklace-walkthrough/" }] },
-  { id: "get-shirleys-rum", title: "Get Shirley’s Rum", character: "Jason", giver: "Shirley", place: "Three Sheets Liquor · Key Lento", summary: "Fetch a bottle of rum for Jason’s neighbor and bring it back.", reward: "Focus and Professional Criminal rating increase", image: "/images/locations/leonida-keys/leonida-keys-04-1200.webp", missable: "Reported missable after the Chapter 1 story advances to Tourist Trap.", sources: [{ label: "GTA Scoop walkthrough", href: "https://gtascoop.com/walkthrough/get-shirleys-rum/" }] },
-  { id: "get-the-chop", title: "Get The Chop", character: "Jason", giver: "Lucia Caminos", place: "Barnacle Beauties · Key Lento", summary: "Visit the barber before Lucia returns and choose a fresh haircut or beard trim.", reward: "Relationship increase", image: "/images/characters/jason-duval/jason-duval-02-1200.webp", sources: [{ label: "GTA Scoop walkthrough", href: "https://gtascoop.com/walkthrough/get-the-chop/" }] },
-  { id: "pick-up-groceries", title: "Pick Up Groceries", character: "Jason", giver: "Lucia Caminos", place: "Key Lento", summary: "Choose groceries at the marked store and bring the bag back home.", reward: "Relationship increase", image: "/images/characters/jason-duval/jason-duval-01-1200.webp", sources: [{ label: "PowerPyx walkthrough", href: "https://www.powerpyx.com/gta-6-pick-up-groceries-walkthrough/" }] },
+  { id: "buy-flowers", title: "Buy Flowers", character: "Jason", giver: "Lucia Caminos", place: "Key Lento", summary: "Pick a bouquet from a flower vendor for Lucia.", reward: "Relationship increase", image: "/images/locations/leonida-keys/leonida-keys-03-1200.webp" },
+  { id: "buy-lucia-a-necklace", title: "Buy Lucia a Necklace", character: "Jason", giver: "Lucia Caminos", place: "The Siren’s Chest · Key Lento", summary: "Order Lucia a custom necklace at the jewelry store.", reward: "$475 purchase · relationship increase", image: "/images/locations/leonida-keys/leonida-keys-01-1200.webp" },
+  { id: "get-shirleys-rum", title: "Get Shirley’s Rum", character: "Jason", giver: "Shirley", place: "Three Sheets Liquor · Key Lento", summary: "Fetch a bottle of rum for Jason’s neighbor and bring it back.", reward: "Focus and Professional Criminal rating increase", image: "/images/locations/leonida-keys/leonida-keys-04-1200.webp", missable: "Reported missable after the Chapter 1 story advances to Tourist Trap." },
+  { id: "get-the-chop", title: "Get The Chop", character: "Jason", giver: "Lucia Caminos", place: "Barnacle Beauties · Key Lento", summary: "Visit the barber before Lucia returns and choose a fresh haircut or beard trim.", reward: "Relationship increase", image: "/images/characters/jason-duval/jason-duval-02-1200.webp" },
+  { id: "pick-up-groceries", title: "Pick Up Groceries", character: "Jason", giver: "Lucia Caminos", place: "Key Lento", summary: "Choose groceries at the marked store and bring the bag back home.", reward: "Relationship increase", image: "/images/characters/jason-duval/jason-duval-01-1200.webp" },
 ];
 
 const storageKey = "gta6pedia-side-mission-progress";
@@ -71,12 +69,11 @@ export function SideMissionDirectory() {
           {mission.missable && <p className="mt-3 border-l-2 border-sun pl-2 text-[10px] leading-relaxed text-sun">Missable note: {mission.missable}</p>}
           <div className="mt-auto flex flex-wrap items-center justify-between gap-3 pt-4">
             <button onClick={() => toggle(mission.id)} aria-pressed={done.includes(mission.id)} className={`inline-flex items-center gap-2 border px-3 py-2 text-[10px] transition-colors ${done.includes(mission.id) ? "border-teal/50 bg-teal/10 text-teal" : "border-line text-muted hover:border-teal/50 hover:text-paper"}`}><Check className="h-3.5 w-3.5"/>{done.includes(mission.id) ? "Done" : "Mark done"}</button>
-            {mission.sources.map((source) => <Link key={source.href} href={source.href} target="_blank" rel="noreferrer" className="inline-flex items-center gap-1 text-[9px] uppercase tracking-wider text-coral hover:text-paper">{source.label}<ExternalLink className="h-3 w-3"/></Link>)}
           </div>
         </div>
       </article>)}
       {!visible.length && <p className="col-span-full border border-line p-10 text-center text-sm text-muted">No side missions match that search.</p>}
     </div>
-    <p className="mt-5 text-[10px] leading-relaxed text-faint">This page is a growing, community-sourced side-mission index. Mission availability and rewards can depend on story progress; follow the linked walkthroughs and confirm the in-game mission state.</p>
+    <p className="mt-5 text-[10px] leading-relaxed text-faint">This page is a growing side-mission index. Mission availability and rewards can depend on story progress; confirm the in-game mission state as you play.</p>
   </>;
 }

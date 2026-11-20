@@ -62,12 +62,7 @@ export function Navbar({ onOpenSearch }: { onOpenSearch: () => void }) {
               <div className="mb-3 flex items-center justify-between px-1 pt-1"><span className="eyebrow">GTA6Pedia · The ultimate GTA VI encyclopedia</span><span className="mono text-[9px] text-faint">{wikiCategories.length} sections</span></div>
               <div className="grid grid-cols-2 gap-2 sm:grid-cols-4">
                 {wikiCategories.map((item) => <Link key={item.href} href={item.href} onClick={() => setActiveMenu(null)} className={clsx("group relative aspect-video overflow-hidden rounded-xl border border-line bg-ink-2", isActive(item.href) && "border-gold")}>
-                  {item.image.startsWith("http") ? (
-                    // eslint-disable-next-line @next/next/no-img-element
-                    <img src={item.image} alt="" className="absolute inset-0 h-full w-full object-cover opacity-65 transition duration-500 group-hover:scale-[1.04] group-hover:opacity-90" />
-                  ) : (
-                    <Image src={item.image} alt="" fill sizes="(max-width: 960px) 30vw, 300px" className="object-cover opacity-65 transition duration-500 group-hover:scale-[1.04] group-hover:opacity-90" />
-                  )}
+                  <Image src={item.image} alt="" fill sizes="(max-width: 960px) 30vw, 300px" quality={68} className="object-cover opacity-65 transition duration-500 group-hover:scale-[1.04] group-hover:opacity-90" />
                   <span className="absolute inset-0 bg-gradient-to-t from-ink via-ink/20 to-transparent" />
                   <span className={clsx("absolute bottom-2 left-2 font-display text-sm sm:text-base", isActive(item.href) ? "text-gold" : "text-paper group-hover:text-gold")}>{item.label}</span>
                 </Link>)}
