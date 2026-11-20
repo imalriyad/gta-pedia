@@ -3,9 +3,10 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   reactStrictMode: true,
   images: {
-    formats: ["image/avif", "image/webp"],
-    deviceSizes: [360, 414, 640, 750, 828, 1080, 1200, 1920],
-    imageSizes: [48, 64, 96, 128, 256, 384],
+    // Cloudflare is serving this app as static assets, so Next's runtime image
+    // optimizer endpoint is unavailable there. Serve the prepared local WebP
+    // assets and remote originals directly instead of emitting broken /_next/image URLs.
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: "https",
