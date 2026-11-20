@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
@@ -43,7 +43,45 @@ export function Navbar({ onOpenSearch }: { onOpenSearch: () => void }) {
   const pathname = usePathname();
   const [activeMenu, setActiveMenu] = useState<string | null>(null);
   const [mobileOpen, setMobileOpen] = useState(false);
+  const mobileMenuButtonRef = useRef<HTMLButtonElement>(null);
   const isActive = (href: string) => href === "/" ? pathname === "/" : pathname.startsWith(href);
+
+  useEffect(() => {
+    if (!mobileOpen) return;
+
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    mobileMenuButtonRef.current?.focus();
+
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === "Escape") {
+        setMobileOpen(false);
+        mobileMenuButtonRef.current?.focus();
+      }
+
+      if (event.key === "Tab") {
+        const focusable = document.querySelectorAll<HTMLElement>(
+          "[aria-controls='mobile-navigation'], #mobile-navigation a[href], #mobile-navigation button:not([disabled])",
+        );
+        const first = focusable[0];
+        const last = focusable[focusable.length - 1];
+        if (!first || !last) return;
+        if (event.shiftKey && document.activeElement === first) {
+          event.preventDefault();
+          last.focus();
+        } else if (!event.shiftKey && document.activeElement === last) {
+          event.preventDefault();
+          first.focus();
+        }
+      }
+    };
+
+    document.addEventListener("keydown", handleKeyDown);
+    return () => {
+      document.body.style.overflow = previousOverflow;
+      document.removeEventListener("keydown", handleKeyDown);
+    };
+  }, [mobileOpen]);
 
   const menuButton = (label: string, key: string) => (
     <button onClick={() => setActiveMenu(activeMenu === key ? null : key)} aria-expanded={activeMenu === key} className={clsx("flex items-center gap-1 px-4 py-2 text-[15px] transition-colors", activeMenu === key ? "text-paper" : "text-paper/75 hover:text-paper")}>
@@ -91,14 +129,13 @@ export function Navbar({ onOpenSearch }: { onOpenSearch: () => void }) {
         <div className="flex items-center gap-2">
           <button onClick={onOpenSearch} className="flex h-9 items-center gap-2 border border-line px-2.5 text-muted transition-colors hover:border-paper/40 hover:text-paper sm:px-3" aria-label="Search the archive"><Search className="h-3.5 w-3.5"/><span className="hidden font-mono text-[9px] uppercase tracking-[0.14em] sm:inline">Search</span><kbd className="hidden border border-line px-1 py-0.5 font-mono text-[8px] text-faint md:inline">⌘K</kbd></button>
           <Link href="/editions" className="btn btn-coral hidden h-9 min-h-0 px-3 text-[9px] md:inline-flex">Editions</Link>
-          <button onClick={() => setMobileOpen(true)} className="grid h-9 w-9 place-items-center text-paper lg:hidden" aria-label="Open menu"><Menu className="h-5 w-5"/></button>
+          <button ref={mobileMenuButtonRef} onClick={() => setMobileOpen((open) => !open)} className="grid h-10 w-10 place-items-center border border-line text-paper transition-colors hover:bg-paper/10 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-coral lg:hidden" aria-label={mobileOpen ? "Close navigation menu" : "Open navigation menu"} aria-expanded={mobileOpen} aria-controls="mobile-navigation">{mobileOpen ? <X className="h-5 w-5"/> : <Menu className="h-5 w-5"/>}</button>
         </div>
       </div>
     </header>
 
-    {mobileOpen && <div className="fixed inset-0 z-[65] overflow-y-auto bg-ink lg:hidden">
-      <div className="flex items-center justify-between border-b border-line px-5 py-4"><Logo/><button onClick={() => setMobileOpen(false)} className="grid h-10 w-10 place-items-center border border-line text-paper" aria-label="Close menu"><X className="h-5 w-5"/></button></div>
-      <div className="px-5 py-7">
+    {mobileOpen && <div id="mobile-navigation" role="dialog" aria-modal="true" aria-label="Site navigation" className="fixed inset-x-0 bottom-0 top-[72px] z-[190] overflow-y-auto overscroll-contain border-t border-line bg-ink lg:hidden">
+      <div className="px-5 py-5">
         <span className="eyebrow">Wiki</span><div className="mt-3 grid grid-cols-2 gap-x-5">{wikiCategories.map((item, i) => <Link key={item.href} href={item.href} onClick={() => setMobileOpen(false)} className="flex items-center justify-between border-b border-line py-3 font-display text-base text-paper"><span>{item.label}</span><span className="mono text-[8px] text-faint">{String(i + 1).padStart(2, "0")}</span></Link>)}</div>
         <span className="eyebrow mt-8 block">Tools</span><div className="mt-3 grid grid-cols-2 gap-x-5">{toolLinks.slice(0, 3).map((item) => <Link key={item.href} href={item.href} onClick={() => setMobileOpen(false)} className="border-b border-line py-3 font-display text-base text-paper">{item.label}</Link>)}</div>
         <span className="eyebrow mt-8 block">Missions</span><div className="mt-3 grid grid-cols-2 gap-x-5">{missionLinks.map((item) => <Link key={item.href} href={item.href} onClick={() => setMobileOpen(false)} className="border-b border-line py-3 font-display text-base text-paper">{item.label}</Link>)}</div>

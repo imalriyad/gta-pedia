@@ -97,7 +97,7 @@ export default function HomePage() {
   return (
     <div>
       {/* ————————————————————— HERO ————————————————————— */}
-      <section className="relative isolate min-h-[calc(100svh-72px)] overflow-hidden bg-[#211735]">
+      <section className="relative isolate min-h-[min(560px,calc(100svh-72px))] overflow-hidden bg-[#211735] sm:min-h-[min(700px,calc(100svh-72px))] lg:min-h-[calc(100svh-72px)]">
           <Image
             src="/images/hero/gta6pedia-leonida-hero.jpg"
             alt="Lucia and Jason in Leonida at sunset, with a car and roadside storefront"
@@ -116,7 +116,7 @@ export default function HomePage() {
           />
           <div className="absolute inset-0 z-10 bg-[linear-gradient(90deg,rgba(29,11,27,.96)_0%,rgba(39,15,38,.86)_27%,rgba(43,18,43,.60)_43%,rgba(35,15,42,.22)_63%,transparent_82%)]" />
           <div className="absolute inset-0 z-10 bg-[linear-gradient(0deg,rgba(27,12,29,.46)_0%,transparent_22%,transparent_82%,rgba(32,14,36,.16)_100%)]" />
-          <div className="container-x relative z-20 flex min-h-[calc(100svh-72px)] items-center py-10">
+          <div className="container-x relative z-20 flex min-h-[min(560px,calc(100svh-72px))] items-center py-7 sm:min-h-[min(700px,calc(100svh-72px))] sm:py-10 lg:min-h-[calc(100svh-72px)]">
             <div className="w-full max-w-3xl">
               <p className="eyebrow text-sun">GTA6Pedia · The Ultimate GTA VI Encyclopedia</p>
               <h1 className="mt-3 display text-[clamp(2.4rem,5.4vw,4.6rem)] leading-[.95] text-paper">
@@ -147,21 +147,22 @@ export default function HomePage() {
 
       {/* ————————————————————— INDEX ————————————————————— */}
       <section className="border-b border-line">
-        <div className="container-x py-14 md:py-20">
+        <div className="container-x py-8 sm:py-14 md:py-20">
           <SectionHead
             index="01 / 08"
             eyebrow="The index"
             title={
               <>
                 Sixteen chapters.
-                <br />
+                <br className="hidden sm:block" />
                 One state.
               </>
             }
             dek="The archive is organised like a field manual: people, places, machines, then everything in the margins."
+            className="gap-3 pb-3 [&_h2]:mt-1 [&_h2]:text-[1.65rem] [&_p]:mt-1 [&_p]:text-[11px] sm:[&_h2]:text-[clamp(1.7rem,3.4vw,2.6rem)] sm:[&_p]:text-[13px]"
           />
 
-          <div className="mt-8 grid gap-x-10 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-3 grid grid-cols-2 gap-x-3 sm:mt-8 sm:gap-x-10 lg:grid-cols-3">
             {DATABASE_KEYS.map((key) => {
               const meta = categoryMeta(key);
               const IndexIcon = INDEX_ICONS[key] || BookOpen;
@@ -182,14 +183,14 @@ export default function HomePage() {
                 <Link
                   key={key}
                   href={meta.href}
-                  className="group flex items-baseline justify-between gap-4 border-b border-line-soft py-4 transition-colors hover:border-paper/40"
+                  className="group flex min-w-0 items-baseline justify-between gap-2 border-b border-line-soft py-3 transition-colors hover:border-paper/40 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-coral sm:gap-4 sm:py-4"
                 >
-                  <span className="flex min-w-0 items-baseline gap-4">
-                    <span className="mono text-[9px] tracking-[0.14em] text-faint">
+                  <span className="flex min-w-0 items-baseline gap-2 sm:gap-4">
+                    <span className="mono shrink-0 text-[8px] tracking-[0.1em] text-faint sm:text-[9px] sm:tracking-[0.14em]">
                       {meta.index}
                     </span>
-                    <IndexIcon className="h-4 w-4 shrink-0 translate-y-0.5 text-[#ec73d3] transition-colors group-hover:text-coral" aria-hidden="true" />
-                    <span className="font-display text-[19px] font-medium tracking-tight text-paper transition-colors group-hover:text-coral">
+                    <IndexIcon className="h-3.5 w-3.5 shrink-0 translate-y-0.5 text-[#ec73d3] transition-colors group-hover:text-coral sm:h-4 sm:w-4" aria-hidden="true" />
+                    <span className="min-w-0 font-display text-[13px] font-medium leading-tight tracking-tight text-paper transition-colors group-hover:text-coral sm:text-[19px]">
                       {meta.label}
                     </span>
                   </span>
@@ -199,7 +200,7 @@ export default function HomePage() {
                         {count}
                       </span>
                     )}
-                    <ArrowUpRight className="h-3.5 w-3.5 text-faint transition-all group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:text-coral" />
+                    <ArrowUpRight className="h-3 w-3 text-faint transition-all group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:text-coral sm:h-3.5 sm:w-3.5" />
                   </span>
                 </Link>
               );
@@ -210,7 +211,7 @@ export default function HomePage() {
 
       {/* ————————————————————— CAST ————————————————————— */}
       <section className="border-b border-line">
-        <div className="container-x py-14 md:py-20">
+        <div className="container-x py-8 sm:py-14 md:py-20">
           <SectionHead
             index="02 / 08"
             eyebrow="The cast"
