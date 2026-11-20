@@ -10,6 +10,7 @@ import { GalleryGrid } from "@/components/ui/Gallery";
 import { Breadcrumbs } from "./Breadcrumbs";
 import { ArrowUpRight, ArrowLeft } from "lucide-react";
 import { formatDate } from "@/lib/utils";
+import { FallbackImage } from "@/components/ui/FallbackImage";
 
 const EVIDENCE_NOTE: Record<string, string> = {
   official: "Stated or published by Rockstar Games.",
@@ -78,7 +79,7 @@ export function DetailPage({ entity }: { entity: BaseEntity }) {
   ) : entity.category === "wildlife" && wildlifeImage ? (
     <div className="relative aspect-[16/9] w-full overflow-hidden border border-line bg-ink-3">
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src={wildlifeImage} alt={entity.name} onError={(event) => { event.currentTarget.src = "/images/wildlife/american-black-bear.jpg"; }} className="h-full w-full object-cover" />
+      <FallbackImage src={wildlifeImage} alt={entity.name} fallbackSrc="/images/wildlife/american-black-bear.jpg" className="h-full w-full object-cover" />
     </div>
   ) : isVehicle ? (
     <div className="relative aspect-[16/9] w-full overflow-hidden border border-line bg-[#2c2853]">

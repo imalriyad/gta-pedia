@@ -4,6 +4,7 @@ import { ArrowUpRight } from "lucide-react";
 import { VerificationTag } from "@/components/ui/VerificationTag";
 import { VehicleSilhouette, WeaponSilhouette } from "@/components/ui/Silhouettes";
 import { categoryMeta } from "@/lib/categories";
+import { FallbackImage } from "@/components/ui/FallbackImage";
 
 type Entity = {
   id: string;
@@ -273,7 +274,7 @@ export function GenericCard({ item, index }: { item: Entity; index: number }) {
       {image ? (
         <div className="relative aspect-[16/9] overflow-hidden bg-ink-3">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={image} alt={item.name} loading="lazy" onError={(event) => { event.currentTarget.src = "/images/wildlife/american-black-bear.jpg"; }} className="h-full w-full object-cover transition-transform duration-[1.1s] ease-cinema group-hover:scale-[1.035]" />
+          <FallbackImage src={image} alt={item.name} loading="lazy" fallbackSrc={item.category === "wildlife" ? "/images/wildlife/american-black-bear.jpg" : undefined} className="h-full w-full object-cover transition-transform duration-[1.1s] ease-cinema group-hover:scale-[1.035]" />
           <div className="absolute inset-0 bg-gradient-to-t from-ink/80 via-transparent to-transparent" />
           <span className="absolute bottom-3 left-4 eyebrow" style={{ color: meta.accent }}>{meta.label}</span>
           <span className="absolute right-3 top-3 mono text-[9px] text-paper/75">{String(index + 1).padStart(2, "0")}</span>
